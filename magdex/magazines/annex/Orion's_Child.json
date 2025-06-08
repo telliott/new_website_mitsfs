@@ -1,0 +1,22 @@
+{
+   "alternate" : [],
+   "box" : "23",
+   "grid" : "MONTH",
+   "name" : "Orion's Child",
+   "years" : {
+      "1984" : [
+         {
+            "date" : "May",
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Jul",
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

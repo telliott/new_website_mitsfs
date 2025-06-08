@@ -1,0 +1,27 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "MONTH",
+   "name" : "Argosy",
+   "years" : {
+      "1990" : [
+         {
+            "date" : "May",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Aug",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

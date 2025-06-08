@@ -1,0 +1,149 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "ISSUES",
+   "name" : "Utopia Kriminal",
+   "years" : {
+      "1956" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1957" : [
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "22",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1958" : [
+         {
+            "issue" : "27",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

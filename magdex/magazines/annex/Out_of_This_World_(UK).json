@@ -1,0 +1,22 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "ISSUES",
+   "name" : "Out of This World (UK)",
+   "years" : {
+      "1954" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1955" : [
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "4",
+   "grid" : "ISSUES",
+   "name" : "Orphia",
+   "years" : {
+      "1990" : [
+         {
+            "issue" : "1 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

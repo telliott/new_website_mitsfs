@@ -1,0 +1,19 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Fantastic Science Fiction",
+   "years" : {
+      "1952" : [
+         {
+            "date" : "Aug",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

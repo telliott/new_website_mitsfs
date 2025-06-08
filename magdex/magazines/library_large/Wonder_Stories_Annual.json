@@ -1,0 +1,35 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Wonder Stories Annual",
+   "years" : {
+      "1950" : [
+         {
+			"volume": "1",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1951" : [
+         {
+			"volume": "1",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+			"volume": "1",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+			"volume": "2",
+            "issue" : "1 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

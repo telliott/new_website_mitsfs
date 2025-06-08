@@ -1,0 +1,54 @@
+{
+   "alternate" : [],
+   "box" : "16",
+   "grid" : "MONTH",
+   "name" : "Girl From UNCLE",
+   "years" : {
+      "1966" : [
+         {
+            "date" : "Dec",
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr",
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Jun",
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Aug",
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Oct",
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,49 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Science Fiction Greats",
+   "years" : {
+      "1969" : [
+         {
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ],
+      "1970" : [
+         {
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "18",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "19",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "20",
+            "status" : "OWNED"
+         }
+      ],
+      "1971" : [
+         {
+            "issue" : "21",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

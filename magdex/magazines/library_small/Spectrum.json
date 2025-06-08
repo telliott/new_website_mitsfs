@@ -1,0 +1,58 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Spectrum",
+   "years" : {
+      "2000" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Feb",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "May",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "9",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

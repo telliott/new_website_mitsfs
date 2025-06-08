@@ -1,0 +1,72 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "name" : "Arkham Collector",
+   "years" : {
+      "1967" : [
+         {
+            "date" : "Summer",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Winter",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1969" : [
+         {
+            "date" : "Winter",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "Winter",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Winter",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

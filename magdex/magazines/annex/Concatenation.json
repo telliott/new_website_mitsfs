@@ -1,0 +1,85 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "ISSUES",
+   "name" : "Concatenation",
+   "years" : {
+      "1987" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1988" : [
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1990" : [
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1991" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1994" : [
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1995" : [
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1996" : [
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1997" : [
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

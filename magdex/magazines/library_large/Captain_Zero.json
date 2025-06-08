@@ -1,0 +1,26 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Captain Zero",
+   "years" : {
+      "1949" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1950" : [
+         {
+            "date" : "Jan",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

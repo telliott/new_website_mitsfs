@@ -1,0 +1,35 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Pulsar",
+   "years" : {
+      "1989" : [
+         {
+            "date" : "Winter",
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "14",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "15",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

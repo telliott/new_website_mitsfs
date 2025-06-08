@@ -1,0 +1,401 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Planet Stories",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1939" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1940" : [
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "9",
+            "status" : "BOUND"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Spring",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "13",
+            "status" : "BOUND"
+         }
+      ],
+      "1943" : [
+         {
+            "date" : "Mar",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "17",
+            "status" : "BOUND"
+         }
+      ],
+      "1944" : [
+         {
+            "date" : "Spring",
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "19",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "21",
+            "status" : "BOUND"
+         }
+      ],
+      "1945" : [
+         {
+            "date" : "Spring",
+            "issue" : "22",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "23",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "25",
+            "status" : "BOUND"
+         }
+      ],
+      "1946" : [
+         {
+            "date" : "Spring",
+            "issue" : "26",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "27",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "28",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "29",
+            "status" : "BOUND"
+         }
+      ],
+      "1947" : [
+         {
+            "date" : "Spring",
+            "issue" : "30",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "31",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "32",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "33",
+            "status" : "BOUND"
+         }
+      ],
+      "1948" : [
+         {
+            "date" : "Spring",
+            "issue" : "34",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "35",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "36",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "37",
+            "status" : "BOUND"
+         }
+      ],
+      "1949" : [
+         {
+            "date" : "Spring",
+            "issue" : "38",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "39",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "40",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "41",
+            "status" : "BOUND"
+         }
+      ],
+      "1950" : [
+         {
+            "date" : "Spring",
+            "issue" : "42",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "43",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "44",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "45",
+            "status" : "BOUND"
+         }
+      ],
+      "1951" : [
+         {
+            "date" : "Jan",
+            "issue" : "46",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "47",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "48",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "49",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "50",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "51",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "date" : "Jan",
+            "issue" : "52",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "53",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "54",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "55",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "56",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "57",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Jan",
+            "issue" : "58",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "59",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "60",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "61",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "62",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "63",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "issue" : "64",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "65",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "66",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "67",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "68",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "69",
+            "status" : "BOUND"
+         }
+      ],
+      "1955" : [
+         {
+            "date" : "Spring",
+            "issue" : "70",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "71",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

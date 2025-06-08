@@ -1,0 +1,51 @@
+{
+   "alternate" : ["Rune"],
+   "box" : "2",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Starwind",
+   "years" : {
+      "1974" : [
+         {
+            "date" : "Fall",
+            "volume": "1",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1976" : [
+         {
+            "date" : "Spring",
+            "volume": "1",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "volume": "2",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1977" : [
+         {
+            "date" : "Fall",
+            "volume": "2",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1978" : [
+         {
+            "date" : "Fall",
+            "volume": "3",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

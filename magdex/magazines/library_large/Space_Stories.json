@@ -1,0 +1,36 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Space Stories",
+   "years" : {
+      "1952" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "5",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

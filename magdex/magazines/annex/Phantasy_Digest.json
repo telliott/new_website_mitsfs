@@ -1,0 +1,27 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "ISSUES",
+   "name" : "Phantasy Digest",
+   "years" : {
+      "1976" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

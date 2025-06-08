@@ -1,0 +1,33 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Gamma",
+   "years" : {
+      "1963" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1964" : [
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1965" : [
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "5 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Haunt of Horror",
+   "years" : {
+      "1973" : [
+         {
+            "date" : "Jun",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

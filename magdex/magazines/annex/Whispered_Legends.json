@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "ISSUES",
+   "name" : "Whispered Legends",
+   "years" : {
+      "1983" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "ISSUES",
+   "name" : "Argosy Special",
+   "years" : {
+      "1977" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

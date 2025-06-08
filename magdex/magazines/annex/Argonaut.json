@@ -1,0 +1,142 @@
+{
+   "alternate" : ["Macabre"],
+   "box" : "19",
+   "grid" : "ISSUES",
+   "name" : "Argonaut",
+   "years" : {
+      "1972" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1976" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1979" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1981" : [
+         {
+            "issue" : "8 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1991" : [
+         {
+            "issue" : "15",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "16",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "17",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1994" : [
+         {
+            "issue" : "19",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1995" : [
+         {
+            "issue" : "20 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

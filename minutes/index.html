@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" href="/css/mitsfs.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$("#nav-placeholder").load("/header.html")
+		})
+		$(document).ready(function() {
+			$("#footer-placeholder").load("/footer.html")
+		})
+	</script>
+	<style>td {padding: 15px;} th {padding: 15px;}</style>
+</head>
+<body>
+  <div id="nav-placeholder"></div>   
+
+<div class="main">
+	<h1>Meeting Minutes</h1>
+	<div class="main-left">
+		<p> If you are really interested at what goes on at our meetings, you can read what may be our <a href="/minutes/archive/latest/">latest minutes.</a> If you think those are a fluke and we've got to be more intelligible than that most of the time you can browse through <a href="/minutes/archive/">our older minutes</a>, but you're pretty much doomed.</p>
+	</div>
+
+	<div class="main-right">
+		<img alt="MIT Science Fiction Society" src="/images/mitsfs-seal.svg" width="200px" height="200px">
+	</div>
+</div>
+
+<div id="footer-placeholder"></div>
+  </body>
+</html>

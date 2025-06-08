@@ -1,0 +1,22 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "ISSUES",
+   "name" : "Infinitum",
+   "years" : {
+      "1985" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "2 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

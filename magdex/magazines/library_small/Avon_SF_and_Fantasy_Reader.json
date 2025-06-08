@@ -1,0 +1,23 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Avon SF and Fantasy Reader",
+   "years" : {
+      "1951" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

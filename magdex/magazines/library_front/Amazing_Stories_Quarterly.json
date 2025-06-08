@@ -1,0 +1,137 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Amazing Stories Quarterly",
+   "season_map": { "Winter": "Jan-Feb",
+					"Spring": "Apr-May-Jun",
+					"Spring/Summer": "Apr-May-Jun-Jul-Aug-Sep",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1928" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1929" : [
+         {
+            "date" : "Winter",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "1930" : [
+         {
+            "date" : "Winter",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "12",
+            "status" : "BOUND"
+         }
+      ],
+      "1931" : [
+         {
+            "date" : "Winter",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "16",
+            "status" : "BOUND"
+         }
+      ],
+      "1932" : [
+         {
+            "date" : "Winter",
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring/Summer",
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "19",
+            "status" : "BOUND"
+         }
+      ],
+      "1933" : [
+         {
+            "date" : "Spring/Summer",
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "21",
+            "status" : "BOUND"
+         }
+      ],
+      "1934" : [
+         {
+            "date" : "Fall",
+            "issue" : "22",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,104 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Tales of Wonder",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1937" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1938" : [
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1939" : [
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "9",
+            "status" : "BOUND"
+         }
+      ],
+      "1940" : [
+         {
+            "date" : "Spring",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "13",
+            "status" : "BOUND"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Spring",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "15",
+            "status" : "BOUND"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Spring",
+            "issue" : "16",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

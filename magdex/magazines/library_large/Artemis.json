@@ -1,0 +1,60 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Artemis",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Autumn": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "2000" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "OWNED"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Winter",
+            "issue" : "8",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

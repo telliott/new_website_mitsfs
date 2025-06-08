@@ -1,0 +1,37 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Science Fiction Yearbook",
+   "years" : {
+      "1967" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1968" : [
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1969" : [
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1970" : [
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "issue" : "5 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

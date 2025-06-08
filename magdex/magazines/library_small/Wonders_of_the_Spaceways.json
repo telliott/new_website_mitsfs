@@ -1,0 +1,55 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Wonders of the Spaceways",
+   "years" : {
+      "1951" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1954" : [
+         {
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "10 ",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

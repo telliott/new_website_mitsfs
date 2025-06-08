@@ -1,0 +1,46 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Strange Fantasy",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1969" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "6",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,167 @@
+{
+   "alternate" : [],
+   "box" : "22",
+   "grid" : "ISSUES",
+   "name" : "Moonbroth",
+   "years" : {
+      "1971" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1972" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1973" : [
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1974" : [
+         {
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1975" : [
+         {
+            "issue" : "20",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1976" : [
+         {
+            "issue" : "22",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "issue" : "29/30 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,361 @@
+{
+   "alternate" : ["Science Fiction Monthly", "Science Fiction Fortnightly"],
+   "grid" : "ISSUES",
+   "name" : "Authentic",
+   "years" : {
+      "1951" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "16",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "19",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "21",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "22",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "23",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "25",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "26",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "27",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "28 ",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "29",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "30",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "31",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "32",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "33",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "34",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "35",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "36",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "37",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "38",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "39",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "40",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "issue" : "41",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "42",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "43",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "44",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "45",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "46",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "47",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "48",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "49",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "50",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "51",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "52",
+            "status" : "BOUND"
+         }
+      ],
+      "1955" : [
+         {
+            "issue" : "53",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "54",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "55",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "56",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "57",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "58",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "59",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "60",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "61",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "62",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "63",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "64",
+            "status" : "BOUND"
+         }
+      ],
+      "1956" : [
+         {
+            "issue" : "65",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "66",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "67",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "68",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "69",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "70",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "71",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "72",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "73",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "74",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "75",
+            "status" : "BOUND"
+         }
+      ],
+      "1957" : [
+         {
+            "issue" : "76",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "77",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "78",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "79",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "80",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "81",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "82",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "83",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "84",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "85 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,405 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Cemetary Dance",
+   "years" : {
+      "1988" : [
+         {
+            "volume": "1",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1989" : [
+         {
+            "volume": "1",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1990" : [
+         {
+            "volume": "2",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "volume": "2",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "volume": "2",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "volume": "2",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1991" : [
+         {
+            "volume": "3",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "volume": "3",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "volume": "3",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "volume": "3",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1992" : [
+         {
+            "volume": "4",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "volume": "4",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "volume": "4",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "volume": "4",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1993" : [
+         {
+            "volume": "5",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "volume": "5",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "volume": "5",
+            "issue" : "3/4",
+            "status" : "OWNED"
+         }
+      ],
+      "1994" : [
+         {
+            "volume": "6",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "volume": "6",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "volume": "6",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1995" : [
+         {
+            "volume": "6",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1996" : [
+         {
+            "volume": "7",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "volume": "7",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "volume": "7",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1997" : [
+         {
+            "volume": "8",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "volume": "8",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "volume": "8",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "volume": "8",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "volume": "9",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "volume": "9",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "32",
+            "status" : "MISSING"
+         }
+      ],
+      "2000" : [
+         {
+            "issue" : "33",
+            "status" : "MISSING"
+         }
+      ],
+      "2001" : [
+         {
+            "issue" : "34",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "36",
+            "status" : "MISSING"
+         }
+      ],
+      "2002" : [
+         {
+            "issue" : "37",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "39",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "40",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "41",
+            "status" : "OWNED"
+         }
+      ],
+      "2003" : [
+         {
+            "issue" : "42",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "43",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "44",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "45",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "46",
+            "status" : "MISSING"
+         }
+      ],
+      "2004" : [
+         {
+            "issue" : "47",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "48",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "49",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "50",
+            "status" : "MISSING"
+         }
+      ],
+      "2005" : [
+         {
+            "issue" : "51",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "52",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "53",
+            "status" : "MISSING"
+         }
+      ],
+      "2006" : [
+         {
+            "issue" : "54",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "55",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "56",
+            "status" : "MISSING"
+         }
+      ],
+      "2007" : [
+         {
+            "issue" : "57 ",
+            "status" : "MISSING"
+         }
+      ],
+      "2008" : [
+         {
+            "issue" : "58",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "59",
+            "status" : "MISSING"
+         }
+      ],
+      "2009" : [
+         {
+            "issue" : "60",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "61",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "62",
+            "status" : "MISSING"
+         }
+      ],
+      "2010" : [
+         {
+            "issue" : "63",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "64",
+            "status" : "MISSING"
+         }
+      ],
+      "2011" : [
+         {
+            "issue" : "65",
+            "status" : "MISSING"
+         }
+      ],
+      "2012" : [
+         {
+            "issue" : "66",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "67",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "68",
+            "status" : "MISSING"
+         }
+      ],
+      "2013" : [
+         {
+            "issue" : "69",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "70",
+            "status" : "MISSING"
+         }
+      ],
+      "2014" : [
+         {
+            "issue" : "71",
+            "status" : "MISSING"
+         }
+      ],
+      "2015" : [
+         {
+            "issue" : "72",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "73",
+            "status" : "MISSING"
+         }
+      ],
+      "2016" : [
+         {
+            "issue" : "74/75",
+            "status" : "MISSING"
+         }
+      ],
+      "2017" : [
+         {
+            "issue" : "76",
+            "status" : "MISSING"
+         }
+      ],
+      "2019" : [
+         {
+            "issue" : "77",
+            "status" : "MISSING"
+         }
+      ],
+      "2023" : [
+         {
+            "issue" : "78",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

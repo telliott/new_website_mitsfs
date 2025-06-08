@@ -1,0 +1,222 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "ISSUES",
+   "name" : "Commander Scott",
+   "years" : {
+      "1975" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1976" : [
+         {
+            "issue" : "22",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "29",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "30",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "31",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "32",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "33",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "34",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "35",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "36",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "37",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "38",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "39",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "40",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "41",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "42",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

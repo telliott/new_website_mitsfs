@@ -1,0 +1,37 @@
+{
+   "alternate" : [],
+   "box" : "4",
+   "grid" : "MONTH",
+   "name" : "Mysterious Traveller",
+   "years" : {
+      "1951" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1952" : [
+         {
+            "date" : "Jan",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

@@ -1,0 +1,25 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Beyond Fantasy Fiction (UK)",
+   "years" : {
+      "1954" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

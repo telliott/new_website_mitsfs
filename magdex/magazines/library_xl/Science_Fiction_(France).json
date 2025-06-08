@@ -1,0 +1,54 @@
+{
+   "alternate" : [],
+   "box" : "",
+   "grid" : "MONTH",
+   "name" : "Science.Fiction (France)",
+   "years" : {
+      "1976" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "date" : "Jan",
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Feb",
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Mar",
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr",
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "May",
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

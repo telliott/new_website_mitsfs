@@ -1,0 +1,27 @@
+{
+   "alternate" : [],
+   "box" : "9",
+   "grid" : "ISSUES",
+   "name" : "Event Horizon",
+   "years" : {
+      "1980" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1981" : [
+         {
+            "issue" : "3 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

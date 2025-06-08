@@ -1,0 +1,27 @@
+{
+   "alternate" : [],
+   "box" : "19",
+   "grid" : "ISSUES",
+   "name" : "Studies in Fantasy Literature",
+   "years" : {
+      "2004" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "2005" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

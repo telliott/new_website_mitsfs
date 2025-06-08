@@ -1,0 +1,66 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "ISSUES",
+   "name" : "Science Fiction Quarterly (UK)",
+   "years" : {
+      "1952" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1954" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1955" : [
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

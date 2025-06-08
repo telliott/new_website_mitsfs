@@ -1,0 +1,71 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Fantasy and Science Fiction (UK)",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "12",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

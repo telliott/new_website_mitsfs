@@ -1,0 +1,25 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "MONTH",
+   "name" : "Astonishing (Canada)",
+   "years" : {
+      "1942" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

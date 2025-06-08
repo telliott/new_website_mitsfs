@@ -1,0 +1,19 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Dynamic Science Stories",
+   "years" : {
+      "1939" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

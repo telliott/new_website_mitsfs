@@ -1,0 +1,95 @@
+{
+   "alternate" : ["Fantastic Stories of the Imagination"],
+   "grid" : "ISSUES",
+   "name" : "Pirate Writings",
+   "years" : {
+      "1992" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1994" : [
+         {
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1995" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1996" : [
+         {
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1997" : [
+         {
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "issue" : "17",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "18 ",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

@@ -1,0 +1,31 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Science Fiction Digest",
+   "years" : {
+      "1981" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1982" : [
+         {
+            "date" : "Jan",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

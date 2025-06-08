@@ -1,0 +1,109 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Vertex",
+   "years" : {
+      "1973" : [
+         {
+            "date" : "Apr",
+            "volume": "1",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "volume": "1",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "volume": "1",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "volume": "1",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "volume": "1",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1974" : [
+         {
+            "date" : "Feb",
+            "volume": "1",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "volume": "2",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "volume": "2",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "volume": "2",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "volume": "2",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "volume": "2",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1975" : [
+         {
+            "date" : "Feb",
+            "volume": "2",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "volume": "3",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "volume": "3",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "volume": "3",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "volume": "3",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

@@ -1,0 +1,30 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "ISSUES",
+   "name" : "SFCD Sonderdruck",
+   "years" : {
+      "1976" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : "",
+            "note": "Utopia"
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

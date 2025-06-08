@@ -1,0 +1,31 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "name" : "Weird Terror Tales",
+   "years" : {
+      "1969" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

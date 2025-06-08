@@ -1,0 +1,49 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Crank!",
+   "years" : {
+      "1993" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1994" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1995" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1996" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "issue" : "8 ",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

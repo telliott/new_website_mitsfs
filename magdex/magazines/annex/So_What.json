@@ -1,0 +1,30 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "ISSUES",
+   "name" : "So What",
+   "years" : {
+      "1962" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

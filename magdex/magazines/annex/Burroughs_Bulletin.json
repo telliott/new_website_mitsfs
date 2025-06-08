@@ -1,0 +1,564 @@
+{
+   "alternate" : [],
+   "box" : "15",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Burroughs Bulletin",
+   "years" : {
+      "1990" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Jan",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Jan",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1993" : [
+         {
+            "date" : "Jan",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Jan",
+            "issue" : "17",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "18",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "20",
+            "status" : "MISSING"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Jan",
+            "issue" : "21",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "24",
+            "status" : "MISSING"
+         }
+      ],
+      "1996" : [
+         {
+            "date" : "Jan",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "26",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "27",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "28",
+            "status" : "MISSING"
+         }
+      ],
+      "1997" : [
+         {
+            "date" : "Winter",
+            "issue" : "29",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "30",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "31",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "32",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Winter",
+            "issue" : "33",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "34",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "36",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Winter",
+            "issue" : "37",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "39",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "40",
+            "status" : "OWNED"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Winter",
+            "issue" : "41",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "42",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "43",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "44",
+            "status" : "MISSING"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Winter",
+            "issue" : "45",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "46",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "47",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "48",
+            "status" : "MISSING"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Winter",
+            "issue" : "49",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "50",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "51",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "52",
+            "status" : "MISSING"
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Winter",
+            "issue" : "53",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "54",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "55",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "56",
+            "status" : "MISSING"
+         }
+      ],
+      "2004" : [
+         {
+            "date" : "Winter",
+            "issue" : "57",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "58",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "59",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "60",
+            "status" : "MISSING"
+         }
+      ],
+      "2005" : [
+         {
+            "date" : "Winter",
+            "issue" : "61",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "62",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "63",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "64",
+            "status" : "MISSING"
+         }
+      ],
+      "2006" : [
+         {
+            "date" : "Winter",
+            "issue" : "65",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "66",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "67",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "68",
+            "status" : "MISSING"
+         }
+      ],
+      "2007" : [
+         {
+            "date" : "Winter",
+            "issue" : "69",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "70",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "71",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "72",
+            "status" : "MISSING"
+         }
+      ],
+      "2008" : [
+         {
+            "date" : "Winter",
+            "issue" : "73",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "74",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "75",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "76",
+            "status" : "MISSING"
+         }
+      ],
+      "2009" : [
+         {
+            "date" : "Winter",
+            "issue" : "77",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "78",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "79",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "80",
+            "status" : "MISSING"
+         }
+      ],
+      "2010" : [
+         {
+            "date" : "Winter",
+            "issue" : "81",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "82",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "83",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "84",
+            "status" : "MISSING"
+         }
+      ],
+      "2011" : [
+         {
+            "date" : "Winter",
+            "issue" : "85",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "86",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "87",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "88",
+            "status" : "MISSING"
+         }
+      ],
+      "2012" : [
+         {
+            "date" : "Winter",
+            "issue" : "89",
+            "status" : "MISSING"
+         }
+      ],
+      "2013" : [
+         {
+            "date" : "Winter",
+            "issue" : "90",
+            "status" : "MISSING"
+         }
+      ],
+      "2014" : [
+         {
+            "date" : "Summer",
+            "issue" : "91",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "92",
+            "status" : "MISSING"
+         }
+      ],
+      "2015" : [
+         {
+            "date" : "Winter",
+            "issue" : "93",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "94",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "95",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "96",
+            "status" : "MISSING"
+         }
+      ],
+      "2016" : [
+         {
+            "date" : "Winter",
+            "issue" : "97",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "98",
+            "status" : "MISSING"
+         }
+      ],
+      "2019" : [
+         {
+            "date" : "Winter",
+            "issue" : "99",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

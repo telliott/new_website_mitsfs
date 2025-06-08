@@ -1,0 +1,96 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Marvel",
+   "years" : {
+      "1938" : [
+         {
+            "date" : "Aug",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1939" : [
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "6",
+            "status" : "BOUND"
+         }
+      ],
+      "1940" : [
+         {
+            "date" : "May",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Apr",
+            "issue" : "9",
+            "status" : "BOUND"
+         }
+      ],
+      "1950" : [
+         {
+            "date" : "Nov",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ],
+      "1951" : [
+         {
+            "date" : "Feb",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "14",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "date" : "May",
+            "issue" : "15",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

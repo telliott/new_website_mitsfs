@@ -1,0 +1,125 @@
+Title: Warbreaker
+Author: Sanderson, Brandon 
+Year: 2009
+Publisher: Tor
+Reviewer: Katherine Ray
+Reviewed: 2013-01-27
+
+Okay, I'll admit it.  I read this book quite awhile ago, and many
+details have already faded from memory.  I remember it's an enjoyable
+read and has excellent character development and an interesting plot.
+My favorite character was Lightsong the god, and my favorite plotline
+was Siri, the princess.  At the time I read it, I appreciated that it
+was an epic fantasy novel that was completely self-contained in one
+book, rather than sprawling on for several books with long waits in
+between.  Other than that, my memory of the book is rather vague
+except (and this is an important except) for the magic system.  The
+magic system is why I wanted to write this review.
+
+The way the magic system works is each person is born with "Breath."
+One "Breath" per person born.  I equated Breath with a person's soul
+while reading the book, and indeed the one character without Breath in
+the book had lost something valuable and important when she gave her
+Breath away.  She had lost her a lot of her vitality and humanity.
+
+Now, if you'd like to do magic, you need to collect breath and collect
+a lot of it.  There are 10 levels of magic ability depending on how
+much breath you have as follows:
+
+1st - 50
+2nd - 200
+3rd - 600
+4th - 1000
+5th - 2000
+6th - 3500
+7th - 5000
+8th - 10,000
+9th - 20,000
+10th- 50,000
+
+A character goes to a large gathering at an arena and observes, "The
+priests each had exactly fifty Breaths, as did the majority of the
+wealthier individuals entering through the gates.  A fair number had
+at least two hundred Breaths... Only a couple had more Breaths than
+Vivenna, who [was at level 3]."
+
+Magicians are not the only ones who have more breath than they're born
+with.  There are also the gods.  The gods need 1 breath per week to
+continue to exist.  (Each god can perform one miracle and then die,
+and also have prophetic dreams, which is why the society has decided
+to keep them alive by sacrificing 1 breath per god per week.)  There
+are about 25 gods living in the city.  Each god has maybe 20 priests.
+
+Other relevant information includes: the person who gives their Breath
+to the gods is usually a child, and people without Breath in the city
+are somewhat rare -- Vivenna is running around meeting many, many
+people and only comes across one or two without Breath.  Breath can
+survive the person it was born with as long as it is passed on, but
+will also die with whoever has it if they don't hand it off.  A person
+without Breath is called a Drab.
+
+Okay, starting with the gods: 25 gods x 52 weeks in a year = 1300
+Drabs made per year, mostly young.  The society is horse-and-cart,
+lots of trading, maybe Renaissance era technology and healthcare, so
+say these children live another 40 years after they become Drabs. 1300
+x 40 = 52,000 living Drabs who practice this religion, which is
+restricted to the city, and maybe the farmlands around it, due to
+sacrificing to the gods.  Coming across a Drab is rare, let's call
+them 1% of the society. 52,000/0.01 = 5,200,000 people.  Is that a
+reasonable number of people for the city described?
+
+And we haven't even touched the magicians and priests yet.  Now Breath
+can be passed on and survive the person who collected it, but saying
+"each priest had exactly fifty Breaths" implies that the priests are
+not, in fact, doing the sensible thing and having an old priest hand
+over his or her Breaths on to a young acolyte, and thus giving the
+acolyte 51 breaths (his/her own + the old priest's 50), and therefore
+the priests' Breaths are implied to be taken from people who are still
+alive.  49 Breaths x 25 gods x 20 priests = 24,500 Drabs to create the
+priesthood.  The nobility/wealthy people also have "exactly 50" which
+is an indication of not inheriting the Breaths, but let's go ahead and
+assume that people with more than 200 got it from people who have
+since died, since there does seem to be at least some recycling or
+inheriting going on.  So how many wealthy people are there?
+
+The arena where the large gathering takes place has 50 boxes for
+important people (gods) and 4 rows of seats for ordinary (but wealthy)
+people.  Let's say a box could seat 5 people across. That implies the
+circuference of the arena is about 250 seats, so maybe 1000 citizens
+of the city can fill the arena.  1000 people would make a pretty
+decent crowd, which matches with the description in the book.  Of the
+1000 people, based on the description above - we could say 0.5% or 5
+have 600 Breaths, 9.5% or 95 have 200 Breaths, and the majority of the
+last 900 - call it 60% or 540 have 50 Breaths.  Not all the people
+with Breath are going to show up to this arena, so let's say there are
+1000 people with 50 Breaths in the city.  That's 49,000 Breaths that
+had to be collected.
+
+Now, how many of the 24,500 Drabs from the priesthood and 49,000 Drabs
+from the nobility are still alive? They've been holding onto the
+Breaths for 0-30 years, and may have gotten them from people of any
+age, and the estimation is getting complicated, so let's say half of
+them are still alive and wandering around.  That's 36,750 Drabs to add
+to our 52,000 from the gods, or 88,750 total.
+
+Drabs are still about 1% of the population, which results in 8,875,000
+people living in Hallandren.
+
+Hallendren is not supposed to be particularly huge, and as I said
+before the technology level is something like the Renaissance, so
+let's compare that number to London, England & Wales in 1600 and 1700.
+In 1600 London was about 200,000 people, and England and Wales were
+about 4.4 million.  In 1700, London was 700,000 people and England and
+Wales were about 5 million.  (I'm pulling the numbers from 
+here:  http://www.londononline.co.uk/factfile/historical/ 
+and here: http://tacitus.nu/historical-atlas/population/british.htm )
+
+A continuation of this discussion would cover whether Hallandren is in
+fact about the size of England & Wales or whether a smaller area makes
+more sense (which I think it does), and if there's an area that has
+more Drabs than the city seems to, etc., but I shall end the
+discussion here and simply conclude that I was bothered, throughout
+the book, with the idea that the population of Hallandren had to be
+quantitatively a lot larger than the qualitative description of it
+seemed to imply, and actually sitting down and doing the math has been
+great fun.  Thank you for bearing with me.

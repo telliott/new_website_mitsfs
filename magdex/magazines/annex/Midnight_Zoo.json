@@ -1,0 +1,141 @@
+{
+   "alternate" : [],
+   "box" : "10",
+   "grid" : "ISSUES",
+   "name" : "Midnight Zoo",
+   "years" : {
+      "1991" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : "1"
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : "1"
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : "1"
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : "1"
+         },
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : "1"
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : "1"
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : "2"
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : "2"
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : "2"
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : "3"
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : "3"
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : "3"
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : "3"
+         },
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : "3"
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : "3"
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : "3"
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : "3"
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : "3"
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : "3"
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : "3"
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : "3"
+         }
+      ],
+      "1994" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : "4"
+         }
+      ]
+   }
+}

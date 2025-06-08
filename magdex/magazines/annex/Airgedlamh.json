@@ -1,0 +1,17 @@
+{
+   "alternate" : [],
+   "box" : "19",
+	"season_map": { "Fall": "Jul-Aug-Sep"
+	},
+   "grid" : "MONTH",
+   "name" : "Airgedlamh",
+   "years" : {
+      "1980" : [
+         {
+            "date" : "Fall",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

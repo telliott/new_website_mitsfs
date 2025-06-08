@@ -1,0 +1,142 @@
+{
+    "issues": [
+        {
+            "name": "Albi del Falco",
+            "issue": "#427",
+            "box": "29",
+            "note": "Italy"
+        },
+        {
+            "name": "Aventuras De Lo Sobrenatural",
+            "issue": "v4 #18",
+            "box": "29",
+            "note": "Mexico"
+        },
+        {
+            "name": "Blade Runner",
+            "issue": "#4",
+            "box": "29",
+            "note": "Portugal"
+        },
+        {
+            "name": "Crew",
+            "issue": "Apr 1997",
+            "box": "29",
+            "note": "Czech Republic"
+        },
+        {
+            "name": "Dan Shocker's Macabros",
+            "issue": "#16",
+            "box": "14",
+            "note": "Germany"
+        },
+        {
+            "name": "Galaktika",
+            "issue": "#1 (1972)",
+            "box": "29",
+            "note": "Russia"
+        },
+        {
+            "name": "Jules Verne Veckans Aventyr",
+            "issue": "v2 #29 (1943)",
+            "box": "2",
+            "note": "Sweden"
+        },
+        {
+            "name": "Jules Verne Veckans Aventyr",
+            "issue": "v2 #38 (1943)",
+            "box": "2",
+            "note": "Sweden"
+        },
+        {
+            "name": "Mas Alla",
+            "issue": "v3 #26",
+            "box": "29",
+            "note": "Argentina"
+        },
+        {
+            "name": "Mas Alla",
+            "issue": "v3 #27",
+            "box": "29",
+            "note": "Argentina"
+        },
+        {
+            "name": "Monstrula",
+            "issue": "#24",
+            "box": "16",
+            "note": "Germany"
+        },
+        {
+            "name": "Monstrula",
+            "issue": "#42",
+            "box": "16",
+            "note": "Germany"
+        },
+        {
+            "name": "Nemesis",
+            "issue": "Sep 1995",
+            "box": "29",
+            "note": "Czech Republic"
+        },
+        {
+            "name": "Nemesis",
+            "issue": "May 1996",
+            "box": "29",
+            "note": "Czech Republic"
+        },
+        {
+            "name": "Nueva Dimension",
+            "issue": "#65",
+            "box": "29",
+            "note": "Spain"
+        },
+        {
+            "name": "Orion",
+            "issue": "#76",
+            "box": "16",
+            "note": "Germany"
+        },
+        {
+            "name": "Pioneer",
+            "issue": "#23/23",
+            "box": "5",
+            "note": "Germany"
+        },
+        {
+            "name": "Satellite",
+            "issue": "#43",
+            "box": "29",
+            "note": "France"
+        },
+        {
+            "name": "Starficcion",
+            "issue": "ST:TNG Makeup FX Special",
+            "box": "29",
+            "note": "Spain"
+        },
+        {
+            "name": "Zauberkreis Exklusiv",
+            "issue": "#78",
+            "box": "18",
+            "note": "Germany"
+        },
+        {
+            "name": "Zauberkreis Exklusiv",
+            "issue": "#85",
+            "box": "18",
+            "note": "Germany"
+        },
+        {
+            "name": "Zauberkreis Exklusiv",
+            "issue": "#88",
+            "box": "18",
+            "note": "Germany"
+        },
+        {
+            "name": "Zauberkreis Exklusiv",
+            "issue": "#112",
+            "box": "18",
+            "note": "Germany"
+        }
+    ]
+}

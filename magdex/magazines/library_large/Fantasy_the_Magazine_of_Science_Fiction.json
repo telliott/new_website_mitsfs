@@ -1,0 +1,26 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Fantasy the Magazine of Science Fiction",
+   "years" : {
+      "1946" : [
+         {
+            "date" : "Dec",
+            "issue" : "171",
+            "status" : "BOUND"
+         }
+      ],
+      "1947" : [
+         {
+            "date" : "Apr",
+            "issue" : "172",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "173",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

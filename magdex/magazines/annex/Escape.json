@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "box" : "9",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Escape",
+   "years" : {
+      "1977" : [
+         {
+            "date" : "Fall",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

@@ -1,0 +1,178 @@
+{
+   "alternate" : [],
+   "box" : "24",
+   "grid" : "MONTH",
+   "name" : "Gamma (Italy)",
+   "years" : {
+      "1965" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Nov",
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1966" : [
+         {
+            "date" : "Feb",
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Mar",
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr",
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "May",
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Jun",
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Jul",
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Sep",
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Oct",
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Nov",
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Jan",
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Feb",
+            "issue" : "15",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Mar",
+            "issue" : "16",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr",
+            "issue" : "17",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Jun",
+            "issue" : "18",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Jul",
+            "issue" : "19",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Aug",
+            "issue" : "20",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Sep",
+            "issue" : "21",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Oct",
+            "issue" : "22",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Nov",
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "24",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Jan",
+            "issue" : "25",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Feb",
+            "issue" : "26",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Mar",
+            "issue" : "27",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

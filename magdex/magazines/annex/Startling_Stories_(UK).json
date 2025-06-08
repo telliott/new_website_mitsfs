@@ -1,0 +1,110 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "ISSUES",
+   "name" : "Startling Stories (UK)",
+   "years" : {
+      "1949" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1950" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1951" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1952" : [
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1954" : [
+         {
+            "issue" : "16",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

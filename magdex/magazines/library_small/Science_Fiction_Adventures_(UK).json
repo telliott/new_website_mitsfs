@@ -1,0 +1,147 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Science Fiction Adventures (UK)",
+   "years" : {
+      "1958" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1959" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "12",
+            "status" : "BOUND"
+         }
+      ],
+      "1960" : [
+         {
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "17",
+            "status" : "BOUND"
+         }
+      ],
+      "1961" : [
+         {
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "19",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "21",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "22",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "23",
+            "status" : "BOUND"
+         }
+      ],
+      "1962" : [
+         {
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "25",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "26",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "27",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "28",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "29",
+            "status" : "BOUND"
+         }
+      ],
+      "1963" : [
+         {
+            "issue" : "30",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "31",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "32 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

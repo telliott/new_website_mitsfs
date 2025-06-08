@@ -1,0 +1,64 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "MONTH",
+   "name" : "Borderline",
+   "years" : {
+      "1964" : [
+         {
+            "date" : "Sep",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1965" : [
+         {
+            "date" : "Jan",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "9",
+            "status" : "MISSING"
+         }
+      ],
+      "1966" : [
+         {
+            "date" : "Feb",
+            "issue" : "10",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

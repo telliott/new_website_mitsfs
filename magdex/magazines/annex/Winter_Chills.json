@@ -1,0 +1,34 @@
+{
+   "alternate" : [],
+   "box" : "3",
+   "grid" : "ISSUES",
+   "name" : "Winter Chills",
+   "years" : {
+      "1987" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1990" : [
+         {
+            "issue" : "4 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

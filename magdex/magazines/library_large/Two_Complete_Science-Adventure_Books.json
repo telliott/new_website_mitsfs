@@ -1,0 +1,77 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Two Complete Science-Adventure Books",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1950" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1951" : [
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "date" : "Spring",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Spring",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Spring",
+            "issue" : "11",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

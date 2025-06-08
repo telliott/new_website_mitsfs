@@ -1,0 +1,36 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "MONTH",
+   "name" : "Anduril",
+   "years" : {
+      "1972" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1974" : [
+         {
+            "date" : "Jul",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1975" : [
+         {
+            "date" : "Jul",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1976" : [
+         {
+            "date" : "Aug",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

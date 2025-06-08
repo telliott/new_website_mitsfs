@@ -1,0 +1,100 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Mystic Magazine",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "1955" : [
+         {
+            "date" : "Feb",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "12",
+            "status" : "OWNED"
+         }
+      ],
+      "1956" : [
+         {
+            "date" : "Jan",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "16",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "17",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

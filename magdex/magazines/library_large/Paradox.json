@@ -1,0 +1,87 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Paradox",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Autumn": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "note": "issue 4 was online-only",
+   "years" : {
+      "2003" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "2004" : [
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "2005" : [
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "8",
+            "status" : "OWNED"
+         }
+      ],
+      "2006" : [
+         {
+            "date" : "Summer",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "10",
+            "status" : "OWNED"
+         }
+      ],
+      "2007" : [
+         {
+            "date" : "Autumn",
+            "issue" : "11",
+            "status" : "OWNED"
+         }
+      ],
+      "2008" : [
+         {
+            "date" : "Spring",
+            "issue" : "12",
+            "status" : "OWNED"
+         }
+      ],
+      "2009" : [
+         {
+            "date" : "Spring",
+            "issue" : "13",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

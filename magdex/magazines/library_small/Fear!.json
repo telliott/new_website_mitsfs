@@ -1,0 +1,19 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Fear!",
+   "years" : {
+      "1960" : [
+         {
+            "date" : "May",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

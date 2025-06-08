@@ -1,0 +1,32 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "ISSUES",
+   "name" : "Infinite Fanac",
+   "years" : {
+      "1967" : [
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9.5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1968" : [
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

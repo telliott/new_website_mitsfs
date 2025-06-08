@@ -1,0 +1,85 @@
+{
+   "alternate" : [],
+   "box" : "22",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "FTL",
+   "years" : {
+      "1989" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Jun",
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Fall",
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Winter",
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Spring",
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Summer",
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Fall",
+            "issue" : "10",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Winter",
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

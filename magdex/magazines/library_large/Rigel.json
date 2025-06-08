@@ -1,0 +1,59 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Rigel",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov",
+					"Winter2": "Dec"
+	},
+   "years" : {
+      "1981" : [
+         {
+            "date" : "Summer",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1982" : [
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter2",
+            "issue" : "6",
+            "status" : "BOUND"
+         }
+      ],
+      "1983" : [
+         {
+            "date" : "Spring",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

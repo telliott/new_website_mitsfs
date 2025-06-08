@@ -1,0 +1,33 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Australian Horror and Fantasy",
+   "years" : {
+      "1984" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "5/6",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

@@ -1,0 +1,22 @@
+{
+   "alternate" : [],
+   "box" : "",
+   "grid" : "ISSUES",
+   "name" : "Eternity (1979)",
+   "years" : {
+      "1979" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

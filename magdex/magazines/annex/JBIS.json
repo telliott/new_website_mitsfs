@@ -1,0 +1,252 @@
+{
+   "alternate" : [],
+   "box" : "10",
+   "grid" : "MONTH",
+   "name" : "JBIS",
+   "years" : {
+      "1959" : [
+         {
+            "date" : "Jan-Feb",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar-Apr",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May-Jun",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul-Aug",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep-Oct",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov-Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1960" : [
+         {
+            "date" : "Jan-Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar-Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May-Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul-Aug",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep-Oct",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov-Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1961" : [
+         {
+            "date" : "Jan-Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar-Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May-Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul-Aug",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep-Oct-Nov-Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1962" : [
+         {
+            "date" : "Jan-Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar-Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May-Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul-Aug",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep-Oct-Nov-Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1963" : [
+         {
+            "date" : "Jan-Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar-Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May-Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul-Aug",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep-Oct",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov-Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1964" : [
+         {
+            "date" : "Jan-Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar-Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May-Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul-Aug",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep-Oct",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov-Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1965" : [
+         {
+            "date" : "Jan-Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar-Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May-Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul-Aug",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep-Oct",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov-Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1966" : [
+         {
+            "date" : "Jan-Feb",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar-Apr",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May-Jun",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul-Aug",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep-Oct",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov-Dec",
+            "status" : "MISSING"
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Jan-Feb",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar-Apr",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May-Jun",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul-Aug",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep-Oct",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov-Dec",
+            "status" : "MISSING"
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Mar",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

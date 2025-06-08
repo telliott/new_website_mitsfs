@@ -1,0 +1,83 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "ISSUES",
+   "name" : "Cassandra Anthology",
+   "years" : {
+      "1983" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "13/14 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

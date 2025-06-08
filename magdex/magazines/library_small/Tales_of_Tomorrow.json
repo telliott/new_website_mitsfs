@@ -1,0 +1,59 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Tales of Tomorrow",
+   "years" : {
+      "1950" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "9",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "11 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

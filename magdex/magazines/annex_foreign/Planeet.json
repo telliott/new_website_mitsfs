@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "ISSUES",
+   "name" : "Planeet",
+   "years" : {
+      "1953" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

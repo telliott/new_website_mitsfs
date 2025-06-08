@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "10",
+   "grid" : "ISSUES",
+   "name" : "From Unknown Worlds",
+   "years" : {
+      "1948" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

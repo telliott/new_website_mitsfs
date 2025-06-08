@@ -1,0 +1,259 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Leading Edge",
+   "years" : {
+      "1981" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING"
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "13",
+            "status" : "MISSING"
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING"
+         }
+      ],
+      "1988" : [
+         {
+            "issue" : "16",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "17",
+            "status" : "MISSING"
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "18",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "19",
+            "status" : "MISSING"
+         }
+      ],
+      "1990" : [
+         {
+            "issue" : "20/21",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "22",
+            "status" : "MISSING"
+         }
+      ],
+      "1991" : [
+         {
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "24",
+            "status" : "MISSING"
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "26",
+            "status" : "MISSING"
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "27",
+            "status" : "MISSING"
+         }
+      ],
+      "1994" : [
+         {
+            "issue" : "28",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "29",
+            "status" : "MISSING"
+         }
+      ],
+      "1995" : [
+         {
+            "issue" : "30",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "31",
+            "status" : "MISSING"
+         }
+      ],
+      "1996" : [
+         {
+            "issue" : "32",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "33",
+            "status" : "MISSING"
+         }
+      ],
+      "1997" : [
+         {
+            "issue" : "34",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "36",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "issue" : "37",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "38",
+            "status" : "MISSING"
+         }
+      ],
+      "2000" : [
+         {
+            "issue" : "39",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "40",
+            "status" : "MISSING"
+         }
+      ],
+      "2001" : [
+         {
+            "issue" : "41",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "42",
+            "status" : "MISSING"
+         }
+      ],
+      "2002" : [
+         {
+            "issue" : "43",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "44",
+            "status" : "MISSING"
+         }
+      ],
+      "2003" : [
+         {
+            "issue" : "45",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "46",
+            "status" : "MISSING"
+         }
+      ],
+      "2004" : [
+         {
+            "issue" : "47",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "48",
+            "status" : "MISSING"
+         }
+      ],
+      "2005" : [
+         {
+            "issue" : "49",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "50",
+            "status" : "MISSING"
+         }
+      ],
+      "2006" : [
+         {
+            "issue" : "51 ",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

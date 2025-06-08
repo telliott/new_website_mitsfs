@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "4",
+   "grid" : "ISSUES",
+   "name" : "Book of Weird Tales",
+   "years" : {
+      "1960" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : "1"
+         }
+      ]
+   }
+}

@@ -1,0 +1,72 @@
+{
+   "alternate" : [],
+   "box" : "25",
+   "grid" : "MONTH",
+   "name" : "Fantasia e Fantascienza",
+   "years" : {
+      "1962" : [
+         {
+            "date" : "Dec",
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1963" : [
+         {
+            "date" : "Jan",
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Mar",
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr",
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Jun",
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Jul",
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Aug",
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Sep",
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Oct",
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

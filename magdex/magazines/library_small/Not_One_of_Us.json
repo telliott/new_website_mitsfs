@@ -1,0 +1,490 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Not One of Us",
+   "years" : {
+      "1986" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1987" : [
+         {
+            "date" : "Jul",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1988" : [
+         {
+            "date" : "Apr",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1989" : [
+         {
+            "date" : "Aug",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Apr",
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Jan",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Jun",
+            "issue" : "9",
+            "status" : "MISSING"
+         }
+      ],
+      "1993" : [
+         {
+            "date" : "Apr",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "11",
+            "status" : "MISSING"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Aug",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Feb",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "14",
+            "status" : "MISSING"
+         }
+      ],
+      "1996" : [
+         {
+            "date" : "Mar",
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ],
+      "1997" : [
+         {
+            "date" : "Feb",
+            "issue" : "17",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "18",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Mar",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "20",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Mar",
+            "issue" : "21",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "22",
+            "status" : "MISSING"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Mar",
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "24",
+            "status" : "MISSING"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Mar",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "26",
+            "status" : "MISSING"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Mar",
+            "issue" : "27",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "28",
+            "status" : "MISSING"
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Mar",
+            "issue" : "29",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "30",
+            "status" : "OWNED"
+         }
+      ],
+      "2004" : [
+         {
+            "date" : "Apr",
+            "issue" : "31",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "32",
+            "status" : "MISSING"
+         }
+      ],
+      "2005" : [
+         {
+            "date" : "Apr",
+            "issue" : "33",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "34",
+            "status" : "MISSING"
+         }
+      ],
+      "2006" : [
+         {
+            "date" : "Apr",
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "36",
+            "status" : "MISSING"
+         }
+      ],
+      "2007" : [
+         {
+            "date" : "Apr",
+            "issue" : "37",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "38",
+            "status" : "MISSING"
+         }
+      ],
+      "2008" : [
+         {
+            "date" : "Apr",
+            "issue" : "39",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "40",
+            "status" : "OWNED"
+         }
+      ],
+      "2009" : [
+         {
+            "date" : "Apr",
+            "issue" : "41",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "42",
+            "status" : "MISSING"
+         }
+      ],
+      "2010" : [
+         {
+            "date" : "Apr",
+            "issue" : "43",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "44",
+            "status" : "MISSING"
+         }
+      ],
+      "2011" : [
+         {
+            "date" : "Apr",
+            "issue" : "45",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "46",
+            "status" : "MISSING"
+         }
+      ],
+      "2012" : [
+         {
+            "date" : "Apr",
+            "issue" : "47",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "48",
+            "status" : "MISSING"
+         }
+      ],
+      "2013" : [
+         {
+            "date" : "Apr",
+            "issue" : "49",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "50",
+            "status" : "MISSING"
+         }
+      ],
+      "2014" : [
+         {
+            "date" : "Apr",
+            "issue" : "51",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "52",
+            "status" : "MISSING"
+         }
+      ],
+      "2015" : [
+         {
+            "date" : "Apr",
+            "issue" : "53",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "54",
+            "status" : "MISSING"
+         }
+      ],
+      "2016" : [
+         {
+            "date" : "Apr",
+            "issue" : "55",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "56",
+            "status" : "MISSING"
+         }
+      ],
+      "2017" : [
+         {
+            "date" : "Apr",
+            "issue" : "57",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "58",
+            "status" : "MISSING"
+         }
+      ],
+      "2018" : [
+         {
+            "date" : "Apr",
+            "issue" : "59",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "60",
+            "status" : "MISSING"
+         }
+      ],
+      "2019" : [
+         {
+            "date" : "Mar",
+            "issue" : "61",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "62",
+            "status" : "MISSING"
+         }
+      ],
+      "2020" : [
+         {
+            "date" : "Mar",
+            "issue" : "63",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "64",
+            "status" : "MISSING"
+         }
+      ],
+      "2021" : [
+         {
+            "date" : "Jan",
+            "issue" : "65",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "66",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "67",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "68",
+            "status" : "MISSING"
+         }
+      ],
+      "2022" : [
+         {
+            "date" : "Jan",
+            "issue" : "69",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "70",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "71",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "72",
+            "status" : "MISSING"
+         }
+      ],
+      "2023" : [
+         {
+            "date" : "Jan",
+            "issue" : "73",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "74",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "75",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "76",
+            "status" : "MISSING"
+         }
+      ],
+      "2024" : [
+         {
+            "date" : "Jan",
+            "issue" : "77",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "78",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "79",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "80",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "81",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

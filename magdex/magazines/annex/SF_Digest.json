@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "ISSUES",
+   "name" : "SF Digest",
+   "years" : {
+      "1976" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

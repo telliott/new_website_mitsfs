@@ -1,0 +1,95 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Astonishing",
+   "years" : {
+      "1940" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "6",
+            "status" : "BOUND"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Feb",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Mar",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "14",
+            "status" : "BOUND"
+         }
+      ],
+      "1943" : [
+         {
+            "date" : "Feb",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "16",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

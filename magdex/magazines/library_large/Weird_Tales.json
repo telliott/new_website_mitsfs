@@ -1,0 +1,2002 @@
+{
+   "alternate" : ["Worlds of Fantasy and Horror"],
+   "grid" : "MONTH",
+   "name" : "Weird Tales",
+	"season_map": { "Winter2": "Jan-Feb-Mar",
+					"Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+	"note": "old loose issues are in annex box 25",
+   "years" : {
+      "1923" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "9",
+            "status" : "MISSING"
+         }
+      ],
+      "1924" : [
+         {
+            "date" : "Feb",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May-Jun-Jul",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "15",
+            "status" : "MISSING"
+         }
+      ],
+      "1925" : [
+         {
+            "date" : "Jan",
+            "issue" : "16",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "17",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "18",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "21",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "26",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "27",
+            "status" : "MISSING"
+         }
+      ],
+      "1926" : [
+         {
+            "date" : "Jan",
+            "issue" : "28",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "29",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "30",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "31",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "32",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "33",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "34",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "36",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "37",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "38",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "39",
+            "status" : "MISSING"
+         }
+      ],
+      "1927" : [
+         {
+            "date" : "Jan",
+            "issue" : "40",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "41",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "42",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "43",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "44",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "45",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "46",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "47",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "48",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "49",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "50",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "51",
+            "status" : "BOUND"
+         }
+      ],
+      "1928" : [
+         {
+            "date" : "Jan",
+            "issue" : "52",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "53",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "54",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "55",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "56",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "57",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "58",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "59",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "60",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "61",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "62",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "63",
+            "status" : "BOUND"
+         }
+      ],
+      "1929" : [
+         {
+            "date" : "Jan",
+            "issue" : "64",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "65",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "66",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "67",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "68",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "69",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "70",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "71",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "72",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "73",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "74",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "75",
+            "status" : "BOUND"
+         }
+      ],
+      "1930" : [
+         {
+            "date" : "Jan",
+            "issue" : "76",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "77",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "78",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "79",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "80",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "81",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "82",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "83",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "84",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "85",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "86",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "87",
+            "status" : "BOUND"
+         }
+      ],
+      "1931" : [
+         {
+            "date" : "Jan",
+            "issue" : "88",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb-Mar",
+            "issue" : "89",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr-May",
+            "issue" : "90",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun-Jul",
+            "issue" : "91",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "92",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "93",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "94",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "95",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "96",
+            "status" : "BOUND"
+         }
+      ],
+      "1932" : [
+         {
+            "date" : "Jan",
+            "issue" : "97",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "98",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "99",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "100",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "101",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "102",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "103",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "104",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "105",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "106",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "107",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "108",
+            "status" : "BOUND"
+         }
+      ],
+      "1933" : [
+         {
+            "date" : "Jan",
+            "issue" : "109",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "110",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "111",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "112",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "113",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "114",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "115",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "116",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "117",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "118",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "119",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "120",
+            "status" : "BOUND"
+         }
+      ],
+      "1934" : [
+         {
+            "date" : "Jan",
+            "issue" : "121",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "122",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "123",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "124",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "125",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "126",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "127",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "128",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "129",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "130",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "131",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "132",
+            "status" : "BOUND"
+         }
+      ],
+      "1935" : [
+         {
+            "date" : "Jan",
+            "issue" : "133",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "134",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "135",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "136",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "137",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "138",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "139",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "140",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "141",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "142",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "143",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "144",
+            "status" : "BOUND"
+         }
+      ],
+      "1936" : [
+         {
+            "date" : "Jan",
+            "issue" : "145",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "146",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "147",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "148",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "149",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "150",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "151",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug-Sep",
+            "issue" : "152",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "153",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "154",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "155",
+            "status" : "BOUND"
+         }
+      ],
+      "1937" : [
+         {
+            "date" : "Jan",
+            "issue" : "156",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "157",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "158",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "159",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "160",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "161",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "162",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "163",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "164",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "165",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "166",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "167",
+            "status" : "BOUND"
+         }
+      ],
+      "1938" : [
+         {
+            "date" : "Jan",
+            "issue" : "168",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "169",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "170",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "171",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "172",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "173",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "174",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "175",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "176",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "177",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "178",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "179",
+            "status" : "BOUND"
+         }
+      ],
+      "1939" : [
+         {
+            "date" : "Jan",
+            "issue" : "180",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "181",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "182",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "183",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "184",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "185",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "186",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "187",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "188",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "189",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "190",
+            "status" : "BOUND"
+         }
+      ],
+      "1940" : [
+         {
+            "date" : "Jan",
+            "issue" : "191",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "192",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "193",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "194",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "195",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "196",
+            "status" : "BOUND"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Jan",
+            "issue" : "197",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "198",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "199",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "200",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "201",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "202",
+            "status" : "BOUND"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Jan",
+            "issue" : "203",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "204",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "205",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "206",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "207",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "208",
+            "status" : "BOUND"
+         }
+      ],
+      "1943" : [
+         {
+            "date" : "Jan",
+            "issue" : "209",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "210",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "211",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "212",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "213",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "214",
+            "status" : "BOUND"
+         }
+      ],
+      "1944" : [
+         {
+            "date" : "Jan",
+            "issue" : "215",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "216",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "217",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "218",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "219",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "220",
+            "status" : "BOUND"
+         }
+      ],
+      "1945" : [
+         {
+            "date" : "Jan",
+            "issue" : "221",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "222",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "223",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "224",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "225",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "226",
+            "status" : "BOUND"
+         }
+      ],
+      "1946" : [
+         {
+            "date" : "Jan",
+            "issue" : "227",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "228",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "229",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "230",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "231",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "232",
+            "status" : "BOUND"
+         }
+      ],
+      "1947" : [
+         {
+            "date" : "Jan",
+            "issue" : "233",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "234",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "235",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "236",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "237",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "238",
+            "status" : "BOUND"
+         }
+      ],
+      "1948" : [
+         {
+            "date" : "Jan",
+            "issue" : "239",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "240",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "241",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "242",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "243",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "244",
+            "status" : "BOUND"
+         }
+      ],
+      "1949" : [
+         {
+            "date" : "Jan",
+            "issue" : "245",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "246",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "247",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "248",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "249",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "250",
+            "status" : "BOUND"
+         }
+      ],
+      "1950" : [
+         {
+            "date" : "Jan",
+            "issue" : "251",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "252",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "253",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "254",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "255",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "256",
+            "status" : "BOUND"
+         }
+      ],
+      "1951" : [
+         {
+            "date" : "Jan",
+            "issue" : "257",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "258",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "259",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "260",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "261",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "262",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "date" : "Jan",
+            "issue" : "263",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "264",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "265",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "266",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "267",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "268",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Jan",
+            "issue" : "269",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "270",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "271",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "272",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "273",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "274",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "issue" : "275",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "276",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "277",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "278",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "279",
+            "status" : "BOUND"
+         }
+      ],
+      "1973" : [
+         {
+            "date" : "Summer",
+            "issue" : "280",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "281",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "282",
+            "status" : "BOUND"
+         }
+      ],
+      "1974" : [
+         {
+            "date" : "Summer",
+            "issue" : "283",
+            "status" : "BOUND"
+         }
+      ],
+      "1981" : [
+         {
+            "date" : "Spring",
+            "issue" : "284",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "285",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "286",
+            "status" : "MISSING"
+         }
+      ],
+      "1983" : [
+         {
+            "date" : "Summer",
+            "issue" : "287",
+            "status" : "MISSING"
+         }
+      ],
+      "1984" : [
+         {
+            "date" : "Fall",
+            "issue" : "288",
+            "status" : "OWNED"
+         }
+      ],
+      "1985" : [
+         {
+            "date" : "Winter",
+            "issue" : "289",
+            "status" : "MISSING"
+         }
+      ],
+      "1988" : [
+         {
+            "date" : "Spring",
+            "issue" : "290",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "291",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "292",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "293",
+            "status" : "OWNED"
+         }
+      ],
+      "1989" : [
+         {
+            "date" : "Fall",
+            "issue" : "294",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "295",
+            "status" : "OWNED"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "296",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "297",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "298",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "299",
+            "status" : "OWNED"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Spring",
+            "issue" : "300",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "301",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "302",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "303",
+            "status" : "OWNED"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Spring",
+            "issue" : "304",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "305",
+            "status" : "OWNED"
+         }
+      ],
+      "1993" : [
+         {
+            "date" : "Spring",
+            "issue" : "306",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "307",
+            "status" : "OWNED"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Spring",
+            "issue" : "308",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "309",
+            "status" : "OWNED"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Spring",
+            "issue" : "310",
+            "status" : "OWNED"
+         }
+      ],
+      "1996" : [
+         {
+            "date" : "Summer",
+            "issue" : "311",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "312",
+            "status" : "OWNED"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Summer",
+            "issue" : "313",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "314",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Spring",
+            "issue" : "315",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "316",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "317",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "318",
+            "status" : "MISSING"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Spring",
+            "issue" : "319",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "320",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "321",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "322",
+            "status" : "MISSING"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Spring",
+            "issue" : "323",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "324",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "325",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "326",
+            "status" : "OWNED"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Spring",
+            "issue" : "327",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "328",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "329",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "330",
+            "status" : "MISSING"
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Spring",
+            "issue" : "331",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul-Aug",
+            "issue" : "332",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep-Oct",
+            "issue" : "333",
+            "status" : "MISSING"
+         }
+      ],
+      "2004" : [
+         {
+            "date" : "Jan-Feb",
+            "issue" : "334",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar-Apr",
+            "issue" : "335",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "336",
+            "status" : "MISSING"
+         }
+      ],
+      "2005" : [
+         {
+            "date" : "Jul",
+            "issue" : "337",
+            "status" : "MISSING"
+         }
+      ],
+      "2006" : [
+         {
+            "date" : "Jan-Feb",
+            "issue" : "338",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar-Apr",
+            "issue" : "339",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May-Jun",
+            "issue" : "340",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug-Sep",
+            "issue" : "341",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct-Nov",
+            "issue" : "342",
+            "status" : "MISSING"
+         }
+      ],
+      "2007" : [
+         {
+            "date" : "Feb-Mar",
+            "issue" : "343",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr-May",
+            "issue" : "344",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun-Jul",
+            "issue" : "345",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep-Oct",
+            "issue" : "346",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov-Dec",
+            "issue" : "347",
+            "status" : "MISSING"
+         }
+      ],
+      "2008" : [
+         {
+            "date" : "Jan-Feb",
+            "issue" : "348",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar-Apr",
+            "issue" : "349",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul-Aug",
+            "issue" : "350",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep-Oct",
+            "issue" : "351",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov-Dec",
+            "issue" : "352",
+            "status" : "MISSING"
+         }
+      ],
+      "2009" : [
+         {
+            "date" : "Spring",
+            "issue" : "353",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "354",
+            "status" : "MISSING"
+         }
+      ],
+      "2010" : [
+         {
+            "date" : "Spring",
+            "issue" : "355",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "356",
+            "status" : "MISSING"
+         }
+      ],
+      "2011" : [
+         {
+            "date" : "Spring",
+            "issue" : "357",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "358",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "WFC Preview Issue",
+            "status" : "MISSING"
+         }
+      ],
+      "2012" : [
+         {
+            "date" : "Winter2",
+            "issue" : "359",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "360",
+            "status" : "MISSING"
+         }
+      ],
+      "2013" : [
+         {
+            "date" : "Summer",
+            "issue" : "361",
+            "status" : "MISSING"
+         }
+      ],
+      "2014" : [
+         {
+            "date" : "Spring",
+            "issue" : "362",
+            "status" : "MISSING"
+         }
+      ],
+      "2019" : [
+         {
+            "date" : "Jan",
+            "issue" : "363",
+            "status" : "MISSING"
+         }
+      ],
+      "2020" : [
+         {
+            "date" : "Dec",
+            "issue" : "364",
+            "status" : "MISSING"
+         }
+      ],
+      "2021" : [
+         {
+            "date" : "Jul",
+            "issue" : "365",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "366",
+            "status" : "MISSING"
+         }
+      ],
+      "2023" : [
+         {
+            "date" : "May",
+            "issue" : "367",
+            "status" : "MISSING"
+         }
+      ],
+      "2024" : [
+         {
+            "date" : "Apr",
+            "issue" : "368",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "369",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

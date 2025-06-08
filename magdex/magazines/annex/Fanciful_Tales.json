@@ -1,0 +1,14 @@
+{
+   "alternate" : [],
+   "box" : "4",
+   "grid" : "ISSUES",
+   "name" : "Fanciful Tales",
+   "years" : {
+      "1936" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

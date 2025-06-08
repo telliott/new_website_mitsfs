@@ -1,0 +1,91 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Avon Fantasy Reader",
+   "years" : {
+      "1947": [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1948": [
+         {
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "1949": [
+         {
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "11",
+            "status" : "BOUND"
+         }
+      ],
+      "1950": [
+         {
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "14",
+            "status" : "BOUND"
+         }
+      ],
+      "1951": [
+         {
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "17",
+            "status" : "BOUND"
+         }
+      ],
+      "1952": [
+         {
+            "issue" : "18 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

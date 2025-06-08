@@ -1,0 +1,104 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "ISSUES",
+   "name" : "Abenteuer im Weltenraum",
+   "years" : {
+      "1958" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ],
+      "1959" : [
+         {
+            "issue" : "15",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ],
+      "1960" : [
+         {
+            "issue" : "18",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "ISSUES",
+   "name" : "Weird Science Illustories",
+   "years" : {
+      "1950" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

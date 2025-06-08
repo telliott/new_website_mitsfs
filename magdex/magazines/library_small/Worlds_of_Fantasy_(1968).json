@@ -1,0 +1,29 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Worlds of Fantasy (1968)",
+   "years" : {
+      "1968" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1970" : [
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "issue" : "4 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

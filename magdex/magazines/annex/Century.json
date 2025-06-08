@@ -1,0 +1,44 @@
+{
+   "alternate" : [],
+   "box" : "4",
+   "grid" : "ISSUES",
+   "name" : "Century",
+   "years" : {
+      "1995" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1996" : [
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "2000" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

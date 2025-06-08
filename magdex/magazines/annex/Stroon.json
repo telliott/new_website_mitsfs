@@ -1,0 +1,57 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "ISSUES",
+   "name" : "Stroon",
+   "years" : {
+      "1966" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1967" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

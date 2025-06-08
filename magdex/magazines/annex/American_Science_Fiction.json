@@ -1,0 +1,221 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "ISSUES",
+   "name" : "American Science Fiction",
+   "years" : {
+      "1952" : [
+         {
+            "issue" : "1 (Red Death of Mars)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2 (Conquest of the Stars)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3 (The Man Who Sold the Moon)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4 (The Solado Ant)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5 (The Thing From Another World)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6 (Death of the Moon)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7 (The Unknown)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "8 (Clash By Night)",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "9 (The Monster)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10 (Refuge for Tonight)",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "11 (Adventure in Time)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "12 (Fires of Forever)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "13 (Moonwalk)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "14 (Moon-blind)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "15 (The Dead World)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "16 (Dead Knowledge)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "17 (Elimination)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "18 (Danger Moon)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "19 (Veiled Knowledge)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "20 (The Invaders)",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1954" : [
+         {
+            "issue" : "21 (The Other Side)",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "22 (Men Against the Stars)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "23 (The Lonely Planet)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24 (There Shall Be Darkness)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "25 (Never Trust a Martian)",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "26 (The Ark of Mars)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "27 (Double Identity)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "28 (Way of the Gods)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "29 (Remember Tomorrow)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "30 (Derelict of Space)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "31 (The Moving Finger)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "32 (Meteor of Death)",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1955" : [
+         {
+            "issue" : "33 (The Worlds West)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "34 (Sword of Tomorrow)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "35 (Common Time)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "36 (Of Such as These)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "37 (The Guthrie Method)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "38 (As You Were)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "39 (The Irrationals)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "40 (The Gift of the Gods)",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "41 (Stopwatch on the World)",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

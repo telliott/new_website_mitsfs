@@ -1,0 +1,48 @@
+{
+   "alternate" : [],
+   "box" : "24/bondagecomm",
+   "grid" : "MONTH",
+   "name" : "Scientific Detective Monthly",
+   "years" : {
+      "1929" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1930" : [
+         {
+            "date" : "Jan",
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Mar",
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr",
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "May",
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

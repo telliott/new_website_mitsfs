@@ -1,0 +1,61 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "ISSUES",
+   "name" : "Analog Anthology",
+   "years" : {
+      "1981" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

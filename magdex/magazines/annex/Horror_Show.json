@@ -1,0 +1,171 @@
+{
+   "alternate" : [],
+   "box" : "19",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Horror Show",
+   "years" : {
+      "1982" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1983" : [
+         {
+            "date" : "Winter",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1984" : [
+         {
+            "date" : "Winter",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "8",
+            "status" : "OWNED"
+         }
+      ],
+      "1985" : [
+         {
+            "date" : "Winter",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "12",
+            "status" : "OWNED"
+         }
+      ],
+      "1986" : [
+         {
+            "date" : "Winter",
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "14",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "15",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "16",
+            "status" : "OWNED"
+         }
+      ],
+      "1987" : [
+         {
+            "date" : "Jan",
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "18",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "19",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "20",
+            "status" : "OWNED"
+         }
+      ],
+      "1988" : [
+         {
+            "date" : "Winter",
+            "issue" : "21",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "22",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "23",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "24",
+            "status" : "OWNED"
+         }
+      ],
+      "1989" : [
+         {
+            "date" : "Winter",
+            "issue" : "25",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "26",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "27",
+            "status" : "OWNED"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "28",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

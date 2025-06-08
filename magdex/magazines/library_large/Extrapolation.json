@@ -1,0 +1,72 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Extrapolation",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+					},
+   "years" : {
+      "2010" : [
+         {
+            "date" : "Spring",
+            "volume": "51",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "volume": "51",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "volume": "51",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "2011" : [
+         {
+            "date" : "Spring",
+            "volume": "52",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "volume": "52",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "volume": "52",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "2012" : [
+         {
+            "date" : "Spring",
+            "volume": "53",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "volume": "53",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "volume": "53",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

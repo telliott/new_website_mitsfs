@@ -1,0 +1,71 @@
+{
+   "alternate" : [],
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Autumn": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "box" : "5",
+   "grid" : "MONTH",
+   "name" : "Postscripts",
+   "years" : {
+      "2004" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "2005" : [
+         {
+            "date" : "Spring",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "2006" : [
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "9",
+            "status" : "MISSING"
+         }
+      ],
+      "2007" : [
+         {
+            "date" : "May",
+            "issue" : "10",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

@@ -1,0 +1,136 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Fantasy Book",
+   "years" : {
+      "1981" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1982" : [
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1983" : [
+         {
+            "date" : "Feb",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "10",
+            "status" : "OWNED"
+         }
+      ],
+      "1984" : [
+         {
+            "date" : "Mar",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "14",
+            "status" : "OWNED"
+         }
+      ],
+      "1985" : [
+         {
+            "date" : "Mar",
+            "issue" : "15",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "16",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "18",
+            "status" : "OWNED"
+         }
+      ],
+      "1986" : [
+         {
+            "date" : "Mar",
+            "issue" : "19",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "20",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "21",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "22",
+            "status" : "OWNED"
+         }
+      ],
+      "1987" : [
+         {
+            "date" : "Mar",
+            "issue" : "23",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

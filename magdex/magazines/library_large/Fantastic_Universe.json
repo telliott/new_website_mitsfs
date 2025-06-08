@@ -1,0 +1,368 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Fantastic Universe",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Jun-Jul",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug-Sep",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct-Nov",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "11",
+            "status" : "BOUND"
+         }
+      ],
+      "1955" : [
+         {
+            "date" : "Jan",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "19",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "21",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "22",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "23",
+            "status" : "BOUND"
+         }
+      ],
+      "1956" : [
+         {
+            "date" : "Jan",
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "25",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "26",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "27",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "28",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "29",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "30",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "31",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "32",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "33",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "34",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "35",
+            "status" : "BOUND"
+         }
+      ],
+      "1957" : [
+         {
+            "date" : "Jan",
+            "issue" : "36",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "37",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "38",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "39",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "40",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "41",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "42",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "43",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "44",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "45",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "46",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "47",
+            "status" : "BOUND"
+         }
+      ],
+      "1958" : [
+         {
+            "date" : "Jan",
+            "issue" : "48",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "49",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "50",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "51",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "52",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "53",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "54",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "55",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "56",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "57",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "58",
+            "status" : "BOUND"
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Jan",
+            "issue" : "59",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "60",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "61",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "62",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "63",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "64",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "65",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "66",
+            "status" : "BOUND"
+         }
+      ],
+      "1960" : [
+         {
+            "date" : "Jan",
+            "issue" : "67",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "68",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "69",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

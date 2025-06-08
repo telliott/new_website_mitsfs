@@ -1,0 +1,34 @@
+{
+   "alternate" : [],
+   "box" : "",
+   "grid" : "ISSUES",
+   "name" : "21C",
+   "years" : {
+      "1996" : [
+         {
+            "issue" : "23",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1997" : [
+         {
+            "issue" : "24",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1998" : [
+         {
+            "issue" : "26",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

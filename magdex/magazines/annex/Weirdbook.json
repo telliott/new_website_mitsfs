@@ -1,0 +1,208 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "ISSUES",
+   "name" : "Weirdbook",
+   "years" : {
+      "1968" : [
+         {
+            "issue" : "Sampler",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1969" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1970" : [
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1971" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1972" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1973" : [
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1974" : [
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1975" : [
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1976" : [
+         {
+            "issue" : "10",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "13",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1979" : [
+         {
+            "issue" : "14",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1981" : [
+         {
+            "issue" : "15",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "16",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "17",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "19",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "20",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "22",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1988" : [
+         {
+            "issue" : "23/24",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1990" : [
+         {
+            "issue" : "25",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1991" : [
+         {
+            "issue" : "26",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "27",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "28",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1995" : [
+         {
+            "issue" : "29",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1997" : [
+         {
+            "issue" : "30 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

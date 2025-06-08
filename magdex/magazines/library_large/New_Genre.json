@@ -1,0 +1,61 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "name" : "New Genre",
+   "years" : {
+      "2000" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "2006" : [
+         {
+            "date" : "Winter",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "2007" : [
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "2009" : [
+         {
+            "date" : "Summer",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "2015" : [
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

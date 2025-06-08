@@ -1,0 +1,254 @@
+{
+   "alternate" : [],
+   "box" : "17",
+   "grid" : "ISSUES",
+   "name" : "Mark Powers",
+   "years" : {
+      "1962" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1963" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "22",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "29",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "30",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1964" : [
+         {
+            "issue" : "31",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "32",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "33",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "34",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "35",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "36",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "37",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "38",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "39",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "40",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "41",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "42",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "43",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "44",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "45",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "46",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "47",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "48",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

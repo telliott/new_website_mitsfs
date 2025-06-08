@@ -1,0 +1,401 @@
+{
+   "alternate" : ["Future Combined with Science Fiction", "Future Fantasy and Science Fiction"],
+   "grid" : "MONTH",
+   "season_map": { "Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "name" : "Future Fiction",
+   "years" : {
+      "1939" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1940" : [
+         {
+            "date" : "Mar",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Apr",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+    	 {
+            "date" : "Aug",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Feb",
+            "volume": "2",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+    	 {
+            "date" : "Apr",
+            "volume": "2",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+    	 {
+            "date" : "Jun",
+            "volume": "2",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+    	 {
+            "date" : "Aug",
+            "volume": "2",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "volume": "3",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "volume": "3",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1943" : [
+         {
+            "date" : "Feb",
+            "volume": "3",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "volume": "3",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "volume": "3",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1950" : [
+         {
+            "date" : "May-Jun",
+            "volume" : "1",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul-Aug",
+            "volume" : "1",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep-Oct",
+            "volume" : "1",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "1",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1951" : [
+         {
+            "date" : "Jan",
+            "volume" : "1",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "1",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "volume" : "2",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "2",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "2",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "2",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "date" : "Jan",
+            "volume" : "2",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "2",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "volume" : "3",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "3",
+            "issue" : "32",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "3",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "3",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Jan",
+            "volume" : "3",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "3",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "volume" : "4",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "4",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "4",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "4",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "volume" : "4",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "4",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "25",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "26",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "27",
+            "status" : "BOUND"
+         }
+      ],
+            "1955" : [
+         {
+            "date" : "Spring",
+            "issue" : "28",
+            "status" : "BOUND"
+         }
+      ],
+      "1956" : [
+         {
+            "date" : "Spring",
+            "issue" : "29",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "30",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "31",
+            "status" : "BOUND"
+         }
+      ],
+      "1957" : [
+         {
+            "date" : "Spring",
+            "issue" : "32",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "33",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "34",
+            "status" : "BOUND"
+         }
+      ],
+      "1958" : [
+         {
+            "date" : "Feb",
+            "issue" : "35",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "36",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "37",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "38",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "39",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "40",
+            "status" : "BOUND"
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Feb",
+            "issue" : "41",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "42",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "43",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "44",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "45",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "46",
+            "status" : "BOUND"
+         }
+      ],
+      "1960" : [
+         {
+            "date" : "Feb",
+            "issue" : "47",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "48",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

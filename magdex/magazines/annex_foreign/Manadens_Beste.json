@@ -1,0 +1,28 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "MONTH",
+   "name" : "Manadens Beste",
+   "years" : {
+      "1975" : [
+         {
+            "date" : "Sep",
+            "issue" : "343",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Oct",
+            "issue" : "344",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Nov",
+            "issue" : "345",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,59 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Space Science Fiction",
+   "years" : {
+      "1952" : [
+         {
+            "date" : "May",
+            "issue" : "1",
+            "location" : "LIBRARY",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "2",
+            "location" : "LIBRARY",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "3",
+            "location" : "LIBRARY",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Feb",
+            "issue" : "4",
+            "location" : "LIBRARY",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "5",
+            "location" : "LIBRARY",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "6",
+            "location" : "LIBRARY",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "7",
+            "location" : "LIBRARY",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "8",
+            "location" : "LIBRARY",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

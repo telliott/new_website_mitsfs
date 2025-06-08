@@ -1,0 +1,25 @@
+{
+   "alternate" : [],
+   "box" : "15",
+   "grid" : "MONTH",
+   "name" : "Extro",
+   "years" : {
+      "1982" : [
+         {
+            "date" : "Feb-Mar",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr-May",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul-Aug",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

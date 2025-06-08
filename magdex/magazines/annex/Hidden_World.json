@@ -1,0 +1,101 @@
+{
+   "alternate" : [],
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "box" : "4",
+   "grid" : "MONTH",
+   "name" : "Hidden World",
+   "years" : {
+      "1961" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1962" : [
+         {
+            "date" : "Spring",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1963" : [
+         {
+            "date" : "Spring",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1964" : [
+         {
+            "date" : "Spring",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

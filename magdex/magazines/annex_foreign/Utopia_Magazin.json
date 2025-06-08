@@ -1,0 +1,147 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "ISSUES",
+   "name" : "Utopia Magazin",
+   "note": "Issues 1 and 2 are titled Utopia Sonderband, but not the same as the series of that name",
+   "years" : {
+      "1955" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1956" : [
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1958" : [
+         {
+            "issue" : "19",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "22",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1959" : [
+         {
+            "issue" : "25",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

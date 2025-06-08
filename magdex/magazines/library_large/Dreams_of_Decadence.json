@@ -1,0 +1,123 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Dreams of Decadence",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Spring-Summer": "Jan-Feb-Mar-Apr-May-Jun",
+					"Summer": "Apr-May-Jun",
+					"Autumn": "Jul-Aug-Sep",
+					"Fall": "Jul-Aug-Sep",
+					"Fall-Winter": "Jul-Aug-Sep-Oct-Nov-Dec",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1995" : [
+         {
+            "date" : "Fall-Winter",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1996" : [
+         {
+            "date" : "Spring-Summer",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1997" : [
+         {
+            "date" : "Spring",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall-Winter",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Spring",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "9",
+            "status" : "MISSING"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Spring",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "13",
+            "status" : "MISSING"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Summer",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "15",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "16",
+            "status" : "OWNED"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Summer",
+            "issue" : "17",
+            "status" : "OWNED"
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Fall",
+            "issue" : "18",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

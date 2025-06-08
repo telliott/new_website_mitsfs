@@ -1,0 +1,468 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "ISSUES",
+   "name" : "Zeitkugel",
+   "years" : {
+      "1974" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1975" : [
+         {
+            "issue" : "21",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "22",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "29",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "30",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "31",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "32",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "33",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "34",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "35",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "36",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "37",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "38",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "39",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "40",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1976" : [
+         {
+            "issue" : "41",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "42",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "43",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "44",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "45",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "46",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "47",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "48",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "49",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "50",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "51",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "52",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "53",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "54",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "55",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "56",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "57",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "58",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "59",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "60",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "issue" : "61",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "62",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "63",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "64",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "65",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "66",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "67",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "68",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "69",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "70",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "71",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "72",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "73",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "74",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "75",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "76",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "77",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "78",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "79",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "80",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "81",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "82",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "83",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "84",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "85",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "86",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "87",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "88",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "89",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "90",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

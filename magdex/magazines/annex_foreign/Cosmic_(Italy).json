@@ -1,0 +1,27 @@
+{
+   "alternate" : [],
+   "box" : "25",
+   "grid" : "ISSUES",
+   "name" : "Cosmic (Italy)",
+   "years" : {
+      "1957" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1958" : [
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

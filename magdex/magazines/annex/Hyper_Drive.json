@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "ISSUES",
+   "name" : "Hyper Drive",
+   "years" : {
+      "1968" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : "1"
+         }
+      ]
+   }
+}

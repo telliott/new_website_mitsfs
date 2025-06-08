@@ -1,0 +1,48 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "MONTH",
+   "name" : "Science Fiction (Canada)",
+   "years" : {
+      "1941" : [
+         {
+            "date" : "Oct",
+            "volume": "1",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "1",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Jan",
+            "volume": "2",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "2",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "volume": "2",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "2",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

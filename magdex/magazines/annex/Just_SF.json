@@ -1,0 +1,22 @@
+{
+   "alternate" : [],
+   "box" : "",
+   "grid" : "ISSUES",
+   "name" : "Just SF",
+   "years" : {
+      "1981" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : "1"
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "1 (Paradox)",
+            "status" : "OWNED",
+            "volume" : "2"
+         }
+      ]
+   }
+}

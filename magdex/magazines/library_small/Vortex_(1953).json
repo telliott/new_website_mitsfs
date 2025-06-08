@@ -1,0 +1,19 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Vortex",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

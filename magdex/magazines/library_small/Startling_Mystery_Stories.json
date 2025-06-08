@@ -1,0 +1,114 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Startling Mystery Stories",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1966" : [
+         {
+            "date" : "Summer",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "7",
+            "status" : "OWNED"
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Spring",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "11",
+            "status" : "OWNED"
+         }
+      ],
+      "1969" : [
+         {
+            "date" : "Spring",
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "14",
+            "status" : "BOUND"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "Spring",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "17",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Mar",
+            "issue" : "18",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

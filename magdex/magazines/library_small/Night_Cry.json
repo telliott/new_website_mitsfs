@@ -1,0 +1,68 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Night Cry",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1985" : [
+         {
+            "date" : "Summer",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1986" : [
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "1987" : [
+         {
+            "date" : "Spring",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

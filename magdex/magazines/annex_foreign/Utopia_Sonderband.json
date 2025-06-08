@@ -1,0 +1,50 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "ISSUES",
+   "name" : "Utopia Sonderband",
+   "years" : {
+      "1963" : [
+         {
+            "issue" : "197",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "198",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "199",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "200",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "201",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "202",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "203",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "204",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,220 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "ISSUES",
+   "name" : "Avon Murder Mystery Monthly",
+   "years" : {
+      "1942" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1943" : [
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1944" : [
+         {
+            "issue" : "18 (The Moon Pool)",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "22",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1945" : [
+         {
+            "issue" : "28",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "29 (The Face in the Abyss)",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "30",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "31",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "32",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "33",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "34 (The Ship of Ishtar)",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1946" : [
+         {
+            "issue" : "44",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "45",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "46",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "47",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1950" : [
+         {
+            "issue" : "48",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "49",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,523 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "On Spec",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1989" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "5",
+            "status" : "OWNED"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "8",
+            "status" : "OWNED"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Spring",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "11",
+            "status" : "OWNED"
+         }
+      ],
+      "1993" : [
+         {
+            "date" : "Spring",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "15",
+            "status" : "BOUND"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Spring",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "19",
+            "status" : "BOUND"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Spring",
+            "issue" : "20",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "21",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "22",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "23",
+            "status" : "OWNED"
+         }
+      ],
+      "1996" : [
+         {
+            "date" : "Spring",
+            "issue" : "24",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "25",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "26",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "27",
+            "status" : "OWNED"
+         }
+      ],
+      "1997" : [
+         {
+            "date" : "Spring",
+            "issue" : "28",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "29",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "30",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "31",
+            "status" : "OWNED"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Spring",
+            "issue" : "32",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "33",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "34",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "35",
+            "status" : "OWNED"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Spring",
+            "issue" : "36",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "37",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "38",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "39",
+            "status" : "OWNED"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Spring",
+            "issue" : "40",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "41",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "42",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "43",
+            "status" : "OWNED"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Spring",
+            "issue" : "44",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "45",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "46",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "47",
+            "status" : "BOUND"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Spring",
+            "issue" : "48",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "49",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "50",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "51",
+            "status" : "BOUND"
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Spring",
+            "issue" : "52",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "53",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "54",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "55",
+            "status" : "OWNED"
+         }
+      ],
+      "2004" : [
+         {
+            "date" : "Spring",
+            "issue" : "56",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "57",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "58",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "59",
+            "status" : "OWNED"
+         }
+      ],
+      "2005" : [
+         {
+            "date" : "Spring",
+            "issue" : "60",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "61",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "62",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "63",
+            "status" : "OWNED"
+         }
+      ],
+      "2006" : [
+         {
+            "date" : "Spring",
+            "issue" : "64",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "65",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "66",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "67",
+            "status" : "OWNED"
+         }
+      ],
+      "2007" : [
+         {
+            "date" : "Spring",
+            "issue" : "68",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "69",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "70",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "71",
+            "status" : "OWNED"
+         }
+      ],
+      "2008" : [
+         {
+            "date" : "Spring",
+            "issue" : "72",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "73",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "74",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "75",
+            "status" : "OWNED"
+         }
+      ],
+      "2009" : [
+         {
+            "date" : "Spring",
+            "issue" : "76",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "77",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "78",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "79",
+            "status" : "OWNED"
+         }
+      ],
+      "2010" : [
+         {
+            "date" : "Spring",
+            "issue" : "80",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "81",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "82",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "83",
+            "status" : "OWNED"
+         }
+      ],
+      "2011" : [
+         {
+            "date" : "Spring",
+            "issue" : "84",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "85",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "86",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "87",
+            "status" : "OWNED"
+         }
+      ],
+      "2012" : [
+         {
+            "date" : "Spring",
+            "issue" : "88",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "89",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "90",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "91",
+            "status" : "MISSING"
+         }
+      ],
+      "2013" : [
+         {
+            "date" : "Spring",
+            "issue" : "92",
+            "status" : "OWNED"
+         }
+      ]
+
+   }
+}

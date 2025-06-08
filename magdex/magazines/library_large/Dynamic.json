@@ -1,0 +1,43 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Dynamic",
+   "years" : {
+      "1952" : [
+         {
+            "date" : "Dec",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Mar",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "issue" : "6",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,127 @@
+{
+   "alternate" : [],
+   "box" : "16",
+   "grid" : "MONTH",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "name" : "2AM",
+   "years" : {
+      "1986" : [
+         {
+            "date" : "Fall",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1987" : [
+         {
+            "date" : "Spring",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1988" : [
+         {
+            "date" : "Spring",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "10",
+            "status" : "OWNED"
+         }
+      ],
+      "1989" : [
+         {
+            "date" : "Spring",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "14",
+            "status" : "MISSING"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "15",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Spring",
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "18",
+            "status" : "OWNED"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Spring",
+            "issue" : "19",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "20",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

@@ -1,0 +1,35 @@
+{
+   "alternate" : [],
+   "box" : "19",
+   "grid" : "MONTH",
+   "name" : "Vortex (1977)",
+   "years" : {
+      "1977" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "5",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

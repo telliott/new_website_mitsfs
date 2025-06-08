@@ -1,0 +1,27 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "MONTH",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "name" : "Infinity (1982)",
+   "years" : {
+      "1982" : [
+         {
+            "date" : "Fall",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1983" : [
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

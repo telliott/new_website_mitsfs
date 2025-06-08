@@ -1,0 +1,46 @@
+{
+   "alternate" : [],
+   "box" : "14",
+   "grid" : "ISSUES",
+   "name" : "Super Fantascienza Illustrato",
+   "years" : {
+      "1961" : [
+         {
+            "issue" : "0",
+            "status" : "OWNED",
+            "volume" : "",
+            "note" : "Le Vampire Di Venere"
+         },
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,71 @@
+{
+   "alternate" : ["sf Impulse"],
+   "grid" : "MONTH",
+   "name" : "Impulse",
+   "years" : {
+      "1966" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Jan",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "12",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

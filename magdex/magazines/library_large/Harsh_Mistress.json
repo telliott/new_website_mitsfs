@@ -1,0 +1,22 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Harsh Mistress",
+   "season_map": { "Spring-Summer": "Apr-May-Jun-Jul-Aug-Sep"},
+   "years" : {
+      "1993" : [
+         {
+            "date" : "Spring-Summer",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Spring-Summer",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

@@ -1,0 +1,37 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Nova Science Fiction",
+   "years" : {
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

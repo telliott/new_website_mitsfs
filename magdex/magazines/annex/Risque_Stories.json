@@ -1,0 +1,48 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "ISSUES",
+   "name" : "Risque Stories",
+   "years" : {
+      "1984" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1988" : [
+         {
+            "issue" : "6 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

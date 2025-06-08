@@ -1,0 +1,255 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Science Fiction Age",
+   "years" : {
+      "1992" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1993" : [
+         {
+            "date" : "Jan",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "7",
+            "status" : "OWNED"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Jan",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "13",
+            "status" : "OWNED"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Jan",
+            "issue" : "14",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "15",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "16",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "18",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "19",
+            "status" : "OWNED"
+         }
+      ],
+      "1996" : [
+         {
+            "date" : "Jan",
+            "issue" : "20",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "21",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "22",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "23",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "24",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "25",
+            "status" : "OWNED"
+         }
+      ],
+      "1997" : [
+         {
+            "date" : "Jan",
+            "issue" : "26",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "27",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "28",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "29",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "30",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "31",
+            "status" : "OWNED"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Jan",
+            "issue" : "32",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "33",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "34",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "35",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "36",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "37",
+            "status" : "OWNED"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Jan",
+            "issue" : "38",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "39",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "40",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "41",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "42",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "43",
+            "status" : "OWNED"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Jan",
+            "issue" : "44",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "45",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "46",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

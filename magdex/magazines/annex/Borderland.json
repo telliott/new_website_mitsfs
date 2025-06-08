@@ -1,0 +1,41 @@
+{
+   "alternate" : [],
+   "box": "15",
+   "grid" : "ISSUES",
+   "name" : "Borderland",
+   "years" : {
+      "1984" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+        {
+            "issue" : "Con Issue",
+            "status" : "OWNED"
+         }
+
+      ]
+   }
+}

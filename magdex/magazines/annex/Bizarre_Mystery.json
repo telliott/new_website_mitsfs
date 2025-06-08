@@ -1,0 +1,30 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "MONTH",
+   "name" : "Bizarre Mystery",
+   "years" : {
+      "1965" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Nov",
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1966" : [
+         {
+            "date" : "Jan",
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

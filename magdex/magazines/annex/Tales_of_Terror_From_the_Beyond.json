@@ -1,0 +1,16 @@
+{
+   "alternate" : [],
+   "box" : "6",
+	"season_map": { "Summer": "Apr-May-Jun" },
+   "grid" : "MONTH",
+   "name" : "Tales of Terror From the Beyond",
+   "years" : {
+      "1964" : [
+         {
+            "date" : "Summer",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

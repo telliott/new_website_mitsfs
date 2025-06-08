@@ -1,0 +1,37 @@
+{
+   "alternate" : [],
+   "box" : "24",
+   "grid" : "ISSUES",
+   "name" : "Galassia (1956)",
+   "years" : {
+      "1956" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1957" : [
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,153 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Pandora",
+   "years" : {
+      "1978" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1979" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1981" : [
+         {
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED"
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "9",
+            "status" : "OWNED"
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "11",
+            "status" : "OWNED"
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "12",
+            "status" : "OWNED"
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED"
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "17",
+            "status" : "MISSING"
+         }
+      ],
+      "1988" : [
+         {
+            "issue" : "18",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "21",
+            "status" : "MISSING"
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "24",
+            "status" : "MISSING"
+         }
+      ],
+      "1990" : [
+         {
+            "issue" : "25",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "26",
+            "status" : "OWNED"
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "27",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "28",
+            "status" : "MISSING"
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "29 ",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

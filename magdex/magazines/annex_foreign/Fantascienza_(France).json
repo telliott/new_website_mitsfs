@@ -1,0 +1,29 @@
+{
+   "alternate" : [],
+   "box" : "29",
+   "grid" : "ISSUES",
+   "name" : "Fantascienza (France)",
+   "years" : {
+      "1979" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "2/3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1981" : [
+         {
+            "issue" : "4/5/6/7",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

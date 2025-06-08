@@ -1,0 +1,48 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Arkham Sampler",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Autumn": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1948" : [
+         {
+            "issue" : "Win",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "Spr",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "Sum",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "Fll",
+            "status" : "MISSING"
+         }
+      ],
+      "1949" : [
+         {
+            "issue" : "Win",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "Spr",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "Sum",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "Fll ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,49 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "ISSUES",
+   "name" : "Literary Magazine of Fantasy and Terror",
+   "years" : {
+      "1973" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1974" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "6/7",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1975" : [
+         {
+            "issue" : "",
+            "status" : "OWNED",
+            "volume" : "2A"
+         }
+      ]
+   }
+}

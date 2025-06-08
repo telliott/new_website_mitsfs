@@ -1,0 +1,242 @@
+{
+   "alternate" : ["Most Thrilling Science Fiction Ever Told"],
+   "season_map": { "Spring": "Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Thrilling",
+   "years" : {
+      "1966" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Spring",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Spring",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "11",
+            "status" : "BOUND"
+         }
+      ],
+      "1969" : [
+         {
+            "date" : "Spring",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "14",
+            "status" : "BOUND"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "Spring",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "18",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Spring",
+            "issue" : "19",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "21",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "22",
+            "status" : "BOUND"
+         }
+      ],
+      "1972" : [
+         {
+            "date" : "Feb",
+            "issue" : "23",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "25",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "26",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "27",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "28",
+            "status" : "BOUND"
+         }
+      ],
+      "1973" : [
+         {
+            "date" : "Feb",
+            "issue" : "29",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "30",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "31",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "32",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "33",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "34",
+            "status" : "BOUND"
+         }
+      ],
+      "1974" : [
+         {
+            "date" : "Feb",
+            "issue" : "35",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "36",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "37",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "38",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "39",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "40",
+            "status" : "BOUND"
+         }
+      ],
+      "1975" : [
+         {
+            "date" : "Apr",
+            "issue" : "41",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "42",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

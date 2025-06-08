@@ -1,0 +1,36 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Weird Mystery",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+					},
+   "years" : {
+      "1970" : [
+         {
+            "date" : "Fall",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Spring",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

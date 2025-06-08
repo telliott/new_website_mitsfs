@@ -1,0 +1,39 @@
+{
+   "alternate" : ["Dragonbane", "Beyond the Fields We Know"],
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "box" : "1",
+   "grid" : "MONTH",
+   "name" : "Dragonfields",
+   "years" : {
+      "1978" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1980" : [
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1983" : [
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

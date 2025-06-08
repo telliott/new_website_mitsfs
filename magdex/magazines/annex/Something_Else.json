@@ -1,0 +1,32 @@
+{
+   "alternate" : [],
+   "box" : "17",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Autumn": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Something Else",
+   "years" : {
+      "1980" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1984" : [
+         {
+            "date" : "Spring",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

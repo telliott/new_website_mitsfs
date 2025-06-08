@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "14",
+   "grid" : "ISSUES",
+   "name" : "Sword and Sorcery Annual",
+   "years" : {
+      "1975" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

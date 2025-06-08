@@ -1,0 +1,29 @@
+{
+   "alternate" : [],
+   "box" : "23",
+   "grid" : "ISSUES",
+   "name" : "Oracle",
+   "years" : {
+      "1982" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "3 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

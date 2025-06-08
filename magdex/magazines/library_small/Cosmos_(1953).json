@@ -1,0 +1,31 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Cosmos",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Sep",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

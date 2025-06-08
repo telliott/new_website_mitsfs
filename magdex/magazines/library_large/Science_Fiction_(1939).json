@@ -1,0 +1,73 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Science Fiction (1939)",
+   "years" : {
+      "1939" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1940" : [
+         {
+            "date" : "Mar",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Jan",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "12",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

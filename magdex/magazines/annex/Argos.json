@@ -1,0 +1,29 @@
+{
+   "alternate" : [],
+   "box" : "3",
+	"season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep"
+	},
+   "grid" : "MONTH",
+   "name" : "Argos",
+   "years" : {
+      "1988" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

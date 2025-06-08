@@ -1,0 +1,31 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Science Stories",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

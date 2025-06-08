@@ -1,0 +1,39 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "ISSUES",
+   "name" : "Futuristic Tales",
+   "years" : {
+      "1980" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1981" : [
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "4 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

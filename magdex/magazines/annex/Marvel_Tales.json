@@ -1,0 +1,40 @@
+{
+   "alternate" : [],
+   "box" : "4",
+   "grid" : "MONTH",
+   "season_map": { "Summer": "Jun-Jul-Aug",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "name" : "Marvel Tales",
+   "years" : {
+      "1934" : [
+         {
+            "date" : "May",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul-Aug",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1935" : [
+         {
+            "date" : "Mar-Apr",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

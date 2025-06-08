@@ -1,0 +1,8 @@
+Title: Twilight
+Author: Meyer, Stephenie
+Year: 2005
+Publisher: Little, Brown and Company
+Reviewer: Alan Smithee
+Reviewed: 2009-12-16
+
+<img class="img-responsive" width="100%" src="/images/Meyer-Twilight.jpg" alt="Twilight Review">

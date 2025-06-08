@@ -1,0 +1,759 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "If",
+   "years" : {
+      "1952" : [
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1955" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1956" : [
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1957" : [
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1958" : [
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         }
+      ],
+      "1960" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         }
+      ],
+      "1961" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         }
+      ],
+      "1962" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         }
+      ],
+      "1963" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         }
+      ],
+      "1964" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1965" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1966" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1969" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "Jan",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "status" : "OWNED"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1972" : [
+         {
+            "date" : "Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1973" : [
+         {
+            "date" : "Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1974" : [
+         {
+            "date" : "Feb",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "status" : "OWNED"
+         }
+      ],
+      "1986" : [
+         {
+            "date" : "Sep-Oct-Nov",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

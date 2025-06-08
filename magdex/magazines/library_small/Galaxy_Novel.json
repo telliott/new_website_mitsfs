@@ -1,0 +1,215 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Galaxy Novel",
+   "years" : {
+      "1950" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1951" : [
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "12",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "19",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "21",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "22",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "23 ",
+            "status" : "BOUND"
+         }
+      ],
+      "1955" : [
+         {
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "25",
+            "status" : "BOUND"
+         }
+      ],
+      "1956" : [
+         {
+            "issue" : "26",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "27",
+            "status" : "BOUND"
+         }
+      ],
+      "1957" : [
+         {
+            "issue" : "28",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "29",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "30",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "31",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "32",
+            "status" : "MISSING"
+         }
+      ],
+      "1958" : [
+         {
+            "issue" : "33",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "34",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "35",
+            "status" : "MISSING"
+         }
+      ],
+      "1959" : [
+         {
+            "issue" : "36",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "37",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "39",
+            "status" : "MISSING"
+         }
+      ],
+      "1960" : [
+         {
+            "issue" : "40",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "41",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "42",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "43",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "44",
+            "status" : "MISSING"
+         }
+      ],
+      "1961" : [
+         {
+            "issue" : "45",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "46 ",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

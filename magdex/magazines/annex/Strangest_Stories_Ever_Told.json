@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "box" : "14",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Strangest Stories Ever Told",
+   "years" : {
+      "1970" : [
+         {
+            "date" : "Summer",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

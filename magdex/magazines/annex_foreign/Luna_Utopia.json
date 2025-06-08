@@ -1,0 +1,303 @@
+{
+   "alternate" : ["Luna-Weltall"],
+   "box" : "14",
+   "grid" : "ISSUES",
+   "name" : "Luna Utopia",
+   "years" : {
+      "1956" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1957" : [
+         {
+            "issue" : "10",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1958" : [
+         {
+            "issue" : "22",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "29",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "30",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "31",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "32",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "33",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1959" : [
+         {
+            "issue" : "34",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "35",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "36",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "37",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "38",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "39",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "40",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "41",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "42",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "43",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "44",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "45",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1960" : [
+         {
+            "issue" : "46",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "47",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "48",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "49",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "50",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "51",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "52",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "53",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "54",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "55",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "56",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "57",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

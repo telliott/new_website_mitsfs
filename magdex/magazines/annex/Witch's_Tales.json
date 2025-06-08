@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "box" : "7",
+   "grid" : "MONTH",
+   "name" : "Witch's Tales",
+   "years" : {
+      "1936" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

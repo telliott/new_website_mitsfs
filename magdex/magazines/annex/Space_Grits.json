@@ -1,0 +1,37 @@
+{
+   "alternate" : [],
+   "box" : "17",
+	"season_map": { "Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep"
+	},
+   "grid" : "MONTH",
+   "name" : "Space Grits",
+   "years" : {
+      "1983" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1984" : [
+         {
+            "date" : "Spring",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1985" : [
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

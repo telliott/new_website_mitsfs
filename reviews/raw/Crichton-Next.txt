@@ -1,0 +1,45 @@
+Title: Next
+Author: Crichton, Michael
+Year: 2006
+Publisher: HarperCollins
+Reviewer: Cathy Zhang
+Reviewed: 2010-10-14
+
+If you've ever seen "Crash" or "Love Actually," "Next" follows a
+similar structure of interleaving story lines every which way,
+although with slightly more focus on a convergence of a few of the
+stories, towards the end.  The stories are fictional, but they are
+nonetheless grounded in varying levels of fact; each story centers
+around some issue of the current state of some aspect of biology
+research.  One story draws attention to illicit organ-harvesting.
+Another brings chimerism to the reader's attention.  (Here, I would
+link to the wikipedia article about chimerism, but frankly, it sucks.)
+Multiple stories revolve around DNA testing and gene patenting, which
+was most recently in the news when the patent on BRCA1 and BRCA2 was
+overturned [1].  The stories of Gerard, a talking African grey
+(parrot), and of a transgenic ape raise the animal research issues, as
+well as the idea of manufacturing transgenic animals for use in
+advertising or as pets, which was also recently in the news [2] (check
+out the gallery [3]).  And perhaps one of the most frightening
+storylines tells of a mother and her son who are pursued by a bounty
+hunter intent on forcibly harvesting cells from their bodies because
+her father's cells produce cytokines that seem to fight cancer;
+because his cells were bought (arguably illicitly) by a company, they
+then argue that they have a right to repossess those cells wherever
+they may occur, including in the source's descendants.
+
+Personally, I enjoyed the book, despite its abrupt jumps from one
+plotline to another, because it explores so many of the controversies
+that surround the field of biotechnology in this day and age.  Some of
+the imagined possibilities seem quite ludicrous, but when you look at
+the news, it is disturbing to realize the extent to which some of the
+possible situations delineated in the novel are actually taking place
+around us.  While is it true that the stories center around biology
+and people interested in such may find this book particularly
+interesting, I think that it has value both as a thriller and as a
+mechanism for bringing many current bioethics issues to the public's
+attention.
+
+[1] http://www.nytimes.com/2010/03/30/business/30gene.html
+[2] http://www.newscientist.com/article/mg20727680.300-altered-animals-creatures-with-bonus-features.html
+[3] http://www.newscientist.com/gallery/fluorescent-felines-meet-pre-plucked-chickens

@@ -1,0 +1,24 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Cosmic Stories",
+   "years" : {
+      "1941" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

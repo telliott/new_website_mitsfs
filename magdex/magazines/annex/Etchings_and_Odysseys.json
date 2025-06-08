@@ -1,0 +1,70 @@
+{
+   "alternate" : [],
+   "box" : "9",
+   "grid" : "ISSUES",
+   "name" : "Etchings and Odysseys",
+   "years" : {
+      "1973" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "10 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

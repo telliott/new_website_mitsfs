@@ -1,0 +1,73 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Worlds of Fantasy",
+   "years" : {
+      "1950" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1951" : [
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING"
+         }
+      ],
+      "1954" : [
+         {
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "14 ",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

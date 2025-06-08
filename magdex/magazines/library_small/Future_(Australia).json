@@ -1,0 +1,55 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Future (Australia)",
+   "years" : {
+      "1953" : [
+         {
+            "volume": "1",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "volume": "1",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1954" : [
+         {
+            "volume": "1",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "volume": "1",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "volume": "1",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1955" : [
+         {
+            "volume": "1",
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ],
+      "1956" : [
+         {
+            "volume": "2",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "volume": "2",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

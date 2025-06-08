@@ -1,0 +1,25 @@
+{
+   "alternate" : [],
+   "box" : "3",
+   "grid" : "MONTH",
+   "name" : "Doctor Death",
+   "years" : {
+      "1935" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

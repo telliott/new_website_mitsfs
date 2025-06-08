@@ -1,0 +1,44 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "ISSUES",
+   "name" : "Portents",
+   "years" : {
+      "1986" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1988" : [
+         {
+            "issue" : "6 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

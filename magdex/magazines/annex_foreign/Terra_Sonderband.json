@@ -1,0 +1,519 @@
+{
+   "alternate" : [],
+   "box" : "14",
+   "grid" : "ISSUES",
+   "name" : "Terra Sonderband",
+   "years" : {
+      "1958" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1959" : [
+         {
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "22",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ],
+      "1960" : [
+         {
+            "issue" : "24",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "29",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "30",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "31",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "32",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "33",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "34",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "35",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "36",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "37",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1961" : [
+         {
+            "issue" : "38",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "39",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "40",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "41",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "42",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "43",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "44",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "45",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "46",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "47",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "48",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "49",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1962" : [
+         {
+            "issue" : "50",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "51",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "52",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "53",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "54",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "55",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "56",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "57",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "58",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "59",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "60",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "61",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "62",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "63",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "64",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1963" : [
+         {
+            "issue" : "65",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "66",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "67",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "68",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "69",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "70",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "71",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "72",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "73",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "74",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "75",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "76",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "77",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "78",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1964" : [
+         {
+            "issue" : "79",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "80",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "81",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "82",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "83",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "84",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "85",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "86",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "87",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "88",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "89",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "90",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "91",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1965" : [
+         {
+            "issue" : "92",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "93",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "94",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "95",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "96",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "97",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "98",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "99",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

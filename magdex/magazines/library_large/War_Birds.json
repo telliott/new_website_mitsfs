@@ -1,0 +1,24 @@
+{
+   "alternate" : ["Terence X. O'Leary's War Birds"],
+   "grid" : "MONTH",
+   "name" : "War Birds",
+   "years" : {
+      "1935" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

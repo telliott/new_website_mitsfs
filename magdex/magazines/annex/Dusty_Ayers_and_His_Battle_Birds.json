@@ -1,0 +1,72 @@
+{
+   "alternate" : [],
+   "box" : "3",
+   "grid" : "MONTH",
+   "name" : "Dusty Ayers and His Battle Birds",
+   "years" : {
+      "1934" : [
+         {
+            "date" : "Jul",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1935" : [
+         {
+            "date" : "Jan",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May-Jun",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul-Aug",
+            "issue" : "12",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

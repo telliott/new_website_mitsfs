@@ -1,0 +1,190 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Deathrealm",
+   "years" : {
+      "1987" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1988" : [
+         {
+            "date" : "Spring",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "7",
+            "status" : "OWNED"
+         }
+      ],
+      "1989" : [
+         {
+            "date" : "Spring",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "10",
+            "status" : "OWNED"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "13",
+            "status" : "OWNED"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Spring",
+            "issue" : "14",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "15",
+            "status" : "OWNED"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Spring",
+            "issue" : "16",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "17",
+            "status" : "OWNED"
+         }
+      ],
+      "1993" : [
+         {
+            "date" : "Summer",
+            "issue" : "18",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "19",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "20",
+            "status" : "MISSING"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Spring",
+            "issue" : "21",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "22",
+            "status" : "MISSING"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Spring",
+            "issue" : "23",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "25",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "26",
+            "status" : "OWNED"
+         }
+      ],
+      "1996" : [
+         {
+            "date" : "Spring",
+            "issue" : "27",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "28",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "29",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "30",
+            "status" : "MISSING"
+         }
+      ],
+      "1997" : [
+         {
+            "date" : "Summer",
+            "issue" : "31",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

@@ -1,0 +1,61 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Nebula (US)",
+   "years" : {
+      "1958" : [
+         {
+            "date" : "Sep",
+            "issue" : "30",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "31",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "32",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "33",
+            "status" : "MISSING"
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Jan",
+            "issue" : "34",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "36",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "37",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "39",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

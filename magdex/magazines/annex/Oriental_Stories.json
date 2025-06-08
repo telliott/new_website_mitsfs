@@ -1,0 +1,69 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "MONTH",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "name" : "Oriental Stories",
+   "years" : {
+      "1930" : [
+         {
+            "date" : "May",
+            "issue" : "0",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct-Nov",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1931" : [
+         {
+            "date" : "Feb-Mar",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1932" : [
+         {
+            "date" : "Winter",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "9",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

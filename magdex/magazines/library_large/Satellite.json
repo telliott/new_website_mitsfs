@@ -1,0 +1,105 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Satellite",
+   "years" : {
+      "1956" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1957" : [
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "1958" : [
+         {
+            "date" : "Feb",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "14",
+            "status" : "BOUND"
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Feb",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "18",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

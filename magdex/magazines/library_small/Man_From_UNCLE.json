@@ -1,0 +1,133 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Man From UNCLE",
+   "years" : {
+      "1966" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "11",
+            "status" : "OWNED"
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Jan",
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "14",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "15",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "16",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "18",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "19",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "20",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "21",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "22",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "23",
+            "status" : "OWNED"
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Jan",
+            "issue" : "24",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

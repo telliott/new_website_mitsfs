@@ -1,0 +1,5547 @@
+{
+   "alternate" : [],
+   "box" : "9/10/11/12/13",
+   "grid" : "ISSUES",
+   "name" : "Perry Rhodan",
+   "years" : {
+      "1961" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1962" : [
+         {
+            "issue" : "18",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "22",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "29",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "30",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "31",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "32",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "33",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "34",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "35",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "36",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "37",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "38",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "39",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "40",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "41",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "42",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "43",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "44",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "45",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "46",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "47",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "48",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "49",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "50",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "51",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "52",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "53",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "54",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "55",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "56",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "57",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "58",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "59",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "60",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "61",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "62",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "63",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "64",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "65",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "66",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "67",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "68",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "69",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "70",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1963" : [
+         {
+            "issue" : "71",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "72",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "73",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "74",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "75",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "76",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "77",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "78",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "79",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "80",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "81",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "82",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "83",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "84",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "85",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "86",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "87",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "88",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "89",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "90",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "91",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "92",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "93",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "94",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "95",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "96",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "97",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "98",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "99",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "100",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "101",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "102",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "103",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "104",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "105",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "106",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "107",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "108",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "109",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "110",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "111",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "112",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "113",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "114",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "115",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "116",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "117",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "118",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "119",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "120",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "121",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "122",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1964" : [
+         {
+            "issue" : "123",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "124",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "125",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "126",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "127",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "128",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "129",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "130",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "131",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "132",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "133",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "134",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "135",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "136",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "137",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "138",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "139",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "140",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "141",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "142",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "143",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "144",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "145",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "146",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "147",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "148",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "149",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "150",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "151",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "152",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "153",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "154",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "155",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "156",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "157",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "158",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "159",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "160",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "161",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "162",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "163",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "164",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "165",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "166",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "167",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "168",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "169",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "170",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "171",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "172",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "173",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "174",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1965" : [
+         {
+            "issue" : "175",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "176",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "177",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "178",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "179",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "180",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "181",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "182",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "183",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "184",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "185",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "186",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "187",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "188",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "189",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "190",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "191",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "192",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "193",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "194",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "195",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "196",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "197",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "198",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "199",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "200",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "201",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "202",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "203",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "204",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "205",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "206",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "207",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "208",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "209",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "210",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "211",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "212",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "213",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "214",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "215",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "216",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "217",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "218",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "219",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "220",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "221",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "222",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "223",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "224",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "225",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "226",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1966" : [
+         {
+            "issue" : "227",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "228",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "229",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "230",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "231",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "232",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "233",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "234",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "235",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "236",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "237",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "238",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "239",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "240",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "241",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "242",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "243",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "244",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "245",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "246",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "247",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "248",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "249",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "250",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "251",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "252",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "253",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "254",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "255",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "256",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "257",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "258",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "259",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "260",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "261",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "262",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "263",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "264",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "265",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "266",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "267",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "268",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "269",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "270",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "271",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "272",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "273",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "274",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "275",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "276",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "277",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "278",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1967" : [
+         {
+            "issue" : "279",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "280",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "281",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "282",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "283",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "284",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "285",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "286",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "287",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "288",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "289",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "290",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "291",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "292",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "293",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "294",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "295",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "296",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "297",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "298",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "299",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "300",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "301",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "302",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "303",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "304",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "305",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "306",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "307",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "308",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "309",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "310",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "311",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "312",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "313",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "314",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "315",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "316",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "317",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "318",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "319",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "320",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "321",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "322",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "323",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "324",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "325",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "326",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "327",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "328",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "329",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "330",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1968" : [
+         {
+            "issue" : "331",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "332",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "333",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "334",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "335",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "336",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "337",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "338",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "339",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "340",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "341",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "342",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "343",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "344",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "345",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "346",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "347",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "348",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "349",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "350",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "351",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "352",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "353",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "354",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "355",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "356",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "357",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "358",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "359",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "360",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "361",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "362",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "363",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "364",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "365",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "366",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "367",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "368",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "369",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "370",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "371",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "372",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "373",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "374",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "375",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "376",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "377",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "378",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "379",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "380",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "381",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "382",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "383",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ],
+      "1969" : [
+         {
+            "issue" : "384",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "385",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "386",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "387",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "388",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "389",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "390",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "391",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "392",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "393",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "394",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "395",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "396",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "397",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "398",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "399",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "400",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "401",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "402",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "403",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "404",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "405",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "406",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "407",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "408",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "409",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "410",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "411",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "412",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "413",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "414",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "415",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "416",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "417",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "418",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "419",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "420",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "421",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "422",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "423",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "424",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "425",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "426",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "427",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "428",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "429",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "430",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "431",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "432",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "433",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "434",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "435",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ],
+      "1970" : [
+         {
+            "issue" : "436",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "437",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "438",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "439",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "440",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "441",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "442",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "443",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "444",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "445",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "446",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "447",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "448",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "449",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "450",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "451",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "452",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "453",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "454",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "455",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "456",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "457",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "458",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "459",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "460",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "461",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "462",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "463",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "464",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "465",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "466",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "467",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "468",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "469",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "470",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "471",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "472",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "473",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "474",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "475",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "476",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "477",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "478",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "479",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "480",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "481",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "482",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "483",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "484",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "485",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "486",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "487",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ],
+      "1971" : [
+         {
+            "issue" : "488",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "489",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "490",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "491",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "492",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "493",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "494",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "495",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "496",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "497",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "498",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "499",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "500",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "501",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "502",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "503",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "504",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "505",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "506",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "507",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "508",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "509",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "510",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "511",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "512",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "513",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "514",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "515",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "516",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "517",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "518",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "519",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "520",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "521",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "522",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "523",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "524",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "525",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "526",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "527",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "528",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "529",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "530",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "531",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "532",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "533",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "534",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "535",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "536",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "537",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "538",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "539",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "540",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1972" : [
+         {
+            "issue" : "541",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "542",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "543",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "544",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "545",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "546",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "547",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "548",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "549",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "550",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "551",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "552",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "553",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "554",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "555",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "556",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "557",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "558",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "559",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "560",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "561",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "562",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "563",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "564",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "565",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "566",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "567",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "568",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "569",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "570",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "571",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "572",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "573",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "574",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "575",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "576",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "577",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "578",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "579",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "580",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "581",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "582",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "583",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "584",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "585",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "586",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "587",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "588",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "589",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "590",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "591",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "592",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1973" : [
+         {
+            "issue" : "593",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "594",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "595",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "596",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "597",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "598",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "599",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "600",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "601",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "602",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "603",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "604",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "605",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "606",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "607",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "608",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "609",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "610",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "611",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "612",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "613",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "614",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "615",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "616",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "617",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "618",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "619",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "620",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "621",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "622",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "623",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "624",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "625",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "626",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "627",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "628",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "629",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "630",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "631",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "632",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "633",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "634",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "635",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "636",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "637",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "638",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "639",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "640",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "641",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "642",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "643",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "644",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "645",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1974" : [
+         {
+            "issue" : "646",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "647",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "648",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "649",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "650",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "651",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "652",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "653",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "654",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "655",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "656",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "657",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "658",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "659",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "660",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "661",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "662",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "663",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "664",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "665",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "666",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "667",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "668",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "669",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "670",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "671",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "672",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "673",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "674",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "675",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "676",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "677",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "678",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "679",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "680",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "681",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "682",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "683",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "684",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "685",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "686",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "687",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "688",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "689",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "690",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "691",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "692",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "693",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "694",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "695",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "696",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "697",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1975" : [
+         {
+            "issue" : "698",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "699",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "700",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "701",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "702",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "703",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "704",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "705",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "706",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "707",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "708",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "709",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "710",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "711",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "712",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "713",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "714",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "715",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "716",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "717",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "718",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "719",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "720",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "721",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "722",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "723",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "724",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "725",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "726",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "727",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "728",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "729",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "730",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "731",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "732",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "733",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "734",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "735",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "736",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "737",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "738",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "739",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "740",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "741",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "742",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "743",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "744",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "745",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "746",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "747",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "748",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "749",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1976" : [
+         {
+            "issue" : "750",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "751",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "752",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "753",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "754",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "755",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "756",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "757",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "758",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "759",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "760",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "761",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "762",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "763",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "764",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "765",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "766",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "767",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "768",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "769",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "770",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "771",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "772",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "773",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "774",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "775",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "776",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "777",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "778",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "779",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "780",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "781",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "782",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "783",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "784",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "785",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "786",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "787",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "788",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "789",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "790",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "791",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "792",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "793",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "794",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "795",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "796",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "797",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "798",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "799",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "800",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "801",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "issue" : "802",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "803",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "804",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "805",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "806",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "807",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "808",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "809",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "810",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "811",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "812",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "813",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "814",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "815",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "816",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "817",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "818",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "819",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "820",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "821",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "822",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "823",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "824",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "825",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "826",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "827",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "828",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "829",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "830",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "831",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "832",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "833",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "834",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "835",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "836",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "837",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "838",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "839",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "840",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "841",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "842",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "843",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "844",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "845",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "846",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "847",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "848",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "849",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "850",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "851",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "852",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "853",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "854",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "855",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "856",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "857",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "858",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "859",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "860",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "861",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "862",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "863",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "864",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "865",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "866",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "867",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "868",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "869",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "870",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "871",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "872",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "873",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "874",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "875",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "876",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "877",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "878",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "879",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "880",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "881",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "882",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "883",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "884",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "885",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "886",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "887",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "888",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "889",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "890",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "891",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "892",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "893",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "894",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "895",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "896",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "897",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "898",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "899",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "900",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "901",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "902",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "903",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "904",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "905",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1979" : [
+         {
+            "issue" : "906",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "907",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "908",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "909",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "910",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "911",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "912",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "913",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "914",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "915",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "916",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "917",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "918",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "919",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "920",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "921",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "922",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "923",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "924",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "925",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "926",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "927",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "928",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "929",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "930",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "931",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "932",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "933",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "934",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "935",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "936",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "937",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "938",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "939",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "940",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "941",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "942",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "943",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "944",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "945",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "946",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "947",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "948",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "949",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "950",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "951",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "952",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "953",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "954",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "955",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "956",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "957",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "958",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "959",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "960",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "961",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "962",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "963",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "964",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "965",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "966",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "967",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "968",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "969",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "970",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "971",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "972",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "973",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "974",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "975",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "976",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "977",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "978",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "979",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "980",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "981",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "982",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "983",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "984",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "985",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "986",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "987",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "988",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "989",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "990",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "991",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "992",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "993",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "994",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "995",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "996",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "997",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "998",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "999",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1000",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1001",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1002",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1003",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1004",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1005",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1006",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1007",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1008",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1009",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1010",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1981" : [
+         {
+            "issue" : "1011",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1012",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1013",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1014",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1015",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1016",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1017",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1018",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1019",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1020",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1021",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1022",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1023",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1024",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1025",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1026",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1027",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1028",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1029",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1030",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1031",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1032",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1033",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1034",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1035",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1036",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1037",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1038",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1039",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1040",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1041",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1042",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1043",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1044",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1045",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1046",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1047",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1048",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1049",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1050",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1051",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1052",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1053",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1054",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1055",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1056",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1057",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1058",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1059",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1060",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1061",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1062",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1982": [
+        {
+            "issue" : "1063",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1064",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1065",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1066",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1067",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1068",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1069",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1070",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1071",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1072",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1073",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1074",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1075",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1076",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1077",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1078",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1079",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1080",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "1081",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1082",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1083",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1084",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1085",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1086",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1087",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1088",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1089",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1090",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1091",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1092",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1093",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1094",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1095",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1096",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1097",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1098",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "1099",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

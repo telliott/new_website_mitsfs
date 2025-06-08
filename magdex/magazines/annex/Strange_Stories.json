@@ -1,0 +1,79 @@
+{
+   "alternate" : [],
+   "box" : "4",
+   "grid" : "MONTH",
+   "name" : "Strange Stories",
+   "years" : {
+      "1939" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1940" : [
+         {
+            "date" : "Feb",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "12",
+            "status" : "OWNED"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Feb",
+            "issue" : "13",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

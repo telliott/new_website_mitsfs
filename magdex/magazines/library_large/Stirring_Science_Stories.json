@@ -1,0 +1,31 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Stirring Science Stories",
+   "years" : {
+      "1941" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Mar",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

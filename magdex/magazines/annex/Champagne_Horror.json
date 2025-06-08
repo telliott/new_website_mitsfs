@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "15",
+   "grid" : "ISSUES",
+   "name" : "Champagne Horror",
+   "years" : {
+      "1990" : [
+         {
+            "issue" : "1 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,77 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Spaceway",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Dec",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "5",
+            "status" : "OWNED"
+         }
+      ],
+      "1955" : [
+         {
+            "date" : "Feb",
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "8",
+            "status" : "OWNED"
+         }
+      ],
+      "1969" : [
+         {
+            "date" : "Jan",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May-Jun",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep-Oct",
+            "issue" : "11",
+            "status" : "OWNED"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "May-Jun",
+            "issue" : "12",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

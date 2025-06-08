@@ -1,0 +1,506 @@
+{
+   "alternate" : [],
+   "box" : "21",
+   "grid" : "ISSUES",
+   "name" : "Ren Dhark",
+   "years" : {
+      "1966" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "22",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1967" : [
+         {
+            "issue" : "23",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "24",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "29",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "30",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "31",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "32",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "33",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "34",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "35",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "36",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "37",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "38",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "39",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "40",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "41",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "42",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "43",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "44",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "45",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "46",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "47",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "48",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "49",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "50",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "51",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "52",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "53",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "54",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "55",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "56",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "57",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "58",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "59",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "60",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "61",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "62",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "63",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "64",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "65",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ],
+      "1968" : [
+         {
+            "issue" : "66",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "67",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "68",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "69",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "70",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "71",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "72",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "73",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "74",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "75",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "76",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "77",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "78",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "79",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "80",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "81",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "82",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "83",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "84",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "85",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "86",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "87",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "88",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "89",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "90",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "91",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ],
+      "1969" : [
+         {
+            "issue" : "92",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "93",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "94",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "95",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "96",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "97",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "98",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ]
+   }
+}

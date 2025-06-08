@@ -1,0 +1,60 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "MONTH",
+   "name" : "Mammoth Adventure",
+   "years" : {
+      "1946" : [
+         {
+            "date" : "May",
+            "volume" : "1",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "1",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "1",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1947" : [
+         {
+            "date" : "Jan",
+            "volume" : "2",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "2",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume" : "2",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "2",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "2",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

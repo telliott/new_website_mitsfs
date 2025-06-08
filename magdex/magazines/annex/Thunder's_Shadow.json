@@ -1,0 +1,34 @@
+{
+   "alternate" : [],
+   "box" : "15",
+   "grid" : "MONTH",
+   "name" : "Thunder's Shadow",
+   "years" : {
+      "1993" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Aug",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

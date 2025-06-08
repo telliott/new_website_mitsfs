@@ -1,0 +1,56 @@
+{
+   "alternate" : [],
+   "box" : "17",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Midnight Graffiti",
+   "years" : {
+      "1988" : [
+         {
+            "date" : "Jun",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1989" : [
+         {
+            "date" : "Spring",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Fall",
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

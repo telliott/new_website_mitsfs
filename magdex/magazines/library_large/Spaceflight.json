@@ -1,0 +1,491 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Spaceflight",
+   "years" : {
+      "1957" : [
+         {
+            "date" : "Aug",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1958" : [
+         {
+            "date" : "Jan",
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "11",
+            "status" : "MISSING"
+         }
+      ],
+      "1960" : [
+         {
+            "date" : "Apr",
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "14",
+            "status" : "OWNED"
+         }
+      ],
+      "1961" : [
+         {
+            "date" : "Jan",
+            "issue" : "15",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "16",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "18",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "19",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "20",
+            "status" : "OWNED"
+         }
+      ],
+      "1962" : [
+         {
+            "date" : "Jan",
+            "issue" : "21",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "22",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "23",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "24",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "25",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "26",
+            "status" : "OWNED"
+         }
+      ],
+      "1963" : [
+         {
+            "date" : "Jan",
+            "issue" : "27",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "28",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "29",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "30",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "31",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "32",
+            "status" : "OWNED"
+         }
+      ],
+      "1964" : [
+         {
+            "date" : "Jan",
+            "issue" : "33",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "34",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "35",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "36",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "37",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "38",
+            "status" : "OWNED"
+         }
+      ],
+      "1965" : [
+         {
+            "date" : "Jan",
+            "issue" : "39",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "40",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "41",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "42",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "43",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "44",
+            "status" : "OWNED"
+         }
+      ],
+      "1966" : [
+         {
+            "date" : "Jan",
+            "issue" : "45",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "46",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "47",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "48",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "49",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "50",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "51",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "52",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "53",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "54",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "55",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "56",
+            "status" : "OWNED"
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Jan",
+            "issue" : "57",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "58",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "59",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "60",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "61",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "62",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "63",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "64",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "65",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "66",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "67",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "68",
+            "status" : "MISSING"
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Jan",
+            "issue" : "69",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "70",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "71",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "72",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "73",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "74",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "75",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "76",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "77",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "78",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "79",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "80",
+            "status" : "MISSING"
+         }
+      ],
+      "1969" : [
+         {
+            "date" : "Jan",
+            "issue" : "81",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "82",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "83",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "84",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "85",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "86",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "87",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "88",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "89",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "90",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "91",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "92",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "MONTH",
+   "name" : "Skyworlds",
+   "years" : {
+      "1977" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1978" : [
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

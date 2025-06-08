@@ -1,0 +1,34 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "ISSUES",
+   "name" : "Weirdbook Encores",
+   "years" : {
+      "1990" : [
+         {
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "14 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

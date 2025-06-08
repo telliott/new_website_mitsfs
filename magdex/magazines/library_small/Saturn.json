@@ -1,0 +1,36 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Saturn",
+   "years" : {
+      "1957" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1958" : [
+         {
+            "date" : "Mar",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

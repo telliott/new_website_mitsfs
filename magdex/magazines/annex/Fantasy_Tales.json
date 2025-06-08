@@ -1,0 +1,158 @@
+{
+   "alternate" : [],
+   "box" : "3",
+   "grid" : "ISSUES",
+   "name" : "Fantasy Tales",
+   "years" : {
+      "1977" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1979" : [
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1981" : [
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "15",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "17",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1988" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : "10"
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : "10"
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : "11"
+         }
+      ],
+      "1990" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : "1"
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : "1"
+         }
+      ],
+      "1991" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : "3"
+         }
+      ]
+   }
+}

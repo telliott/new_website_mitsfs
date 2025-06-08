@@ -1,0 +1,192 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "MONTH",
+   "name" : "Epic Illustrated",
+   "years" : {
+      "1980" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1981" : [
+         {
+            "date" : "Apr",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "9",
+            "status" : "MISSING"
+         }
+      ],
+      "1982" : [
+         {
+            "date" : "Feb",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "15",
+            "status" : "MISSING"
+         }
+      ],
+      "1983" : [
+         {
+            "date" : "Feb",
+            "issue" : "16",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "17",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "18",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "21",
+            "status" : "MISSING"
+         }
+      ],
+      "1984" : [
+         {
+            "date" : "Feb",
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "26",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "27",
+            "status" : "MISSING"
+         }
+      ],
+      "1985" : [
+         {
+            "date" : "Feb",
+            "issue" : "28",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "29",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "30",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "31",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "32",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "33",
+            "status" : "MISSING"
+         }
+      ],
+      "1986" : [
+         {
+            "date" : "Feb",
+            "issue" : "34",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

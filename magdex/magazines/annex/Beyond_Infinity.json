@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "4",
+   "grid" : "MONTH",
+   "name" : "Beyond Infinity",
+   "years" : {
+      "1967" : [
+         {
+            "date" : "Nov-Dec",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

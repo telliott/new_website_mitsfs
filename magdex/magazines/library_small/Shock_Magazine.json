@@ -1,0 +1,24 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Shock Magazine",
+   "years" : {
+      "1960" : [
+         {
+            "date" : "May",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

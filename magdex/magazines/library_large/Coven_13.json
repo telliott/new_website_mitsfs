@@ -1,0 +1,68 @@
+{
+   "alternate" : ["Witchcraft & Sorcery"],
+   "grid" : "MONTH",
+   "name" : "Coven 13",
+   "years" : {
+      "1969" : [
+         {
+            "date" : "Sep",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "Jan",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Jan-Feb",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "6",
+            "status" : "BOUND"
+         }
+      ],
+      "1972" : [
+         {
+            "date" : "Jan",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "1973" : [
+         {
+            "date" : "Jan",
+            "issue" : "9",
+            "status" : "BOUND"
+         }
+      ],
+      "1974" : [
+         {
+            "date" : "Sep",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ]   }
+}

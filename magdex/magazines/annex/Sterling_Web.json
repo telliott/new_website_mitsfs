@@ -1,0 +1,49 @@
+{
+   "alternate" : [],
+   "box" : "3",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Sterling Web",
+   "years" : {
+      "1989" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Winter",
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

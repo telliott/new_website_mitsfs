@@ -1,0 +1,96 @@
+{
+   "alternate" : [],
+   "box" : "26",
+   "grid" : "MONTH",
+   "name" : "Urania Revista",
+   "years" : {
+      "1952" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Jan",
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Feb",
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Mar",
+            "issue" : "5",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr",
+            "issue" : "6",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "May",
+            "issue" : "7",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Jun",
+            "issue" : "8",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Jul",
+            "issue" : "9",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Aug",
+            "issue" : "10",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Sep",
+            "issue" : "11",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Oct",
+            "issue" : "12",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Nov",
+            "issue" : "13",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "14",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ]
+   }
+}

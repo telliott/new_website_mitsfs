@@ -1,0 +1,14 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Vanguard",
+   "years" : {
+      "1958" : [
+         {
+            "date" : "Jun",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

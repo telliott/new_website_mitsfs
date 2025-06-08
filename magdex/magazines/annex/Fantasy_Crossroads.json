@@ -1,0 +1,90 @@
+{
+   "alternate" : [],
+   "box" : "22",
+   "grid" : "ISSUES",
+   "name" : "Fantasy Crossroads",
+   "years" : {
+      "1974" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1975" : [
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4/5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1976" : [
+         {
+            "issue" : "Special #1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "issue" : "10/11",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "13",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1979" : [
+         {
+            "issue" : "15",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

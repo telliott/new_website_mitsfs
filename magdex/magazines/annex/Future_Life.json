@@ -1,0 +1,171 @@
+{
+   "alternate" : [],
+   "box" : "7",
+   "grid" : "MONTH",
+   "name" : "Future Life",
+   "years" : {
+      "1978" : [
+         {
+            "date" : "Apr",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1979" : [
+         {
+            "date" : "Jan",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "14",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "15",
+            "status" : "OWNED"
+         }
+      ],
+      "1980" : [
+         {
+            "date" : "Feb",
+            "issue" : "16",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "18",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "21",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "23",
+            "status" : "MISSING"
+         }
+      ],
+      "1981" : [
+         {
+            "date" : "Feb",
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "26",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "27",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "28",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "29",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "30",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "31",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

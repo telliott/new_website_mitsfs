@@ -1,0 +1,40 @@
+{
+   "alternate" : [],
+   "box" : "24",
+   "grid" : "ISSUES",
+   "name" : "Romanzi del Futuro",
+   "years" : {
+      "1961" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5b",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

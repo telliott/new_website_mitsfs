@@ -1,0 +1,63 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Universe",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Jun",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Mar",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "1955" : [
+         {
+            "date" : "Jan",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

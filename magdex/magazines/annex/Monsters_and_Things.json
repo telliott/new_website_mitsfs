@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "MONTH",
+   "name" : "Monsters and Things",
+   "years" : {
+      "1959" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

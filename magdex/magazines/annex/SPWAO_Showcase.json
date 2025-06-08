@@ -1,0 +1,71 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "ISSUES",
+   "name" : "SPWAO Showcase",
+   "years" : {
+      "1980" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "8.5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

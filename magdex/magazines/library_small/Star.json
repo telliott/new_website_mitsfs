@@ -1,0 +1,14 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Star",
+   "years" : {
+      "1958" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

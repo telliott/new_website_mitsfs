@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "ISSUES",
+   "name" : "Cosmic Science Stories",
+   "years" : {
+      "1950" : [
+         {
+            "issue" : "11 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

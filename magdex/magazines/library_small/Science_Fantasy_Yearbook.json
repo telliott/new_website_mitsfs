@@ -1,0 +1,36 @@
+{
+   "alternate" : ["Science Fantasy (1970)"],
+   "grid" : "MONTH",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Yearbook": "Jan-Feb-Mar",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "name" : "Science Fantasy Yearbook",
+   "years" : {
+      "1970" : [
+         {
+            "date" : "Yearbook",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

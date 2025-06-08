@@ -1,0 +1,91 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Phantom",
+   "years" : {
+      "1957" : [
+         {
+            "date" : "Apr",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "9",
+            "status" : "BOUND"
+         }
+      ],
+      "1958" : [
+         {
+            "date" : "Jan",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "16",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

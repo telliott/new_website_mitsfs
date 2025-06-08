@@ -1,0 +1,61 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "MONTH",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Autumn": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "name" : "Bull Spec",
+   "years" : {
+      "2010" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "2011" : [
+         {
+            "date" : "Spring",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ],
+      "2012" : [
+         {
+            "date" : "Spring",
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "2013" : [
+         {
+            "date" : "Spring",
+            "issue" : "8/9",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

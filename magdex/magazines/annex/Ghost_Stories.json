@@ -1,0 +1,342 @@
+{
+   "alternate" : [],
+   "box" : "8",
+   "grid" : "MONTH",
+   "name" : "Ghost Stories",
+   "years" : {
+      "1926" : [
+         {
+            "date" : "Jul",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ],
+      "1927" : [
+         {
+            "date" : "Jan",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "16",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "17",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "18",
+            "status" : "MISSING"
+         }
+      ],
+      "1928" : [
+         {
+            "date" : "Jan",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "21",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "23",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "26",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "27",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "28",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "29",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "30",
+            "status" : "MISSING"
+         }
+      ],
+      "1929" : [
+         {
+            "date" : "Jan",
+            "issue" : "31",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "32",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "33",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "34",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "36",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "37",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "39",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "40",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "41",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "42",
+            "status" : "MISSING"
+         }
+      ],
+      "1930" : [
+         {
+            "date" : "Jan",
+            "issue" : "43",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "44",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "45",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "46",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "47",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "48",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "49",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "50",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "51",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "52",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "53",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "54",
+            "status" : "OWNED"
+         }
+      ],
+      "1931" : [
+         {
+            "date" : "Jan",
+            "issue" : "55",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "56",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "57",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "58",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "59",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "60",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "61",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug-Sep",
+            "issue" : "62",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct-Nov",
+            "issue" : "63",
+            "status" : "OWNED"
+         }
+      ],
+      "1932" : [
+         {
+            "date" : "Jan",
+            "issue" : "64",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

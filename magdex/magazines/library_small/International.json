@@ -1,0 +1,21 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "International",
+   "years" : {
+      "1967" : [
+         {
+            "date" : "Nov",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Jun",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

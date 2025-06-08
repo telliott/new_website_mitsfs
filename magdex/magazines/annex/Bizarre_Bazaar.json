@@ -1,0 +1,29 @@
+{
+   "alternate" : [],
+   "box" : "15",
+   "grid" : "ISSUES",
+   "name" : "Bizarre Bazaar",
+   "years" : {
+      "1992" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1994" : [
+         {
+            "issue" : "3 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

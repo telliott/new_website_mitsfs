@@ -1,0 +1,22 @@
+{
+   "alternate" : [],
+   "box" : "19",
+   "grid" : "MONTH",
+   "name" : "Pulse Pounding Adventure Stories",
+   "years" : {
+      "1986" : [
+         {
+            "date" : "Dec",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1987" : [
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

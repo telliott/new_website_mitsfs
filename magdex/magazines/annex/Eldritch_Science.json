@@ -1,0 +1,29 @@
+{
+   "alternate" : [],
+   "box" : "9",
+   "grid" : "ISSUES",
+   "name" : "Eldritch Science",
+   "years" : {
+      "1987" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "3 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

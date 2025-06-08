@@ -1,0 +1,141 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Absolute Magnitude",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Summer-Fall": "Apr-May-Jun-Jul-Aug-Sep",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec",
+					"Fall-Winter": "Jul-Aug-Sep-Oct-Nov-Dec"
+	},
+   "years" : {
+      "1994" : [
+         {
+            "date" : "Fall-Winter",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1996" : [
+         {
+            "date" : "Fall",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ],
+      "1997" : [
+         {
+            "date" : "Spring",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall-Winter",
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Spring",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "10",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Summer",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "12",
+            "status" : "OWNED"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Summer",
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "14",
+            "status" : "OWNED"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Spring",
+            "issue" : "15",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "16",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "17",
+            "status" : "OWNED"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Spring",
+            "issue" : "18",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer-Fall",
+            "issue" : "19",
+            "status" : "OWNED"
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Fall",
+            "issue" : "20",
+            "status" : "OWNED"
+         }
+      ],
+      "2005" : [
+         {
+            "date" : "Spring",
+            "issue" : "21",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

@@ -1,0 +1,383 @@
+{
+   "alternate" : [],
+   "box" : "9",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Robotics Age",
+   "years" : {
+      "1979" : [
+         {
+            "date" : "Summer",
+            "volume" : "1",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "volume" : "1",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1980" : [
+         {
+            "date" : "Spring",
+            "volume" : "2",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "volume" : "2",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "volume" : "2",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1981" : [
+         {
+            "date" : "Jan",
+            "volume" : "3",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "3",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "volume" : "3",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "3",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "3",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "3",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1982" : [
+         {
+            "date" : "Jan",
+            "volume" : "4",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "4",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "volume" : "4",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "4",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "4",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "4",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1983" : [
+         {
+            "date" : "Jan",
+            "volume" : "5",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "5",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "volume" : "5",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "5",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "5",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "5",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1984" : [
+         {
+            "date" : "Jan",
+            "volume" : "6",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "volume" : "6",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "6",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "volume" : "6",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume" : "6",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume" : "6",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "6",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume" : "6",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "6",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume" : "6",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "6",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume" : "6",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1985" : [
+         {
+            "date" : "Jan",
+            "volume" : "7",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume" : "7",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "7",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume" : "7",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume" : "7",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume" : "7",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "7",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume" : "7",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "7",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume" : "7",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "7",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume" : "7",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1986" : [
+         {
+            "date" : "Jan",
+            "volume" : "8",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume" : "8",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "8",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume" : "8",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume" : "8",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume" : "8",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "8",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume" : "8",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "8",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume" : "8",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "8",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume" : "8",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

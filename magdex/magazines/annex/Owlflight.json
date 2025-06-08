@@ -1,0 +1,41 @@
+{
+   "alternate" : [],
+   "box" : "22",
+   "grid" : "ISSUES",
+   "name" : "Owlflight",
+   "years" : {
+      "1981" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "5 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

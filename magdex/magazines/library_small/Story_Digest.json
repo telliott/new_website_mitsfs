@@ -1,0 +1,25 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Story Digest",
+   "years" : {
+      "1970" : [
+         {
+            "issue" : "Boris Karloff",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "Dark Shadows",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "Tarzan of the Apes",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "Believe It or Not",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

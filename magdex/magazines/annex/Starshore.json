@@ -1,0 +1,32 @@
+{
+   "alternate" : [],
+   "box" : "17",
+   "grid" : "ISSUES",
+   "name" : "Starshore",
+   "years" : {
+      "1990" : [
+         {
+            "issue" : "Sum",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "Fll",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "Win",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1991" : [
+         {
+            "issue" : "Spr ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

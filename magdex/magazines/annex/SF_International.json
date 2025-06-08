@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "ISSUES",
+   "name" : "SF International",
+   "years" : {
+      "1987" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

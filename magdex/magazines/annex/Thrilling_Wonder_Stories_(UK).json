@@ -1,0 +1,93 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Thrilling Wonder Stories (UK)",
+   "years" : {
+      "1949" : [
+         {
+            "date" : "Dec",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1950" : [
+         {
+            "date" : "May",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1952" : [
+         {
+            "date" : "May",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Jan",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "101",
+            "status" : "MISSING"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "issue" : "102",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "103",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "104",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

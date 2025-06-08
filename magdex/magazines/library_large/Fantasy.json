@@ -1,0 +1,23 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Fantasy",
+   "years" : {
+      "1938" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1939" : [
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

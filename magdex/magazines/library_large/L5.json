@@ -1,0 +1,556 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "L5",
+   "years" : {
+      "1975" : [
+         {
+            "date" : "Sep",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1976" : [
+         {
+            "date" : "Jan",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ],
+      "1977" : [
+         {
+            "date" : "Jan",
+            "issue" : "17",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "18",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "21",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "26",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "27",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "28",
+            "status" : "MISSING"
+         }
+      ],
+      "1978" : [
+         {
+            "date" : "Jan",
+            "issue" : "29",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "30",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "31",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "32",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "33",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "34",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "36",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "37",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "39",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "40",
+            "status" : "MISSING"
+         }
+      ],
+      "1979" : [
+         {
+            "date" : "Jan",
+            "issue" : "41",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "42",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "43",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "44",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "45",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "46",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "47",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "48",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "49",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "50",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "51",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "52",
+            "status" : "OWNED"
+         }
+      ],
+      "1980" : [
+         {
+            "date" : "Jan",
+            "issue" : "53",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "54",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "55",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "56",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "57",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "58",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "59",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "60",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "61",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "62",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "63",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "64",
+            "status" : "OWNED"
+         }
+      ],
+      "1981" : [
+         {
+            "date" : "Jan",
+            "issue" : "65",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "66",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "67",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "68",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "69",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "70",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "71",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "72",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "73",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "74",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "75",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "76",
+            "status" : "MISSING"
+         }
+      ],
+      "1982" : [
+         {
+            "date" : "Jan",
+            "issue" : "77",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "78",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "79",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "80",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "81",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "82",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "83",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "84",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "85",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "86",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "87",
+            "status" : "OWNED"
+         }
+      ],
+      "1983" : [
+         {
+            "date" : "Jan",
+            "issue" : "88",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "89",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "90",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "91",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "92",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "93",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "94",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "95",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "96",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "97",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "98",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "99",
+            "status" : "MISSING"
+         }
+      ],
+      "1984" : [
+         {
+            "date" : "Jan",
+            "issue" : "100",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "101",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov-Dec",
+            "issue" : "102",
+            "status" : "MISSING"
+         }
+      ],
+      "1985" : [
+         {
+            "date" : "Jan-Feb",
+            "issue" : "103",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "104",
+            "status" : "MISSING"
+         }
+      ],
+      "1986" : [
+         {
+            "date" : "Jan",
+            "issue" : "105",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

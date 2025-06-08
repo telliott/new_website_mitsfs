@@ -1,0 +1,107 @@
+Title: The Jennifer Morgue
+Author: Stross, Charles 
+Year: 2006
+Publisher: Golden Gryphon Press
+Reviewer: Christian Ternus
+Reviewed: 2006-12-10
+
+"The Jennifer Morgue" is the sequel to Charles Stross' novel, "The
+Atrocity Archives," and features the return of Bob Howard, computer
+geek turned computational demonologist extraordinaire.  The book
+continues Stross' delightful style from the first book, blending
+elements of Neal Stephenson's references to hacker culture,
+Lovecraftian eldritch horrors, and Tom Clancy's spy thrillers.
+
+The background of the series, in a nutshell, is that throughout modern
+history, people have been discovering that certain types of
+mathematical computations (e.g. the "Turing-Lovecraft Theorem") can
+create holes into other planes, causing Unspeakable Horrors of various
+sorts to come through.  Shortly after they discover this, they are
+either a) very dead or b) conscripted.  See, like many other
+discoveries in history, the government has gotten there first, and
+dealt with the matter in a staggeringly inefficient, bureaucratic
+fashion.
+
+Bob Howard works for the Laundry, a British government agency tasked
+with managing interactions with the occult.  As the book says, it's
+somewhere between "No Such Agency" and "Destroy Before Reading."  How
+the Laundry gets recruits can best be described by a direct
+(non-spoiler) quote from "The Jennifer Morgue":
+
+  "The Laundry collects computer scientists who stumble across the
+  elements of computational demonology in much the same way that
+  Stalin used to collect jokes about himself [footnote: He had two
+  Gulags full.].  About six years ago I nearly landscaped
+  Wolverhampton, not to mention most of Birmingham and the Midlands,
+  while experimenting with a really neat, new rendering algorithm that
+  just might have accidentally summoned up the entity known to the
+  clueful as 'f*ck, it's Nyarlathotep! Run!' (and to everyone else as
+  'F*ck, run!')"
+
+The plot of the book is genuinely intriguing---I read the book
+straight through in one sitting.  Bob Howard is tasked with stopping a
+rogue billionaire from raising something dark and terrible (code-named
+JENNIFER MORGUE) from the vasty deeps of the ocean (where the Great
+Old Ones live---good thing we have a treaty with them, right?).  In
+order to do this, a powerful invocation called a "Hero geas" requires
+him to step into the role of... well, I won't give it away.  There is
+fast-paced spy action with a generous measure of humor (much of it
+side-splittingly hilarious).  The main character is paired with an
+agent from the Black Chamber (the terrifying US counterpart to the
+Laundry) named Ramona Random, a "beautiful but deadly" operative who
+defies accurate description.  The plot has some interesting twists and
+turns, and the book never takes itself too seriously ("You think
+you're joking?  He *monologued* at me.  With *PowerPoint*.").  I could
+quote endlessly from it, but I won't---it's a treasure trove of
+humorous quotes.
+
+One thing I love about the book is how it transitions almost
+seamlessly from mission briefings (delivered directly into the
+subconscious, of course) to summoning ancient terrors from the deeps
+(of which there are two sorts: those code-named BLUE HADES, who you
+really, really don't want to mess with, and those code-named DEEP
+SEVEN, who, well, let's just say BLUE HADES are afraid of them) to
+making references to hacker culture (Slashdot, Linux, etc.).  The two
+books it reminded me the most of were Snow Crash and Cryptonomicon.
+Bob Howard goes straight from talking about computational demonology
+to complaining about Microsoft PowerPoint without pausing for
+breath---and it works.
+
+If you're a geek, you'll probably love this book.  There are so many
+references to modern geek culture and humor (when I was reading it in
+the kitchen, my dorm-mates commented that they'd never seen me
+laughing so hard).  At times, the cultural references were so specific
+and appropriate that I just stared and said, "I can't believe this
+book exists"---and I mean that in the best possible way.
+
+The main character is very much a geek: when confronting one of the
+primary villains, he stares him straight in the face---and makes a
+Slashdot reference (which is funny even if you don't get it, but
+absolutely hilarious if you do).  He also gets very nervous when
+people try to separate him from his electronics; after all, "to
+compute is to be."  Quoth Bob Howard, "Give me a bottle of Mountain
+Dew, an MP3 player hammering out something by VNV Nation, and a crate
+of Pringles, that's like being at home.  Give me root access on a
+hostile necromancer's server farm, and I *am* at home."
+
+If you're not a geek, however, you probably won't get many of the
+references in the book.  It's still worth reading, though, especially
+if you enjoyed the first book.  I would *not* recommend reading this
+book before the first.
+
+What parts didn't I like?  I did *not* like "Pimpf," the short story
+that accompanies the book (it takes place almost entirely within a
+Neverwinter Nights game---no, really).  I would almost recommend
+skipping the short story, especially if you have as much of a
+gut-level aversion to leet-speak as I do.  It is not, in my opinion,
+up to par with any other Bob Howard stories.  I believe it really
+overemphasizes the geek/gamer references while minimizing the
+spy/occult aspects that make the other stories so good.
+
+What would I recommend?  Read the first book and see if you like it.
+If you liked it, run, don't walk, and get ahold of "The Jennifer
+Morgue."  Seriously, go NOW.  It may be the most fun book you've read
+in a long time---it certainly was for me.
+
+NOTE: "The penny drops" is British slang for finally understanding
+something.  This will be relevant if you read this book.

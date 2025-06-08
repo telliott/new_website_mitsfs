@@ -1,0 +1,1462 @@
+{
+   "alternate" : [],
+   "box" : "16",
+   "grid" : "MONTH",
+   "name" : "Analog (UK)",
+   "years" : {
+      "1931" : [
+         {
+            "date" : "Feb",
+            "volume": "5",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "status" : "MISSING"
+         }
+      ],
+      "1935" : [
+         {
+            "date" : "May",
+            "status" : "MISSING"
+         }
+      ],
+      "1937" : [
+         {
+            "date" : "Apr",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "status" : "MISSING"
+         }
+      ],
+      "1938" : [
+         {
+            "date" : "Apr",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "status" : "MISSING"
+         }
+      ],
+      "1939" : [
+         {
+            "date" : "Jan",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "23",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "24",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "24",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "24",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "24",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1940" : [
+         {
+            "date" : "Jan",
+            "volume": "24",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "24",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "25",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "25",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "25",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "25",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "25",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "25",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "26",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "26",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "26",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "26",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Jan",
+            "volume": "26",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "26",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "27",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "27",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "27",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "27",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "27",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "28",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "28",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "28",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Jan",
+            "volume": "28",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "28",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "29",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "29",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "30",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1943" : [
+         {
+            "date" : "Jan",
+            "volume": "30",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "30",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "31",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "status" : "MISSING"
+         }
+      ],
+      "1944" : [
+         {
+            "date" : "Feb",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "status" : "MISSING"
+         }
+      ],
+      "1945" : [
+         {
+            "date" : "Feb",
+            "volume": "4",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "4",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "4",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "4",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "5",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1946" : [
+         {
+            "date" : "Jan",
+            "volume": "5",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "5",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "5",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "5",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "5",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "5",
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "1947" : [
+         {
+            "date" : "Jan",
+            "volume": "5",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "5",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "5",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "5",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "5",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "6",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1948" : [
+         {
+            "date" : "Feb",
+            "volume": "6",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "6",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "6",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "6",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "6",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "6",
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "1949" : [
+         {
+            "date" : "Feb",
+            "volume": "6",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "6",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "6",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "6",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "6",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1950" : [
+         {
+            "date" : "Jan",
+            "volume": "7",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "7",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "7",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "7",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "7",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "7",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "7",
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "1951" : [
+         {
+            "date" : "Feb",
+            "volume": "7",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "7",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "7",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "7",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "7",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "8",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1952" : [
+         {
+            "date" : "Feb",
+            "volume": "8",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "8",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "8",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "8",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "8",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "8",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "volume": "8",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "8",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "8",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "8",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "volume": "8",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1953" : [
+         {
+            "date" : "Jan",
+            "volume": "9",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "9",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "9",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "9",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "9",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "9",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "9",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "9",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "9",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "9",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "9",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "9",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1954" : [
+      	{
+            "date" : "Jan",
+            "volume": "10",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "10",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "10",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "10",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "10",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "10",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "10",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "10",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "10",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "10",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "10",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "10",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1955" : [
+         {
+            "date" : "Jan",
+            "volume": "11",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "11",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "11",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "11",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "11",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "11",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "11",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "11",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "11",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "11",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "11",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "11",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1956" : [
+         {
+            "date" : "Jan",
+            "volume": "12",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "12",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "12",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "12",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "12",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "12",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "12",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "12",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "12",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "12",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "12",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "12",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1957" : [
+         {
+            "date" : "Jan",
+            "volume": "13",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "13",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "13",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "13",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "13",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "13",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "13",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "13",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "13",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "13",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "13",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "13",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1958" : [
+         {
+            "date" : "Jan",
+            "volume": "14",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "14",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "14",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "14",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "14",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "14",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "14",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "14",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "14",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "14",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "14",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "14",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Jan",
+            "volume": "15",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "15",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "15",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "15",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "15",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "15",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "15",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "15",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "15",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "15",
+            "issue" : "10",
+            "status" : "MISSING"
+         }
+      ],
+      "1960" : [
+         {
+            "date" : "Jan",
+            "volume": "15",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "15",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "16",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "16",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "16",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "16",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "16",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "16",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "16",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "16",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "16",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "16",
+            "issue" : "10",
+            "status" : "MISSING"
+         }
+      ],
+      "1961" : [
+         {
+            "date" : "Jan",
+            "volume": "17",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "17",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "17",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "17",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "17",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "17",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "17",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "17",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "17",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "17",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "17",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "17",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1962" : [
+         {
+            "date" : "Jan",
+            "volume": "18",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "18",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "18",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "18",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "18",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "18",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "18",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "18",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "18",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "18",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "18",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "18",
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1963" : [
+         {
+            "date" : "Jan",
+            "volume": "19",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "volume": "19",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "volume": "19",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "volume": "19",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "volume": "19",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "volume": "19",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "volume": "19",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "volume": "19",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "volume": "72",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "volume": "72",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "volume": "72",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "volume": "72",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1964" : [
+         {
+            "date" : "Jan",
+            "volume": "72",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

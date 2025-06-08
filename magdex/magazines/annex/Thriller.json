@@ -1,0 +1,25 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "MONTH",
+   "name" : "Thriller",
+   "years" : {
+      "1962" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "May",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

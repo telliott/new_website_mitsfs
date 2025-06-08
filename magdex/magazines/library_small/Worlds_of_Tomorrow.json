@@ -1,0 +1,156 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Worlds of Tomorrow",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1963" : [
+         {
+            "date" : "Apr",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1964" : [
+         {
+            "date" : "Feb",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ],
+      "1965" : [
+         {
+            "date" : "Jan",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "16",
+            "status" : "BOUND"
+         }
+      ],
+      "1966" : [
+         {
+            "date" : "Jan",
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "19",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "21",
+            "status" : "BOUND"
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Feb",
+            "issue" : "22",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "23",
+            "status" : "BOUND"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "Summer",
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "25",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Spring",
+            "issue" : "26",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "alternate" : [],
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "box" : "2",
+   "grid" : "MONTH",
+   "name" : "Terror Australis",
+   "years" : {
+      "1988" : [
+         {
+            "date" : "Fall",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "ISSUES",
+   "name" : "Cthulhu-Tales of the Cthulhu Mythos",
+   "years" : {
+      "1976" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "3 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

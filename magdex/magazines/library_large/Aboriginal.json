@@ -1,0 +1,383 @@
+{
+	"name": "Aboriginal Science Fiction",
+	"alternate": [],
+	"grid": "MONTH",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+	"years": {
+		"1986": [
+			{
+				"volume": 1,
+				"issue": 1,
+				"date": "Oct",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 1,
+				"issue": 2,
+				"date": "Dec",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			}
+		],
+		"1987": [
+			{
+				"volume": 1,
+				"issue": 3,
+				"date": "Feb-Mar",
+				"status": "OWNED"
+			},
+			{
+				"volume": 1,
+				"issue": 4,
+				"date": "May-Jun",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 1,
+				"issue": 5,
+				"date": "Jul-Aug",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 1,
+				"issue": 6,
+				"date": "Sep-Oct",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 2,
+				"issue": 1,
+				"date": "Nov-Dec",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			}
+		],
+		"1988": [
+			{
+				"volume": 2,
+				"issue": 2,
+				"date": "Jan-Feb",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 2,
+				"issue": 3,
+				"date": "Mar-Apr",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 2,
+				"issue": 4,
+				"date": "May-Jun",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 2,
+				"issue": 5,
+				"date": "Sep-Oct",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 2,
+				"issue": 6,
+				"date": "Nov-Dec",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			}
+		],
+		"1989": [
+			{
+				"volume": 3,
+				"issue": 1,
+				"date": "Jan-Feb",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 3,
+				"issue": 2,
+				"date": "Mar-Apr",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 3,
+				"issue": 3,
+				"date": "May-Jun",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 3,
+				"issue": 4,
+				"date": "Jul-Aug",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 3,
+				"issue": 5,
+				"date": "Sep-Oct",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 3,
+				"issue": 6,
+				"date": "Nov-Dec",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			}
+		],
+		"1990": [
+			{
+				"volume": 4,
+				"issue": 1,
+				"date": "Jan-Feb",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 4,
+				"issue": 2,
+				"date": "Mar-Apr",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 4,
+				"issue": 3,
+				"date": "May-Jun",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 4,
+				"issue": 4,
+				"date": "Jul-Aug",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 4,
+				"issue": 5,
+				"date": "Sep-Oct",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 4,
+				"issue": 6,
+				"date": "Nov-Dec",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			}
+		],
+		"1991": [
+			{
+				"volume": 5,
+				"issue": 1,
+				"date": "Jan-Feb",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 5,
+				"issue": 2,
+				"date": "Mar-Apr",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 5,
+				"issue": 3,
+				"date": "May-Jun",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 5,
+				"issue": 4,
+				"date": "Jul-Aug",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 5,
+				"issue": 5,
+				"date": "Sep-Oct-Nov-Dec",
+				"status": "BOUND"
+			}
+		],
+		"1992": [
+			{
+				"volume": 6,
+				"issue": 1,
+				"date": "Summer",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 6,
+				"issue": 2,
+				"date": "Fall",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 6,
+				"issue": 3,
+				"date": "Winter",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			}
+		],
+		"1993": [
+			{
+				"volume": 6,
+				"issue": 4,
+				"date": "Spring",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 7,
+				"issue": 1,
+				"date": "Summer",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 7,
+				"issue": 2,
+				"date": "Fall",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 7,
+				"issue": 3,
+				"date": "Winter",
+				"status": "BOUND",
+				"location" : "LIBRARY"
+			}
+		],
+		"1994": [
+			{
+				"volume": 7,
+				"issue": 4,
+				"date": "Spring",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			}
+		],
+		"1996": [
+			{
+				"volume": 8,
+				"issue": 1,
+				"date": "Spring",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 8,
+				"issue": 2,
+				"date": "Summer",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 8,
+				"issue": 3,
+				"date": "Fall",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			}
+		],
+		"1997": [
+			{
+				"volume": 8,
+				"issue": 4,
+				"date": "Winter",
+				"status": "MISSING",
+				"location" : "LIBRARY"
+			}
+		],
+		"1998": [
+			{
+				"volume": 9,
+				"issue": 1,
+				"date": "Spring",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 9,
+				"issue": 2,
+				"date": "Summer",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 9,
+				"issue": 3,
+				"date": "Winter",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			}
+		],
+		"1999": [
+			{
+				"volume": 10,
+				"issue": 1,
+				"date": "Spring",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 10,
+				"issue": 2,
+				"date": "Fall",
+				"status": "MISSING",
+				"location" : "LIBRARY"
+			}
+		],
+		"2000": [
+			{
+				"volume": 11,
+				"issue": 1,
+				"date": "Spring",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			},
+			{
+				"volume": 11,
+				"issue": 2,
+				"date": "Summer",
+				"status": "MISSING",
+				"location" : "LIBRARY"
+			}
+		],
+		"2001": [
+			{
+				"volume": 12,
+				"issue": 1,
+				"date": "Spring",
+				"status": "OWNED",
+				"location" : "LIBRARY"
+			}
+		]
+	}
+}

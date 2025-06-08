@@ -1,0 +1,71 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Nth Degree",
+   "years" : {
+      "2002" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "2003" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED"
+         }
+      ],
+      "2004" : [
+         {
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "2005" : [
+         {
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "14 ",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

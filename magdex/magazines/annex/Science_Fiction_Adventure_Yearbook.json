@@ -1,0 +1,32 @@
+{
+   "alternate" : ["Science Fantasy"],
+   "box" : "14",
+   "grid" : "ISSUES",
+   "name" : "Science Fiction Adventure Yearbook",
+   "years" : {
+      "1970" : [
+         {
+            "issue" : "1 (Yearbook)",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1971" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

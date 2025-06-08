@@ -1,0 +1,53 @@
+{
+   "alternate" : [],
+   "box" : "15",
+   "grid" : "MONTH",
+    "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+  "name" : "Terra Incognita",
+   "years" : {
+      "1996" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1997" : [
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Winter",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

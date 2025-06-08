@@ -1,0 +1,71 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Science Wonder Stories",
+   "years" : {
+      "1929" : [
+         {
+            "date" : "Jun",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "1930" : [
+         {
+            "date" : "Jan",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "12",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "ISSUES",
+   "name" : "Futuristic Stories",
+   "years" : {
+      "1946" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

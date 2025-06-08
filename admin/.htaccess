@@ -1,0 +1,3 @@
+AllowOverride none
+Require all denied
+RedirectMatch 301 * /

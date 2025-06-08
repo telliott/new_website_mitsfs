@@ -1,0 +1,35 @@
+{
+   "alternate" : [],
+   "box" : "4",
+   "season_map": { "Winter": "Oct-Nov-Dec" },
+   "grid" : "MONTH",
+   "name" : "Unusual Stories",
+   "years" : {
+      "1933" : [
+         {
+            "date" : "Nov",
+            "issue" : "0",
+            "status" : "MISSING"
+         }
+      ],
+      "1934" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1935" : [
+         {
+            "date" : "May",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

@@ -1,0 +1,253 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Twilight Zine",
+   "years" : {
+      "1961" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1962" : [
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "1963" : [
+         {
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "11",
+            "status" : "BOUND"
+         }
+      ],
+      "1964" : [
+         {
+            "issue" : "12",
+            "status" : "BOUND"
+         }
+      ],
+      "1965" : [
+         {
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "15",
+            "status" : "BOUND"
+         }
+      ],
+      "1966" : [
+         {
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "19",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "20",
+            "status" : "BOUND"
+         }
+      ],
+      "1967" : [
+         {
+            "issue" : "21",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "22",
+            "status" : "BOUND"
+         }
+      ],
+      "1969" : [
+         {
+            "issue" : "23",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "25",
+            "status" : "BOUND"
+         }
+      ],
+      "1972" : [
+         {
+            "issue" : "26",
+            "status" : "BOUND"
+         }
+      ],
+      "1973" : [
+         {
+            "issue" : "27",
+            "status" : "BOUND"
+         }
+      ],
+      "1974" : [
+         {
+            "issue" : "28",
+            "status" : "BOUND"
+         }
+      ],
+      "1976" : [
+         {
+            "issue" : "29",
+            "status" : "BOUND"
+         }
+      ],
+      "1979" : [
+         {
+            "issue" : "30",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "31",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "32",
+            "status" : "BOUND"
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "33",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "Twenty Years",
+            "status" : "BOUND"
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "34",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "35",
+            "status" : "BOUND"
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "36",
+            "status" : "BOUND"
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "37",
+            "status" : "BOUND"
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "38",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "39",
+            "status" : "BOUND"
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "40",
+            "status" : "BOUND"
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "41",
+            "status" : "OWNED"
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "42",
+            "status" : "OWNED"
+         }
+      ],
+      "1994" : [
+         {
+            "issue" : "43",
+            "status" : "OWNED"
+         }
+      ],
+      "2000" : [
+         {
+            "issue" : "44",
+            "status" : "OWNED"
+         }
+      ],
+      "2001" : [
+         {
+            "issue" : "45",
+            "status" : "OWNED"
+         }
+      ],
+      "2005" : [
+         {
+            "issue" : "46",
+            "status" : "OWNED"
+         }
+      ],
+      "2007" : [
+         {
+            "issue" : "47",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

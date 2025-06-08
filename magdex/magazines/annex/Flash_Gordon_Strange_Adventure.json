@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "MONTH",
+   "name" : "Flash Gordon Strange Adventure",
+   "years" : {
+      "1936" : [
+         {
+            "date" : "Dec",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

@@ -1,0 +1,47 @@
+{
+   "alternate" : [],
+   "box" : "25",
+   "grid" : "ISSUES",
+   "name" : "Scienza Fantastica",
+   "years" : {
+      "1952" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : "1"
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : "1"
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : "1"
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : "1"
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : "2"
+         }
+      ]
+   }
+}

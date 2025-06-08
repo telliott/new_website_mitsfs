@@ -1,0 +1,97 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Galileo",
+   "years" : {
+      "1976" : [
+         {
+            "date" : "Jul",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1977" : [
+         {
+            "date" : "Apr",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ],
+      "1978" : [
+         {
+            "date" : "Jan",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ],
+      "1979" : [
+         {
+            "date" : "Jan",
+            "issue" : "11/12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "15",
+            "status" : "BOUND"
+         }
+      ],
+      "1980" : [
+         {
+            "date" : "Jan",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "17",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

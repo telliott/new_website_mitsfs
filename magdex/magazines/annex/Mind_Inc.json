@@ -1,0 +1,159 @@
+{
+   "alternate" : [],
+   "box" : "5",
+   "grid" : "MONTH",
+   "name" : "Mind Inc",
+   "years" : {
+      "1929" : [
+         {
+            "date" : "May",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1930" : [
+         {
+            "date" : "Jan",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "16",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "18",
+            "status" : "MISSING"
+         }
+      ],
+      "1931" : [
+         {
+            "date" : "Jan",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "21",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "26",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "27",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "28",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "29",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

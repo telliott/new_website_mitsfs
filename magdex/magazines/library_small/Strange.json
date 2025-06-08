@@ -1,0 +1,21 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Strange",
+   "years" : {
+      "1952" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

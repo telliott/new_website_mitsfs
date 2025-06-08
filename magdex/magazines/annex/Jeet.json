@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "box" : "2",
+   "grid" : "ISSUES",
+   "name" : "Jeet",
+   "years" : {
+      "1977" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "MONTH",
+   "name" : "Paragon",
+   "years" : {
+      "1980" : [
+         {
+            "date" : "May",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

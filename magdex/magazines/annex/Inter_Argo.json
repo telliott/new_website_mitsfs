@@ -1,0 +1,15 @@
+{
+   "alternate" : [],
+   "box" : "19",
+   "grid" : "ISSUES",
+   "name" : "Inter Argo",
+   "years" : {
+      "1983" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

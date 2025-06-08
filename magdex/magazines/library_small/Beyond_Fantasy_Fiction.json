@@ -1,0 +1,63 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Beyond Fantasy Fiction",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Jul",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "date" : "Jan",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "9",
+            "status" : "BOUND"
+         }
+      ],
+      "1955" : [
+         {
+            "date" : "Jan",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

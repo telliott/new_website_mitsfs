@@ -1,0 +1,55 @@
+{
+   "alternate" : [],
+   "box" : "17",
+   "grid" : "ISSUES",
+   "name" : "Shayol",
+   "years" : {
+      "1977" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1979" : [
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "7 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

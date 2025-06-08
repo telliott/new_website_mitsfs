@@ -1,0 +1,24 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Dream World",
+   "years" : {
+      "1957" : [
+         {
+            "date" : "Feb",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

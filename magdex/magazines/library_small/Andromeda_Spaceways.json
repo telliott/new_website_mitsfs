@@ -1,0 +1,441 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Andromeda Spaceways",
+   "years" : {
+      "2002" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "2003" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "10",
+            "status" : "OWNED"
+         }
+      ],
+      "2004" : [
+         {
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "13",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "14",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "15",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "16",
+            "status" : "OWNED"
+         }
+      ],
+      "2005" : [
+         {
+            "issue" : "17",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "18",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "21",
+            "status" : "MISSING"
+         }
+      ],
+      "2006" : [
+         {
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "26",
+            "status" : "MISSING"
+         }
+      ],
+      "2007" : [
+         {
+            "issue" : "27",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "29",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "30",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "31",
+            "status" : "MISSING"
+         }
+      ],
+      "2008" : [
+         {
+            "issue" : "32",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "33",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "34",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "36",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "37",
+            "status" : "MISSING"
+         }
+      ],
+      "2009" : [
+         {
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "39",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "40",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "41",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "42",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "43",
+            "status" : "MISSING"
+         }
+      ],
+      "2010" : [
+         {
+            "issue" : "44",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "45",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "46",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "47",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "48",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "49",
+            "status" : "MISSING"
+         }
+      ],
+      "2011" : [
+         {
+            "issue" : "50",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "51",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "52",
+            "status" : "MISSING"
+         }
+      ],
+      "2012" : [
+         {
+            "issue" : "53",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "54",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "55",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "56",
+            "status" : "MISSING"
+         }
+      ],
+      "2013" : [
+         {
+            "issue" : "57",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "58",
+            "status" : "MISSING"
+         }
+      ],
+      "2014" : [
+         {
+            "issue" : "59",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "60",
+            "status" : "MISSING"
+         }
+      ],
+      "2015" : [
+         {
+            "issue" : "61",
+            "status" : "MISSING"
+         }
+      ],
+      "2016" : [
+         {
+            "issue" : "62",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "63",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "64",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "65",
+            "status" : "MISSING"
+         }
+      ],
+      "2017" : [
+         {
+            "issue" : "66",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "67",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "68",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "69",
+            "status" : "MISSING"
+         }
+      ],
+      "2018" : [
+         {
+            "issue" : "70",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "71",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "72",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "73",
+            "status" : "MISSING"
+         }
+      ],
+      "2019" : [
+         {
+            "issue" : "74",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "75",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "76",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "77",
+            "status" : "MISSING"
+         }
+      ],
+      "2020" : [
+         {
+            "issue" : "78",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "79",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "80",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "81",
+            "status" : "MISSING"
+         }
+      ],
+      "2021" : [
+         {
+            "issue" : "82",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "83",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "84",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "85",
+            "status" : "MISSING"
+         }
+      ],
+      "2022" : [
+         {
+            "issue" : "86",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "87",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "88",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "89",
+            "status" : "MISSING"
+         }
+      ],
+      "2023" : [
+         {
+            "issue" : "90",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "91",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "92",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "93",
+            "status" : "MISSING"
+         }
+      ],
+      "2024" : [
+         {
+            "issue" : "94",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "95",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "96",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "97",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

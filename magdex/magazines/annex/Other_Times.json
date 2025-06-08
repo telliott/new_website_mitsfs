@@ -1,0 +1,22 @@
+{
+   "alternate" : [],
+   "box" : "15",
+   "grid" : "ISSUES",
+   "name" : "Other Times",
+   "years" : {
+      "1975" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1976" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

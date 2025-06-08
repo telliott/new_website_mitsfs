@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Space Science",
+   "season_map": { "Spring": "Apr-May-Jun"},
+   "years" : {
+      "1957" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,407 @@
+{
+   "alternate" : [],
+   "box" : "18",
+   "grid" : "MONTH",
+   "name" : "Amra",
+   "years" : {
+      "1954" : [
+         {
+            "date" : "Jun",
+            "issue" : "28",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "29",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "30",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "31",
+            "status" : "MISSING"
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1960" : [
+         {
+            "date" : "Jan",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "midApr",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "midSep",
+            "issue" : "13",
+            "status" : "MISSING"
+         }
+      ],
+      "1961" : [
+         {
+            "date" : "Jan",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "16",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "17",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "18",
+            "status" : "MISSING"
+         }
+      ],
+      "1962" : [
+         {
+            "date" : "Feb",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "21",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "22",
+            "status" : "MISSING"
+         }
+      ],
+      "1963" : [
+         {
+            "date" : "Jan",
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "26",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "27",
+            "status" : "MISSING"
+         }
+      ],
+      "1965" : [
+         {
+            "date" : "Mar",
+            "issue" : "32",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "33",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "34",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "35",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "36",
+            "status" : "MISSING"
+         }
+      ],
+      "1966" : [
+         {
+            "date" : "Jan",
+            "issue" : "37",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "39",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "40",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "41",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "42",
+            "status" : "MISSING"
+         }
+      ],
+      "1967" : [
+         {
+            "date" : "Mar",
+            "issue" : "43",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "44",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "45",
+            "status" : "MISSING"
+         }
+      ],
+      "1968" : [
+         {
+            "date" : "Apr",
+            "issue" : "46",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "47",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "midAug",
+            "issue" : "48",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "49",
+            "status" : "MISSING"
+         }
+      ],
+      "1969" : [
+         {
+            "date" : "May",
+            "issue" : "50",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "51",
+            "status" : "MISSING"
+         }
+      ],
+      "1970" : [
+         {
+            "date" : "Apr",
+            "issue" : "52",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "53",
+            "status" : "MISSING"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Apr",
+            "issue" : "54",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "55",
+            "status" : "MISSING"
+         }
+      ],
+      "1972" : [
+         {
+            "date" : "Jun",
+            "issue" : "56",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "midJun",
+            "issue" : "57",
+            "status" : "MISSING"
+         }
+      ],
+      "1973" : [
+         {
+            "date" : "Jan",
+            "issue" : "58",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "59",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "60",
+            "status" : "MISSING"
+         }
+      ],
+      "1974" : [
+         {
+            "date" : "Mar",
+            "issue" : "61",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "62",
+            "status" : "MISSING"
+         }
+      ],
+      "1975" : [
+         {
+            "date" : "Apr",
+            "issue" : "63",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "64",
+            "status" : "MISSING"
+         }
+      ],
+      "1976" : [
+         {
+            "date" : "Apr",
+            "issue" : "65",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "midApr",
+            "issue" : "66",
+            "status" : "MISSING"
+         }
+      ],
+      "1977" : [
+         {
+            "date" : "Feb",
+            "issue" : "67",
+            "status" : "MISSING"
+         }
+      ],
+      "1978" : [
+         {
+            "date" : "Jul",
+            "issue" : "68",
+            "status" : "MISSING"
+         }
+      ],
+      "1981" : [
+         {
+            "date" : "Jan",
+            "issue" : "69",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "70",
+            "status" : "OWNED"
+         }
+      ],
+      "1982" : [
+         {
+            "date" : "Jul",
+            "issue" : "71",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

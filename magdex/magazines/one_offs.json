@@ -1,0 +1,430 @@
+{
+    "issues": [
+        {
+            "name": "Adam Stag Humor",
+            "issue": "#4",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Air Ace",
+            "issue": "v2 #5",
+            "box": "22",
+            "note": ""
+        },
+        {
+            "name": "Alfred Hitchcock's Mystery Magazine",
+            "issue": "Dec 1967",
+            "box": "7",
+            "note": ""
+        },
+        {
+            "name": "Beyond",
+            "issue": "v2 #1",
+            "box": "19",
+            "note": ""
+        },
+        {
+            "name": "Bestseller Mystery",
+            "issue": "Mar 1959",
+            "box": "7",
+            "note": ""
+        },
+        {
+            "name": "Blue Book",
+            "issue": "Aug 1951",
+            "box": "24",
+            "note": ""
+        },
+        {
+            "name": "Blue Book",
+            "issue": "Sep 1951",
+            "box": "24",
+            "note": ""
+        },
+        {
+            "name": "Blue Book",
+            "issue": "Oct 1951",
+            "box": "24",
+            "note": ""
+        },
+        {
+            "name": "Century",
+            "issue": "Special Preview)",
+            "box": "19",
+            "note": ""
+        },
+        {
+            "name": "Cicada",
+            "issue": "Mar/Apr 2003",
+            "box": "17",
+            "note": "Bradbury"
+        },
+        {
+            "name": "Cinefex",
+            "issue": "#46",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Cinescape",
+            "issue": "Feb 1986",
+            "box": "19",
+            "note": ""
+        },
+        {
+            "name": "Doctor Who 20th Anniversary Special",
+            "issue": "1983",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Doctor Who Summer Special",
+            "issue": "1984",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Dragon",
+            "issue": "#218",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Dragon",
+            "issue": "#311",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Ellery Queen",
+            "issue": "Oct 1969",
+            "box": "18",
+            "note": ""
+        },
+        {
+            "name": "Ellery Queen",
+            "issue": "Jun 1973",
+            "box": "18",
+            "note": ""
+        },
+        {
+            "name": "Entertainment Weekly",
+            "issue": "Jan 1995",
+            "box": "14",
+            "note": "Star Trek Collectors Edition"
+        },
+        {
+            "name": "Exploring the Unknown",
+            "issue": "#47",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Exploring the Unknown",
+            "issue": "#48",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Exploring the Unknown",
+            "issue": "#55",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Fangoria",
+            "issue": "#2",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Flying Saucers",
+            "issue": "Jun 1957",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Flying Saucers",
+            "issue": "Dec 1968",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Flying Saucers",
+            "issue": "Jan 1964",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Flying Saucers",
+            "issue": "Nov 1961",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Harper's",
+            "issue": "Oct 1985",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Just Pulp",
+            "issue": "Spring 1980",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Just Pulp",
+            "issue": "Winter 1980",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Ka-Zar",
+            "issue": "Oct 1936",
+            "box": "19",
+            "note": "reprint"
+        },
+        {
+            "name": "Magical Blend",
+            "issue": "#5",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Media and Methods",
+            "issue": "Nov 1977",
+            "box": "14",
+            "note": "Star Wars"
+        },
+        {
+            "name": "Missouri Review",
+            "issue": "V7 #2 (1964)",
+            "box": "4",
+            "note": "SF issue"
+        },
+        {
+            "name": "Mystery Adventure",
+            "issue": "Oct 1936",
+            "box": "19",
+            "note": "reprint"
+        },
+        {
+            "name": "New Libertarian",
+            "issue": "#187",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Pig Iron",
+            "issue": "#10 (1982)",
+            "box": "6",
+            "note": ""
+        },
+        {
+            "name": "Pulphouse Fiction Spotlight",
+            "issue": "April 1992",
+            "box": "18",
+            "note": ""
+        },
+        {
+            "name": "Pulphouse Fiction Spotlight",
+            "issue": "July 1982",
+            "box": "22",
+            "note": ""
+        },
+        {
+            "name": "Pulpsmith",
+            "issue": "Fall 1981",
+            "box": "10",
+            "note": ""
+        },
+        {
+            "name": "Schoolgirls Picture Library",
+            "issue": "#314",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Science and Invention in Pictures",
+            "issue": "Aug 1924",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Science Digest",
+            "issue": "Aug 1968",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Science Digest",
+            "issue": "Oct 1968",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Science Fiction Times",
+            "issue": "Feb 1980",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Science Fiction Times",
+            "issue": "March 1980",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Science Fiction Times",
+            "issue": "Nov 1980",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Searcher",
+            "issue": "v3 #4",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Searcher",
+            "issue": "v3 #6",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Secret Agent X",
+            "issue": "v3 #1",
+            "box": "19",
+            "note": "reprint"
+        },
+        {
+            "name": "SFX",
+            "issue": "Oct 1996",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Short Stories",
+            "issue": "Sept 1950",
+            "box": "17",
+            "note": "Heinlein"
+        },
+        {
+            "name": "Short Story International",
+            "issue": "Summer 1965",
+            "box": "16",
+            "note": ""
+        },
+        {
+            "name": "Short Story International",
+            "issue": "Jan 1966",
+            "box": "16",
+            "note": ""
+        },
+        {
+            "name": "Skeptical Inquirer",
+            "issue": "v14 #4",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Skeptical Inquirer",
+            "issue": "v15 #1",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Skeptical Inquirer",
+            "issue": "v15 #2",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Soviet Literature",
+            "issue": "V431 #2 (1984)",
+            "box": "5",
+            "note": ""
+        },
+        {
+            "name": "Space Age",
+            "issue": "Nov 1958",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Space World",
+            "issue": "Jan 1961",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Space World",
+            "issue": "March 1961",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "Spectra/Pulse",
+            "issue": "Spring/Summer 2008",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Spicy Adventure Stories",
+            "issue": "Feb 1941",
+            "box": "19",
+            "note": "reprint"
+        },
+        {
+            "name": "Star Trek: Wrath of Khan Movie Magazine",
+            "issue": "1982",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Star Wars Insider",
+            "issue": "#69",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Starburst",
+            "issue": "#27",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Super-Detective",
+            "issue": "Feb 1941",
+            "box": "24",
+            "note": ""
+        },
+        {
+            "name": "Time",
+            "issue": "Fall 1992",
+            "box": "14",
+            "note": ""
+        },
+        {
+            "name": "Triquarterly",
+            "issue": "#49",
+            "box": "17",
+            "note": ""
+        },
+        {
+            "name": "TV Guide",
+            "issue": "Spring 1995",
+            "box": "14",
+            "note": "Star Trek"
+        },
+        {
+            "name": "Wild!",
+            "issue": "#2",
+            "box": "14",
+            "note": ""
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Most Thrilling SF Ever Told",
+   "years" : {
+      "1966" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1967" : [
+         {
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "7",
+            "status" : "OWNED"
+         }
+      ],
+      "1968" : [
+         {
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "13",
+            "status" : "OWNED"
+         }
+      ],
+      "1970" : [
+         {
+            "issue" : "18 ",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

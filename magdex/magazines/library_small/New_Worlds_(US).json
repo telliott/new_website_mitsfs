@@ -1,0 +1,34 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "New Worlds (US)",
+   "years" : {
+      "1960" : [
+         {
+            "date" : "Mar",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

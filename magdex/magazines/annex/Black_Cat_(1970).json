@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Black Cat (1970)",
+   "years" : {
+      "1970" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

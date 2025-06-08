@@ -1,0 +1,19 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Miracle",
+   "years" : {
+      "1931" : [
+         {
+            "date" : "Apr",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

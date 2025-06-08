@@ -1,0 +1,32 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "grid" : "MONTH",
+   "name" : "Monster Parade",
+   "years" : {
+      "1958" : [
+         {
+            "date" : "Sep",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Mar",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

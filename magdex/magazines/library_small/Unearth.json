@@ -1,0 +1,58 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Unearth",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+					},
+   "years" : {
+      "1977" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1978" : [
+         {
+            "date" : "Winter",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "7",
+            "status" : "BOUND"
+         }
+      ],
+      "1979" : [
+         {
+            "date" : "Winter",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

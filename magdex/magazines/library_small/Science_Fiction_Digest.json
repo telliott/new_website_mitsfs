@@ -1,0 +1,17 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Science Fiction Digest",
+   "years" : {
+      "1954" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "2 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

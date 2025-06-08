@@ -1,0 +1,29 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Cosmos (1977)",
+   "years" : {
+      "1977" : [
+         {
+            "date" : "May",
+            "issue" : "171",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "172",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "173",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "174",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

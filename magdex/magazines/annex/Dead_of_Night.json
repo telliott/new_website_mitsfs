@@ -1,0 +1,90 @@
+{
+   "alternate" : [],
+   "box" : "15",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Spring-Summer": "Jan-Feb-Mar-Apr-May-Jun",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Aug-Sep",
+					"Fall-Winter": "Jul-Aug-Sep-Oct-Nov-Dec",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Dead of Night",
+   "years" : {
+      "1989" : [
+         {
+            "date" : "Apr",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Spring",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ],
+      "1993" : [
+         {
+            "date" : "Spring-Summer",
+            "issue" : "7",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall-Winter",
+            "issue" : "8",
+            "status" : "OWNED"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Spring-Summer",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "10",
+            "status" : "MISSING"
+         }, 
+        {
+            "date" : "Winter",
+            "issue" : "11",
+            "status" : "MISSING"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Spring",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "13",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

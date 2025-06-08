@@ -1,0 +1,75 @@
+Title: Recursion
+Author: Ballantyne, Tony
+Year: 2006
+Publisher: Spectra
+Reviewer: Jake Beal
+Reviewed: 2007-08-26
+
+Mr. Ballantyne has an admirable scope of ambition, envisioning in
+"Recursion" a plausible future world and consequences of information
+technology much different and darker than other contemporaries like
+Doctorow or Banks.  Unfortunately, neither his knowledge of physics
+nor his storytelling abilities are quite up to the task.
+
+The first, I can forgive.  It's one of those icepick-to-the-forehead
+kind of things that gives me blinding pain every time I encounter it,
+but I can forgive it because it's not actually important, even though
+it's absolutely central to the story.  His problem, basically, is that
+he is blinded by the elegance of math.  
+
+See, a machine that can duplicate itself can replicate exponentially,
+and so all you need is one and a little while later you've got
+billions.  Only, if they're replicating really really fast, like they
+do in his story, then the speed at which they move becomes significant
+too.  So if you drop a teensy little duplicating bug down on a planet
+and come back a little while later, you'll find that it's increased
+quadratically or cubically, not exponentially, because only the
+surface of the swarm is exposed to fresh resources.  Likewise, if
+you're going to defeat a swarm of replicators by outgrowing them, a
+single one of your faster replicators is not sufficient, especially
+when you know that your enemy is able to blow shit up on a really
+dramatic scale and ought to just cauterize and have done with it.
+
+But the math is so compelling, so elegant, that Mr. Ballantyne
+(through his asshole semi-omniscient mouthpiece) prefers to lecture it
+to us instead of actually thinking it through himself.  Of course,
+since we have only his characters' word on what is happening for much
+of the book, maybe we shouldn't be believing them either, but I see no
+compelling reason to go down that rabbit-hole.  Like I said, however,
+this sin I can forgive, because every author gets to screw up their
+physics some if it makes their story work.
+
+What I cannot forgive is his failure to successfully weave three
+timelines together into one.  I didn't even realize what was going on
+at first, didn't remember the dateline at the top of chapter one so
+that when I got to chapter two and three I'd notice that they were
+different.  And the characters in the three stories are so different
+that I thought at first that they were each exposing a different
+aspect of this future society, rather than each exposing a different
+aspect of three different societies in different centuries.
+
+Then they each went into a different land of utter weirdness, and I
+figured, OK, let's see where Mr. Ballantyne is taking this.  And there
+were very interesting societal ideas mixed in, much less ham-handedly
+than usual when an author is making a Point.  But then they all just
+sort of kept on going.  By halfway through the book, I had determined
+the common theme that linked the three stories, but I still didn't see
+why I was reading all three of them at once, rather than each in turn.
+
+In the end they all technically joined up, but only in the least
+satisfying way possible.  In fact, it's so irrelevant that I will tell
+you without fear of a spoiler: the three main characters all turn out
+to be distant relations of one another.  Apparently in Mr. Ballantyne's 
+world, main character status is transmitted venereally.  There's
+certainly no other justification for pasting these three loosely
+related stories together this way.  Worse yet, by doing so he
+effectively spoils the first two stories completely: the big mystery
+in each is effectively solved by the very premise of the following
+story.  If he had simply packaged them as three novellas, in
+sequential order, I would have enjoyed it much more.
+
+All told, however, "Recursion" is a fairly reasonable attempt.  I have
+to admire his vision and ambition, and I enjoyed about one third of
+the novel---the first third of each story, before the connections
+between them became clear.  In the end, though, he just never managed
+to present to me a coherent enough story for me to care.

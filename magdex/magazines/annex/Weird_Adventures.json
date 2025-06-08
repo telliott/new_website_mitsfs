@@ -1,0 +1,20 @@
+{
+   "alternate" : [],
+   "box" : "1",
+   "grid" : "ISSUES",
+   "name" : "Weird Adventures",
+   "years" : {
+      "1978" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "2 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

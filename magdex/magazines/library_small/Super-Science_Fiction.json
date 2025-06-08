@@ -1,0 +1,105 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Super-Science Fiction",
+   "years" : {
+      "1956" : [
+         {
+            "date" : "Dec",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1957" : [
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "6",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "7",
+            "status" : "OWNED"
+         }
+      ],
+      "1958" : [
+         {
+            "date" : "Feb",
+            "issue" : "8",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "9",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "10",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "11",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "13",
+            "status" : "OWNED"
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Feb",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "18",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

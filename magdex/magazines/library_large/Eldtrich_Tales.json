@@ -1,0 +1,163 @@
+{
+   "alternate" : ["Dark Messenger Reader"],
+   "grid" : "ISSUES",
+   "name" : "Eldtrich Tales",
+   "years" : {
+      "1975" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1979" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING"
+         }
+      ],
+      "1980" : [
+         {
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "1981" : [
+         {
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1982" : [
+         {
+            "issue" : "8",
+            "status" : "MISSING"
+         }
+      ],
+      "1983" : [
+         {
+            "issue" : "9",
+            "status" : "MISSING"
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "10",
+            "status" : "MISSING"
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "11",
+            "status" : "MISSING"
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "12",
+            "status" : "MISSING"
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "14",
+            "status" : "BOUND"
+         }
+      ],
+      "1988" : [
+         {
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "17",
+            "status" : "BOUND"
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "19",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "21",
+            "status" : "BOUND"
+         }
+      ],
+      "1990" : [
+         {
+            "issue" : "22",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "23",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "24",
+            "status" : "BOUND"
+         }
+      ],
+      "1991" : [
+         {
+            "issue" : "25",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "26",
+            "status" : "BOUND"
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "27",
+            "status" : "BOUND"
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "28",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "29",
+            "status" : "BOUND"
+         }
+      ],
+      "1995" : [
+         {
+            "issue" : "30 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

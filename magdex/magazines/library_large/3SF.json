@@ -1,0 +1,26 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "3SF",
+   "years" : {
+      "2002" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

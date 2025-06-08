@@ -1,0 +1,48 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Strange Tales of Mystery and Terror",
+   "years" : {
+      "1931" : [
+         {
+            "date" : "Sep",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1932" : [
+         {
+            "date" : "Jan",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "5",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ],
+      "1933" : [
+         {
+            "date" : "Jan",
+            "issue" : "7",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "alternate" : ["Space Adventures (Classic)"],
+   "grid" : "MONTH",
+   "name" : "Space Adventures",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Winter2": "Oct-Nov-Dec"
+					},
+   "years" : {
+      "1970" : [
+         {
+            "date" : "Winter",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter2",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Spring",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "6",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

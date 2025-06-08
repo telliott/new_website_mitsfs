@@ -1,0 +1,19 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Avon Science Fiction Reader",
+   "years" : {
+      "1953" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

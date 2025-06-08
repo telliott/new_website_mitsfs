@@ -1,0 +1,55 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Air Wonder Stories",
+   "years" : {
+      "1929": [
+         {
+            "date" : "Jul",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "status" : "BOUND"
+         }
+      ],
+      "1930": [
+         {
+            "date" : "Jan",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Feb",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

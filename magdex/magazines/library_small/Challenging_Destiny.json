@@ -1,0 +1,154 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Challenging Destiny",
+   "years" : {
+      "1997" : [
+         {
+            "date" : "May",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Mar",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "3",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Jan",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "6",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "8",
+            "status" : "BOUND"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Apr",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "11",
+            "status" : "BOUND"
+         }
+      ],
+      "2001" : [
+         {
+            "date" : "Apr",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "13",
+            "status" : "BOUND"
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Jun",
+            "issue" : "14",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "15",
+            "status" : "BOUND"
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Jun",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "17",
+            "status" : "BOUND"
+         }
+      ],
+      "2004" : [
+         {
+            "date" : "Jul",
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "19",
+            "status" : "BOUND"
+         }
+      ],
+      "2005" : [
+         {
+            "date" : "May",
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "21",
+            "status" : "MISSING"
+         }
+      ],
+      "2006" : [
+         {
+            "date" : "Apr",
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "23",
+            "status" : "MISSING"
+         }
+      ],
+      "2007" : [
+         {
+            "date" : "Aug",
+            "issue" : "24",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "25",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

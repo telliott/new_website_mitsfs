@@ -1,0 +1,187 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Nebula",
+   "years" : {
+      "1952" : [
+         {
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1953" : [
+         {
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "6",
+            "status" : "BOUND"
+         }
+      ],
+      "1954" : [
+         {
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "10",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "11",
+            "status" : "BOUND"
+         }
+      ],
+      "1955" : [
+         {
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "14",
+            "status" : "BOUND"
+         }
+      ],
+      "1956" : [
+         {
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "17",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "19",
+            "status" : "BOUND"
+         }
+      ],
+      "1957" : [
+         {
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "21",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "22",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "23",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "25",
+            "status" : "BOUND"
+         }
+      ],
+      "1958" : [
+         {
+            "issue" : "26",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "27",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "28",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "29",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "30",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "31",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "32",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "33",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "34",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "35",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "36",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "37",
+            "status" : "BOUND"
+         }
+      ],
+      "1959" : [
+         {
+            "issue" : "38",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "39",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "40",
+            "status" : "BOUND"
+         },
+         {
+            "issue" : "41 ",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

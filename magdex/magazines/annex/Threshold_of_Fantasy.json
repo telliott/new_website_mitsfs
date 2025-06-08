@@ -1,0 +1,27 @@
+{
+   "alternate" : [],
+   "box" : "18",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "grid" : "MONTH",
+   "name" : "Threshold of Fantasy",
+   "years" : {
+      "1982" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1985" : [
+         {
+            "date" : "Winter",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

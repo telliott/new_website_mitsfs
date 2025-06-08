@@ -1,0 +1,41 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Aphelion",
+   "season_map": { "Fall": "Jan-Feb-Mar",
+					"Winter": "Apr-May-Jun",
+					"Spring": "Jul-Aug-Sep",
+					"Summer": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1985" : [
+         {
+            "date" : "Summer",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1986" : [
+         {
+            "date" : "Fall",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

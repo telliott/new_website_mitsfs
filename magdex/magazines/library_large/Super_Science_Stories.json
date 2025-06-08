@@ -1,0 +1,207 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Super Science Stories",
+   "years" : {
+      "1940" : [
+         {
+            "date" : "Mar",
+            "volume" : "1",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "volume" : "1",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "1",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "1",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "2",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Jan",
+            "volume" : "2",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "2",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "volume" : "2",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "volume" : "3",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "3",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Feb",
+            "volume" : "3",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "volume" : "3",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "volume" : "4",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "4",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1943" : [
+         {
+            "date" : "Feb",
+            "volume" : "4",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "volume" : "4",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ],
+      "1949" : [
+         {
+            "date" : "Jan",
+            "volume" : "5",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "volume" : "5",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "5",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "5",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "6",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1950" : [
+         {
+            "date" : "Jan",
+            "volume" : "6",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Mar",
+            "volume" : "6",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "May",
+            "volume" : "6",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "volume" : "7",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Sep",
+            "volume" : "7",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Nov",
+            "volume" : "7",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1951" : [
+         {
+            "date" : "Jan",
+            "volume" : "7",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "volume" : "8",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "volume" : "8",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "volume" : "8",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

@@ -1,0 +1,51 @@
+{
+   "alternate" : ["Shadows"],
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "box" : "17",
+   "grid" : "MONTH",
+   "name" : "Shadows Of",
+   "years" : {
+      "1979" : [
+         {
+            "date" : "Jun",
+            "issue" : "1",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1980" : [
+         {
+            "date" : "Aug",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1981" : [
+         {
+            "date" : "Feb",
+            "issue" : "4",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "5",
+            "status" : "OWNED"
+         }
+      ],
+      "1982" : [
+         {
+            "date" : "Spring",
+            "issue" : "6",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

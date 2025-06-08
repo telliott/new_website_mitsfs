@@ -1,0 +1,22 @@
+{
+   "alternate" : [],
+   "box" : "",
+   "grid" : "ISSUES",
+   "name" : "Tesseract",
+   "years" : {
+      "1977" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : "1"
+         }
+      ],
+      "1978" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : "2"
+         }
+      ]
+   }
+}

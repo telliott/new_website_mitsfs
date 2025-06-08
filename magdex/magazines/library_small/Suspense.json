@@ -1,0 +1,36 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "name" : "Suspense",
+   "years" : {
+      "1951" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "3",
+            "status" : "BOUND"
+         }
+      ],
+      "1952" : [
+         {
+            "date" : "Winter",
+            "issue" : "4",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

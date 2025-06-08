@@ -1,0 +1,106 @@
+{
+   "alternate" : ["Science Wonder Quarterly"],
+   "grid" : "MONTH",
+   "name" : "Wonder Stories Quarterly",
+    "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+  "years" : {
+      "1929" : [
+         {
+            "date" : "Fall",
+            "volume" : "1",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1930" : [
+         {
+            "date" : "Winter",
+            "volume" : "1",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "volume" : "1",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "volume" : "1",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "volume" : "2",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1931" : [
+         {
+            "date" : "Winter",
+            "volume" : "2",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "volume" : "2",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "volume" : "2",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "volume" : "3",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1932" : [
+         {
+            "date" : "Winter",
+            "volume" : "3",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "volume" : "3",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "volume" : "3",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "volume" : "4",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1933" : [
+         {
+            "date" : "Winter",
+            "volume" : "4",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

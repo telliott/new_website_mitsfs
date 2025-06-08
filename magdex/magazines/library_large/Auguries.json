@@ -1,0 +1,101 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Auguries",
+   "years" : {
+      "1983" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1985" : [
+         {
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ],
+      "1987" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING"
+         }
+      ],
+      "1988" : [
+         {
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING"
+         }
+      ],
+      "1989" : [
+         {
+            "issue" : "11",
+            "status" : "MISSING"
+         }
+      ],
+      "1990" : [
+         {
+            "issue" : "12",
+            "status" : "OWNED"
+         },
+         {
+            "issue" : "13",
+            "status" : "MISSING"
+         }
+      ],
+      "1991" : [
+         {
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "15",
+            "status" : "MISSING"
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ],
+      "1993" : [
+         {
+            "issue" : "17",
+            "status" : "MISSING"
+         }
+      ],
+      "1994" : [
+         {
+            "issue" : "18 ",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

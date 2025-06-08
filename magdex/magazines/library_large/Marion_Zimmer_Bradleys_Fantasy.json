@@ -1,0 +1,290 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Marion Zimmer Bradleys Fantasy",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Spring-Summer": "Apr-May-Jun-Jul-Aug-Sep",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec",
+					"Autumn": "Oct-Nov"
+	},
+   "years" : {
+      "1988" : [
+         {
+            "date" : "Summer",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1989" : [
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "5",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "6",
+            "status" : "BOUND"
+         }
+      ],
+      "1990" : [
+         {
+            "date" : "Winter",
+            "issue" : "7",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "8",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "9",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "10",
+            "status" : "BOUND"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Winter",
+            "issue" : "11",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "12",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "13",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "14",
+            "status" : "BOUND"
+         }
+      ],
+      "1992" : [
+         {
+            "date" : "Winter",
+            "issue" : "15",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring-Summer",
+            "issue" : "16",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "17",
+            "status" : "BOUND"
+         }
+      ],
+      "1993" : [
+         {
+            "date" : "Winter",
+            "issue" : "18",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "19",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "20",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "21",
+            "status" : "BOUND"
+         }
+      ],
+      "1994" : [
+         {
+            "date" : "Winter",
+            "issue" : "22",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "23",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "24",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "25",
+            "status" : "BOUND"
+         }
+      ],
+      "1995" : [
+         {
+            "date" : "Winter",
+            "issue" : "26",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "27",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "28",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "29",
+            "status" : "BOUND"
+         }
+      ],
+      "1996" : [
+         {
+            "date" : "Winter",
+            "issue" : "30",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "31",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "32",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "33",
+            "status" : "OWNED"
+         }
+      ],
+      "1997" : [
+         {
+            "date" : "Winter",
+            "issue" : "34",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "35",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "36",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "37",
+            "status" : "MISSING"
+         }
+      ],
+      "1998" : [
+         {
+            "date" : "Winter",
+            "issue" : "38",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "39",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "40",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "41",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "date" : "Winter",
+            "issue" : "42",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "43",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "44",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "45",
+            "status" : "MISSING"
+         }
+      ],
+      "2000" : [
+         {
+            "date" : "Winter",
+            "issue" : "46",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Spring",
+            "issue" : "47",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "48",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "49",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "50",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

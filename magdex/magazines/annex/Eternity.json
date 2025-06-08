@@ -1,0 +1,32 @@
+{
+   "alternate" : [],
+   "box": "9",
+   "grid" : "ISSUES",
+   "name" : "Eternity",
+   "years" : {
+      "1972" : [
+         {
+            "issue" : "1 ",
+            "status" : "OWNED"
+         }
+      ],
+      "1973" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1974" : [
+         {
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ],
+      "1975" : [
+         {
+            "issue" : "4 ",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

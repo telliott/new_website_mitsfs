@@ -1,0 +1,25 @@
+{
+   "alternate" : [],
+   "box" : "3",
+   "grid" : "ISSUES",
+   "name" : "Timewarp",
+   "years" : {
+      "1985" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3 ",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

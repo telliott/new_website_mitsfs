@@ -1,0 +1,85 @@
+{
+   "alternate" : [],
+   "box" : "23",
+   "grid" : "MONTH",
+   "name" : "Black Gate",
+   "season_map": { "Winter": "Jan-Feb-Mar",
+					"Spring": "Apr-May-Jun",
+					"Summer": "Jul-Aug-Sep",
+					"Fall": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "2001" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Summer",
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "2002" : [
+         {
+            "date" : "Winter",
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Summer",
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "2003" : [
+         {
+            "date" : "Spring",
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Fall",
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "2004" : [
+         {
+            "date" : "Fall",
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "2005" : [
+         {
+            "date" : "Summer",
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Fall",
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "2007" : [
+         {
+            "date" : "Spring",
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

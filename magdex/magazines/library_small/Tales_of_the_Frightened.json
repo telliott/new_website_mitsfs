@@ -1,0 +1,24 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "name" : "Tales of the Frightened",
+   "years" : {
+      "1957" : [
+         {
+            "date" : "Spring",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

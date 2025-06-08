@@ -1,0 +1,55 @@
+{
+   "alternate" : [],
+   "box" : "15",
+   "grid" : "ISSUES",
+   "name" : "Adventures of Sword and Sorcery",
+   "years" : {
+      "1995" : [
+         {
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1996" : [
+         {
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1997" : [
+         {
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1998" : [
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1999" : [
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "2000" : [
+         {
+            "issue" : "7 ",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}

@@ -1,0 +1,24 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Bizarre Fantasy Tales",
+   "season_map": { 
+   				"Fall": "Oct-Nov-Dec"
+	},
+   "years" : {
+      "1970" : [
+         {
+            "date" : "Fall",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Mar",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

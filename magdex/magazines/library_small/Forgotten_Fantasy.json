@@ -1,0 +1,36 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "Forgotten Fantasy",
+   "years" : {
+      "1970" : [
+         {
+            "date" : "Oct",
+            "issue" : "1",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "2",
+            "status" : "BOUND"
+         }
+      ],
+      "1971" : [
+         {
+            "date" : "Feb",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

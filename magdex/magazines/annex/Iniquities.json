@@ -1,0 +1,30 @@
+{
+   "alternate" : [],
+   "box" : "6",
+   "season_map": { "Spring": "Jan-Feb-Mar",
+					"Autumn": "Jul-Aug-Sep"
+	},
+   "grid" : "MONTH",
+   "name" : "Iniquities",
+   "years" : {
+      "1990" : [
+         {
+            "date" : "Autumn",
+            "issue" : "1",
+            "status" : "OWNED"
+         }
+      ],
+      "1991" : [
+         {
+            "date" : "Spring",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Autumn",
+            "issue" : "3",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}

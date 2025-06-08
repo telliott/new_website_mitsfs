@@ -1,0 +1,240 @@
+{
+   "alternate" : ["Unknown Worlds (UK)"],
+   "box" : "6",
+   "grid" : "MONTH",
+	"season_map": { "Spring": "Jan-Feb-Mar",
+					"Summer": "Apr-May-Jun",
+					"Fall": "Jul-Aug-Sep",
+					"Winter": "Oct-Nov-Dec"
+	},
+   "name" : "Unknown (UK)",
+   "years" : {
+      "1939" : [
+         {
+            "date" : "Sep",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "4",
+            "status" : "MISSING"
+         }
+      ],
+      "1940" : [
+         {
+            "date" : "Jan",
+            "issue" : "5",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "6",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "7",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "8",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "9",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "10",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "13",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "14",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "16",
+            "status" : "MISSING"
+         }
+      ],
+      "1941" : [
+         {
+            "date" : "Feb",
+            "issue" : "17",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "18",
+            "status" : "MISSING"
+         }
+      ],
+      "1942" : [
+         {
+            "date" : "Mar",
+            "issue" : "19",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "20",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "21",
+            "status" : "MISSING"
+         }
+      ],
+      "1943" : [
+         {
+            "date" : "Feb",
+            "issue" : "22",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "23",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "24",
+            "status" : "MISSING"
+         }
+      ],
+      "1944" : [
+         {
+            "date" : "Jan",
+            "issue" : "25",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "May",
+            "issue" : "26",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "27",
+            "status" : "MISSING"
+         }
+      ],
+      "1945" : [
+         {
+            "date" : "Spring",
+            "issue" : "28",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Fall",
+            "issue" : "29",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "30",
+            "status" : "MISSING"
+         }
+      ],
+      "1946" : [
+         {
+            "date" : "Summer",
+            "issue" : "31",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "32",
+            "status" : "MISSING"
+         }
+      ],
+      "1947" : [
+         {
+            "date" : "Spring",
+            "issue" : "33",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "34",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "35",
+            "status" : "MISSING"
+         }
+      ],
+      "1948" : [
+         {
+            "date" : "Spring",
+            "issue" : "36",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "37",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "38",
+            "status" : "MISSING"
+         }
+      ],
+      "1949" : [
+         {
+            "date" : "Spring",
+            "issue" : "39",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Summer",
+            "issue" : "40",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Winter",
+            "issue" : "41",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

@@ -1,0 +1,442 @@
+{
+   "alternate" : [],
+   "box" : "24",
+   "grid" : "MONTH",
+   "name" : "Galaxy (Italy)",
+   "years" : {
+      "1958" : [
+         {
+            "date" : "Jun",
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Jul",
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Aug",
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Sep",
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Oct",
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Nov",
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1959" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "OWNED",
+            "volume" : "2"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : "2"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "date" : "May",
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : "2"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : "2"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : "2"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : "2"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : "2"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : "2"
+         }
+      ],
+      "1960" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "BOUND",
+            "volume" : "3"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "BOUND",
+            "volume" : "3"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "BOUND",
+            "volume" : "3"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "BOUND",
+            "volume" : "3"
+         },
+         {
+            "date" : "May",
+            "issue" : "5",
+            "status" : "BOUND",
+            "volume" : "3"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "6",
+            "status" : "BOUND",
+            "volume" : "3"
+         },
+         {
+            "date" : "Jul-Aug",
+            "issue" : "7/8",
+            "status" : "BOUND",
+            "volume" : "3"
+         },
+         {
+            "date" : "Sep-Oct",
+            "issue" : "9/10",
+            "status" : "BOUND",
+            "volume" : "3"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "11",
+            "status" : "BOUND",
+            "volume" : "3"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "12",
+            "status" : "BOUND",
+            "volume" : "3"
+         }
+      ],
+      "1961" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : "4"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : "4"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : "4"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "OWNED",
+            "volume" : "4"
+         },
+         {
+            "date" : "May",
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : "4"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : "4"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "7",
+            "status" : "OWNED",
+            "volume" : "4"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "8",
+            "status" : "OWNED",
+            "volume" : "4"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "9",
+            "status" : "OWNED",
+            "volume" : "4"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : "4"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "11",
+            "status" : "OWNED",
+            "volume" : "4"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "12",
+            "status" : "OWNED",
+            "volume" : "4"
+         }
+      ],
+      "1962" : [
+         {
+            "date" : "Jan",
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : "5"
+         },
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "OWNED",
+            "volume" : "5"
+         },
+         {
+            "date" : "Mar",
+            "issue" : "3",
+            "status" : "OWNED",
+            "volume" : "5"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : "5"
+         },
+         {
+            "date" : "May",
+            "issue" : "5",
+            "status" : "OWNED",
+            "volume" : "5"
+         },
+         {
+            "date" : "Jun",
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : "5"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "7",
+            "status" : "BOUND",
+            "volume" : "5"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "8",
+            "status" : "BOUND",
+            "volume" : "5"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "9",
+            "status" : "BOUND",
+            "volume" : "5"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "10",
+            "status" : "BOUND",
+            "volume" : "5"
+         },
+         {
+            "date" : "Nov",
+            "issue" : "11",
+            "status" : "BOUND",
+            "volume" : "5"
+         },
+         {
+            "date" : "Dec",
+            "issue" : "12",
+            "status" : "BOUND",
+            "volume" : "5"
+         }
+      ],
+      "1963" : [
+         {
+            "date" : "Jan",
+            "issue" : "56",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Feb",
+            "issue" : "57",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Mar",
+            "issue" : "58",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr",
+            "issue" : "59",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "May",
+            "issue" : "60",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Jun",
+            "issue" : "61",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "date" : "Jul",
+            "issue" : "62",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Aug",
+            "issue" : "63",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Sep",
+            "issue" : "64",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Oct",
+            "issue" : "65",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Nov",
+            "issue" : "66",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "67",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ],
+      "1964" : [
+         {
+            "date" : "Jan",
+            "issue" : "68",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Feb",
+            "issue" : "69",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Mar",
+            "issue" : "70",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr",
+            "issue" : "71",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "May",
+            "issue" : "72",
+            "status" : "OWNED",
+            "volume" : ""
+         }
+      ]
+   }
+}

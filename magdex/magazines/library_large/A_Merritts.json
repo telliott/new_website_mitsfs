@@ -1,0 +1,36 @@
+{
+   "alternate" : [],
+   "grid" : "MONTH",
+   "name" : "A Merritts",
+   "years" : {
+      "1949" : [
+         {
+            "date" : "Dec",
+            "issue" : "1",
+            "status" : "BOUND"
+         }
+      ],
+      "1950" : [
+         {
+            "date" : "Feb",
+            "issue" : "2",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Apr",
+            "issue" : "3",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "4",
+            "status" : "BOUND"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "5",
+            "status" : "BOUND"
+         }
+      ]
+   }
+}

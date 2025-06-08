@@ -1,0 +1,35 @@
+{
+   "alternate" : [],
+   "box" : "3",
+   "grid" : "MONTH",
+   "name" : "Amazing Detective Tales",
+   "years" : {
+      "1930" : [
+         {
+            "date" : "Jun",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Jul",
+            "issue" : "2",
+            "status" : "OWNED"
+         },
+         {
+            "date" : "Aug",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Sep",
+            "issue" : "4",
+            "status" : "MISSING"
+         },
+         {
+            "date" : "Oct",
+            "issue" : "5",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}

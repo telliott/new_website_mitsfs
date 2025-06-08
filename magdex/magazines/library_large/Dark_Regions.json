@@ -1,0 +1,95 @@
+{
+   "alternate" : ["Year's Best Fantasy Fiction"],
+   "grid" : "ISSUES",
+   "name" : "Dark Regions",
+   "years" : {
+      "1986" : [
+         {
+            "volume" : "1",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1987" : [
+         {
+            "volume" : "1",
+            "issue" : "2",
+            "status" : "MISSING"
+         }
+      ],
+      "1989" : [
+         {
+            "volume" : "1",
+            "issue" : "3",
+            "status" : "MISSING"
+         }
+      ],
+      "1991" : [
+         {
+            "volume" : "1",
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1993" : [
+         {
+            "volume" : "2",
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1995" : [
+         {
+            "volume" : "3",
+            "issue" : "1",
+            "status" : "MISSING"
+         },
+         {
+            "volume" : "3",
+            "issue" : "2",
+            "status" : "OWNED"
+         }
+      ],
+      "1998" : [
+         {
+            "volume" : "3",
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING"
+         }
+      ],
+      "1999" : [
+         {
+            "issue" : "11",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "13",
+            "status" : "MISSING"
+         }
+      ],
+      "2000" : [
+         {
+            "issue" : "14 ",
+            "status" : "MISSING"
+         }
+      ],
+      "2001" : [
+         {
+            "issue" : "15",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "16 ",
+            "status" : "MISSING"
+         }
+      ]
+   }
+}
