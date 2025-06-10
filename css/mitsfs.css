@@ -116,6 +116,10 @@ div.footer {
     column-count: 3;
     column-gap: 20px;
 }
+.minutes .columns {
+    column-count: 5;
+}
+
 table.magazine th { padding: 15px; border: 1px solid black}
 table.magazine td { padding: 15px; border: 1px solid black}
 table.magazine td.missing { border: 1px solid red }
