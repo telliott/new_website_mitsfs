@@ -135,3 +135,6 @@ table.striped tbody tr:hover{ background-color:#ffd234 }
 /* reviews */ 
 .review-title { font-size: 24px; font-weight: bold }
 .review-reviewer { text-align: right; font-style: italic }
+
+/* minutes */
+.CENTER { text-align: center; font-size: 18px; font-weight: bold }

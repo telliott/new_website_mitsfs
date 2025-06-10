@@ -1,0 +1,27 @@
+Add latex minutes to the appropriate year folder here (if there's no folder here, create one).
+
+Check them into git!
+
+go into the admin folder and run: 
+
+python3 generate_minutes.py <year> 
+
+(you can leave off the year, but it'll reprocess everything, which will take a bit)
+
+
+
+
+
+
+
+Old instructions for posterity:
+
+To initialize a new year's minutes directory
+* mkdir /mit/mitsfs/minutes/$NEWYEAR
+* mkdir /mit/mitsfs/www/minutes/$NEWYEAR
+* cp /mit/mitsfs/minutes/$OLDYEAR/COPYING /mit/mitsfs/minutes/$NEWYEAR/
+* cp /mit/mitsfs/minutes/$OLDYEAR/format$OLDYEAR.tex /mit/mitsfs/minutes/$NEWYEAR/format$NEWYEAR.tex
+* cp /mit/mitsfs/minutes/$OLDYEAR/.latex2html-init /mit/mitsfs/minutes/$NEWYEAR/
+
+This should really be merged into the Onseck Rites at some point, but I'll leave that for 
+others to do.  -KR 6/18/10
