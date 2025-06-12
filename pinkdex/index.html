@@ -1,0 +1,139 @@
+<!DOCTYPE html>	
+<html lang="en">
+<head>
+<head>
+
+	<link rel="stylesheet" href="/css/mitsfs.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$("#nav-placeholder").load("/header.html")
+		})
+		$(document).ready(function() {
+			$("#footer-placeholder").load("/footer.html")
+		})
+		$(document).ready(function() {
+			$("#upcoming").load("/footer.html")
+		})
+	</script>
+	<style>td {padding: 15px;} th {padding: 15px;}</style>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+    <script type="text/javascript">
+    function htmlEncode(str) {
+        return str.replace(/&/g, '&amp;')
+                  .replace(/</g, '&lt;')
+                  .replace(/>/g, '&gt;')
+                  .replace(/"/g, '&quot;')
+                  .replace(/'/g, '&#39;'); 
+      }
+      const originalString = "<p>Hello, World!</p>";
+      const encodedString = htmlEncode(originalString);
+      
+      console.log(encodedString); // &lt;p&gt;Hello, World!&lt;/p&gt;
+      
+      function checkDexEntry(searchTerm, check, entry) {
+        
+        if (check && check.includes(searchTerm))
+            {           
+                return "<tr><td>"+htmlEncode(entry[0])+"</td><td>"+htmlEncode(entry[1])+"</td><td>"+htmlEncode(entry[2])+"</td><td>"+htmlEncode(entry[3])+"</td></tr>";
+            }
+        return ""
+      }
+    function searchDex(form) {
+        searchTerm = form.searchTerm.value.toUpperCase().trim();
+        
+        authorsResults="";
+        titleResults="";
+        seriesResults="";
+
+        if (searchTerm.length>1) {
+            dex.forEach(authorEntry => {
+                authorsResults+=checkDexEntry(searchTerm,authorEntry[0],authorEntry);
+            });
+            dex.forEach(titleEntry => {
+                titleResults+=checkDexEntry(searchTerm,titleEntry[1],titleEntry);
+            });
+            dex.forEach(seriesEntry => {
+                seriesResults+=checkDexEntry(searchTerm,seriesEntry[2],seriesEntry);
+            });
+        
+        
+            resultsHtml="<h3>Results in authors</h3>"
+            if (authorsResults=="")
+            {
+                resultsHtml+="<span>None</span>";
+            }
+            else
+            {
+                resultsHtml+="<table><tr><th>Author</th><th>Title</th><th>Series</th><th>Copies</th>"+authorsResults+"</table>"
+            }
+            resultsHtml+="<h3>Results in titles</h3>"
+            if (titleResults=="")
+            {
+                resultsHtml+="<span>None</span>";
+            }
+            else
+            {
+                resultsHtml+="<table><tr><th>Author</th><th>Title</th><th>Series</th><th>Copies</th>"+titleResults+"</table>"
+            }
+            resultsHtml+="<h3>Results in series</h3>"
+            if (seriesResults=="")
+            {
+                resultsHtml+="<span>None</span>";
+            }
+            else
+            {
+                resultsHtml+="<table><tr><th>Author</th><th>Title</th><th>Series</th><th>Copies</th>"+seriesResults+"</table>"
+            }
+        }
+        else
+        {
+            resultsHtml = "<div>Please enter at least two letters in the search box</div><br/>"
+        }
+        document.getElementById("searchResults").innerHTML=resultsHtml;
+    }
+
+    </script>
+
+    
+<script type="text/javascript">
+    dex = [];
+    window.onload= async function() {
+        const dexResponse = await fetch('/dexPlainText.txt');
+        const dexPlainText = await dexResponse.text();
+        const dexLines=dexPlainText.split("\n");
+        dexLines.forEach(dexLine => {
+            [author, title, series, copies] = dexLine.split('<');
+            if (author) {author=author.trim();}
+            if (title) {title=title.trim();}
+            if (series) {series=series.trim();}
+            if (copies) {copies=copies.trim();}
+            if (author || title || series || copies) {
+                dex.push([author.trim(), title.trim(), series.trim(), copies.trim()]);
+            }
+        });
+    }
+</script>
+</head>
+<body>
+  <div id="nav-placeholder"></div>   
+
+    <h1>MITSFS Pinkdex</h1>
+    <form action="javascript:void(0);" >
+        <label for="searchTerm">Search for:</label>
+        <input type="text" id="searchTerm" name="searchTerm" required size="40" onkeyup="searchDex(this.form)" />
+    </form>
+    <br/>
+    <div id="searchResults"></div>
+    <br/>
+    <div id="legend">Copies is a list of all copies we have by shelfcode.  L is "large books", basically hardcovers; S is "small books", mostly standard sized paperbacks; VL and XL are very-large and extra-large (things well beyond a normal hardco
+        ver size); -REF is a reference books; -CX is a comic/graphic novel.  A number after a shelfcode indicates that we have multiple copies of the book in that shelfcode.</div><br/>
+    <div>There is a map in the library of where to find each shelfcode.</div><br/>
+    <div>If you are wondering about the name, originally the indexes were painfully hand-typed by a member.  Due to her habit of wearing pink sweaters, she was nicknamed "Fuzzy Pink"; when we started having computerized indexes, the index became known as "Pinkdex" in her honor.</div>
+<div id="footer-placeholder"></div>
+</body>
