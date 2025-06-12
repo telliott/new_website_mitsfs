@@ -34,8 +34,10 @@ def output_year(year, notes):
 def intro():
 	return """<h1>Archive for MITSFS Friday meeting minutes</h1>
 
+<div class="minutes">
 <p> If you are really interested at what goes on at our meetings, you can read our latest minutes.</a> If you think those are a fluke and we've got to be more intelligible than that most of the time you can browse through some older minutes, but you're pretty much
 doomed.</p>
+
 """
 
 def is_first_relevant_line(line, date):
@@ -99,6 +101,7 @@ with open(root_directory + "/index.html", "w", encoding="utf-8") as f:
 	f.write (wrappers.head())
 	f.write(intro())
 	f.write(output_years(all_dates))
+	f.write("</div>")
 	f.write (wrappers.foot())
 
 shutil.rmtree("tmp")
