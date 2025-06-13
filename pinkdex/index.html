@@ -16,13 +16,6 @@
 			$("#upcoming").load("/footer.html")
 		})
 	</script>
-	<style>td {padding: 15px;} th {padding: 15px;}</style>
-    <style>
-        table, th, td {
-            border: 1px solid black;
-            border-collapse: collapse;
-        }
-    </style>
     <script type="text/javascript">
     function htmlEncode(str) {
         return str.replace(/&/g, '&amp;')
@@ -34,7 +27,7 @@
       const originalString = "<p>Hello, World!</p>";
       const encodedString = htmlEncode(originalString);
       
-      console.log(encodedString); // &lt;p&gt;Hello, World!&lt;/p&gt;
+      //console.log(encodedString);
       
       function checkDexEntry(searchTerm, check, entry) {
         
@@ -63,32 +56,32 @@
             });
         
         
-            resultsHtml="<h3>Results in authors</h3>"
+            resultsHtml="<p class=\"result-heading\">Results in Authors</p>"
             if (authorsResults=="")
             {
-                resultsHtml+="<span>None</span>";
+                resultsHtml+="<p class=\"noresult\">None</span>";
             }
             else
             {
-                resultsHtml+="<table><tr><th>Author</th><th>Title</th><th>Series</th><th>Copies</th>"+authorsResults+"</table>"
+                resultsHtml+="<table class=\"striped\"><tr><th>Author</th><th>Title</th><th>Series</th><th>Copies</th>"+authorsResults+"</table>"
             }
-            resultsHtml+="<h3>Results in titles</h3>"
+            resultsHtml+="<p class=\"result-heading\">Results in Titles</p>"
             if (titleResults=="")
             {
-                resultsHtml+="<span>None</span>";
+                resultsHtml+="<p class=\"noresult\">None</p>";
             }
             else
             {
-                resultsHtml+="<table><tr><th>Author</th><th>Title</th><th>Series</th><th>Copies</th>"+titleResults+"</table>"
+                resultsHtml+="<table class=\"striped\"><tr><th>Author</th><th>Title</th><th>Series</th><th>Copies</th>"+titleResults+"</table>"
             }
-            resultsHtml+="<h3>Results in series</h3>"
+            resultsHtml+="<p class=\"result-heading\">Results in Series</p>"
             if (seriesResults=="")
             {
-                resultsHtml+="<span>None</span>";
+                resultsHtml+="<p class=\"noresult\">None</p>";
             }
             else
             {
-                resultsHtml+="<table><tr><th>Author</th><th>Title</th><th>Series</th><th>Copies</th>"+seriesResults+"</table>"
+                resultsHtml+="<table class=\"striped\"><tr><th>Author</th><th>Title</th><th>Series</th><th>Copies</th>"+seriesResults+"</table>"
             }
         }
         else
@@ -104,7 +97,7 @@
 <script type="text/javascript">
     dex = [];
     window.onload= async function() {
-        const dexResponse = await fetch('/dexPlainText.txt');
+        const dexResponse = await fetch('/pinkdex/dexPlainText.txt');
         const dexPlainText = await dexResponse.text();
         const dexLines=dexPlainText.split("\n");
         dexLines.forEach(dexLine => {
@@ -132,9 +125,8 @@
     <br/>
     <div id="searchResults"></div>
     <br/>
-    <div id="legend">Copies is a list of all copies we have by shelfcode.  L is "large books", basically hardcovers; S is "small books", mostly standard sized paperbacks; VL and XL are very-large and extra-large (things well beyond a normal hardco
-        ver size); -REF is a reference books; -CX is a comic/graphic novel.  A number after a shelfcode indicates that we have multiple copies of the book in that shelfcode.</div><br/>
-    <div>There is a map in the library of where to find each shelfcode.</div><br/>
+    <div id="legend">Copies is a list of all copies we have by shelfcode.  L is "large books", basically hardcovers; S is "small books", mostly standard sized paperbacks; VL and XL are very-large and extra-large (things well beyond a normal hardcover size); -REF is a reference book; -CX is a comic/graphic novel. SR is Special Reserve (talk to a keyholder).  A number after a shelfcode indicates that we have multiple copies of the book in that shelfcode.</div><br/>
+    <!-- <div>There is a map in the library of where to find each shelfcode.</div><br/> -->
     <div>If you are wondering about the name, originally the indexes were painfully hand-typed by a member.  Due to her habit of wearing pink sweaters, she was nicknamed "Fuzzy Pink"; when we started having computerized indexes, the index became known as "Pinkdex" in her honor.</div>
 </div>
 <div id="footer-placeholder"></div>

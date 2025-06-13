@@ -135,10 +135,15 @@ table.striped ( table-layout:fixed; )
 table.striped tbody tr { line-height: 0; border-bottom: 1px solid #c2c0bf }
 table.striped tbody tr:nth-of-type(odd){ background-color: #ffdd67; }
 table.striped tbody tr:hover{ background-color:#ffd234 }
-
+table.striped td { padding: 0 15px; }
 /* reviews */ 
 .review-title { font-size: 24px; font-weight: bold }
 .review-reviewer { text-align: right; font-style: italic }
 
 /* minutes */
 .CENTER { text-align: center; font-size: 18px; font-weight: bold }
+
+/* pinkdex */
+
+p.result-heading {font-weight: bold; padding: 0 0 0 0; font-size: 18px }
+p.noresult { font-style: italic }
