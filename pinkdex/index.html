@@ -97,7 +97,7 @@
 <script type="text/javascript">
     dex = [];
     window.onload= async function() {
-        const dexResponse = await fetch('/pinkdex/dexPlainText.txt');
+        const dexResponse = await fetch('/admin/dex.txt');
         const dexPlainText = await dexResponse.text();
         const dexLines=dexPlainText.split("\n");
         dexLines.forEach(dexLine => {
