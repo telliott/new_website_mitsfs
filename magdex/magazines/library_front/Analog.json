@@ -4388,7 +4388,7 @@
          },
          {
             "date" : "Sep-Oct",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Nov-Dec",
@@ -4398,7 +4398,7 @@
       "2023": [
          {
             "date" : "Jan-Feb",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Mar-Apr",
