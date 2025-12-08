@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" href="/css/mitsfs.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$("#nav-placeholder").load("/header.html")
+		})
+		$(document).ready(function() {
+			$("#footer-placeholder").load("/footer.html")
+		})
+	</script>
+</head>
+<body>
+	<div id="nav-placeholder"></div>   
+
+<div class="main">
+	<h1>Shelfcodes</h1>     
+	<div class="main-left">
+<p>A shelfcode is used to describe the type of book in the library, and which section it can be found in. They consist of three optional parts, always in the same order. The three parts are:<p>
+
+<p><b>[circulation status/][size-][type]</b></p>
+
+<p>The separation characters are omitted if that section is omitted<p>
+
+<table class="striped">
+<thead>
+<tr><th colspan=2 align=left>Circulation status:</th></tr></thead>
+<tbody>
+<tr>
+	<td>SR</td>
+	<td>Special Reserve. These books cannot be taken out of the library and can only be read with a keyholder present or with Skinnerial permission.</td>
+</tr>
+<tr>	
+	<td>R</td>
+	<td>Reserve. These books do not circulate outside the library and cannot be checked out</td>
+</tr>
+<tr>	
+	<td>(none)</td>
+	<td>Books without a / prefix are available to be checked out by members.</td>
+</tr>
+</tbody>
+</table>
+<p/>
+<table class="striped">
+<thead>
+<tr><th colspan=2 align=left>Size:</th></tr></thead>
+<tbody>
+<tr>
+	<td>S</td>
+	<td>Small books up to 8 inches in height. Generally mass-market paperbacks.</td>
+</tr>
+<tr>	
+	<td>L</td>
+	<td>Large books up to 11 inches in height. Generally mass-market hardcovers.</td>
+</tr>
+<tr>	
+	<td>VL</td>
+	<td>Very large books up to 12 inches in height. Often reference or art books.</td>
+</tr>
+<tr>	
+	<td>XL</td>
+	<td>eXtra large books bigger then 12 inches in height. Coffee table books.</td>
+</tr>
+<tr>	
+	<td>F</td>
+	<td>Foreign books. These can be S or L. Foreign books larger than that are kept with the English version</td>
+</tr>
+<tr>	
+	<td>(none)</td>
+	<td>A section of books that can be any size</td>
+</tr>
+</tbody>
+</table>
+<p/>
+<table class="striped">
+<thead>
+<tr><th colspan=2 align=left>Type:</th></tr></thead>
+<tbody>
+<tr>	
+	<td>(none)</td>
+	<td>Fiction. This is the default value if only a size is present</td>
+</tr>
+<tr>
+	<td>A</td>
+	<td>Anthologies</td>
+</tr>
+<tr>
+	<td>ART</td>
+	<td>Art books</td>
+</tr>
+<tr>
+	<td>ARTIFACT</td>
+	<td>Weird non-book stuff that doesn't really belong anywhere else</td>
+</tr>
+<tr>
+	<td>B</td>
+	<td>Booklets. Small chapbooks, mostly dating from the 50s.</td>
+</tr>
+<tr>
+	<td>BLB</td>
+	<td>Big Little Books. Very small (physically) books that were marketed to children.</td>
+</tr>
+<tr>
+	<td>CAL</td>
+	<td>Calendars</td>
+</tr>
+<tr>
+	<td>CX</td>
+	<td>Comics</td>
+</tr>
+<tr>
+	<td>DICT</td>
+	<td>Dictionaries</td>
+</tr>
+<tr>
+	<td>IND<br/>INDF</td>
+	<td>Indexes (to fandom, etc). INDF is a folder of unbound pages</td>
+</tr>
+<tr>
+	<td>MM</td>
+	<td>Multimedia, including cassettes, CDs, DVDs, games, etc.</td>
+</tr>
+<tr>	
+<tr>
+	<td>REF</td>
+	<td>Reference books</td>
+</tr>
+<tr>
+	<td>SCRIPT</td>
+	<td>Scripts</td>
+</tr>
+<tr>
+	<td>X</td>
+	<td>Adult. Keep locked away from the kids</td>
+</tr>
+<tr>
+	<td>V</td>
+	<td>Valuable. First editions, misprints, very old stuff.</td>
+</tr>
+
+<tr>
+<td>AD<br/>BD<br/>BS<br/>D<br/>BS<br/>ERD<br/>GN<br/>GRD<br/>GZD<br/>MB<br/>OVD<br/>TD</td>
+	<td>Doubles. These were popular in the 60s mostly where they stuck two books together by two different authors and you flipped the book over to get the other title. They are a giant pain in the dex and, happily, not really published any more. All the different shelfcodes represent the different publishers of these.</td>
+</tr>
+<tr>	
+<td>DEU<br/>FRA<br/>ITA<br/>JPN<br/>KOR<br/>LAT<br/>MISC<br/>NLD<br/>POL<br/>POR<br/>RUS<br/>SPA<br/>TLH<br/>ZHO</td>
+	<td>Foreign subcategories. Most of them are obvious what country they are. LAT is Latin. TLH is Klingon. MISC is any language for which we only have one book in that language.</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+	<div class="main-right">
+		<h3>Supported Shelfcodes</h3>
+		<p/>
+		<table class="striped">
+		<thead>
+			<tr>
+				<th>Code</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>AD</td>
+				<td>Ace Double</td>
+			</tr>
+			<tr>
+				<td>BS</td>
+				<td>Binary Star</td>
+			</tr>
+			<tr>
+				<td>F-DEU</td>
+				<td>Foreign: German</td>
+			</tr>
+			<tr>
+				<td>F-FRA</td>
+				<td>Foreign: French</td>
+			</tr>
+			<tr>
+				<td>F-ITA</td>
+				<td>Foreign: Italian</td>
+			</tr>
+			<tr>
+				<td>F-JPN</td>
+				<td>Foreign: Japanese</td>
+			</tr>
+			<tr>
+				<td>F-KOR</td>
+				<td>Foreign: Korean</td>
+			</tr>
+			<tr>
+				<td>F-LAT</td>
+				<td>Foreign: Latin</td>
+			</tr>
+			<tr>
+				<td>F-MISC</td>
+				<td>Foreign: Czech</td>
+			</tr>
+			<tr>
+				<td>F-NLD</td>
+				<td>Foreign: Dutch</td>
+			</tr>
+			<tr>
+				<td>F-POL</td>
+				<td>Foreign: Polish</td>
+			</tr>
+			<tr>
+				<td>F-POR</td>
+				<td>Foreign: Portugese</td>
+			</tr>
+			<tr>
+				<td>F-RUS</td>
+				<td>Foreign: Russian</td>
+			</tr>
+			<tr>
+				<td>F-SPA</td>
+				<td>Foreign: Spanish</td>
+			</tr>
+			<tr>
+				<td>F-TLH</td>
+				<td>Foreign: Klingon</td>
+			</tr>
+			<tr>
+				<td>F-ZHO</td>
+				<td>Foreign: Chinese</td>
+			</tr>
+			<tr>
+				<td>L</td>
+				<td>Large Fiction</td>
+			</tr>
+			<tr>
+				<td>L-A</td>
+				<td>Large Anthology</td>
+			</tr>
+			<tr>
+				<td>L-CX</td>
+				<td>Large Comic</td>
+			</tr>
+			<tr>
+				<td>L-REF</td>
+				<td>Large Reference</td>
+			</tr>
+			<tr>
+				<td>MM</td>
+				<td>Mixed Media</td>
+			</tr>
+			<tr>
+				<td>R/ARTIFACT</td>
+				<td>Technological Artifacts of the Lower Holocene</td>
+			</tr>
+			<tr>
+				<td>R/BD</td>
+				<td>Reserve Booklet Double</td>
+			</tr>
+			<tr>
+				<td>R/BS</td>
+				<td>Reserve Binary Star</td>
+			</tr>
+			<tr>
+				<td>R/CAL</td>
+				<td>Reserve Calendar</td>
+			</tr>
+			<tr>
+				<td>R/D</td>
+				<td>Reserve Ace Double</td>
+			</tr>
+			<tr>
+				<td>R/DICT</td>
+				<td>Reserve Dictionary</td>
+			</tr>
+			<tr>
+				<td>R/ERD</td>
+				<td>Reserve Eraserhead Double</td>
+			</tr>
+			<tr>
+				<td>R/GRD</td>
+				<td>Reserve Gryphon Double</td>
+			</tr>
+			<tr>
+				<td>R/GZD</td>
+				<td>Reserve Gollancz Double</td>
+			</tr>
+			<tr>
+				<td>R/IND</td>
+				<td>Reserve Index</td>
+			</tr>
+			<tr>
+				<td>R/INDF</td>
+				<td>Reserve Index Folder</td>
+			</tr>
+			<tr>
+				<td>R/L-ART</td>
+				<td>Reserve Large Art</td>
+			</tr>
+			<tr>
+				<td>R/L-REF</td>
+				<td>Reserve Large Reference</td>
+			</tr>
+			<tr>
+				<td>R/MB</td>
+				<td>Reserve Millenium Binary</td>
+			</tr>
+			<tr>
+				<td>R/MM</td>
+				<td>Reserve Multimedia</td>
+			</tr>
+			<tr>
+				<td>R/OVD</td>
+				<td>Reserve Ocean View Double</td>
+			</tr>
+			<tr>
+				<td>R/TD</td>
+				<td>Reserve Tor Double</td>
+			</tr>
+			<tr>
+				<td>R/VL</td>
+				<td>Reserve Very Large Fiction</td>
+			</tr>
+			<tr>
+				<td>R/VL-A</td>
+				<td>Reserve Very Large Anthology</td>
+			</tr>
+			<tr>
+				<td>R/VL-ART</td>
+				<td>Reserve Very Large Art</td>
+			</tr>
+			<tr>
+				<td>R/VL-CX</td>
+				<td>Reserve Very Large Comic</td>
+			</tr>
+			<tr>
+				<td>R/VL-REF</td>
+				<td>Reserve Very Large Reference</td>
+			</tr>
+			<tr>
+				<td>R/XL</td>
+				<td>Reserve Even Bigger Fiction</td>
+			</tr>
+			<tr>
+				<td>R/XL-ART</td>
+				<td>Reserve Even Bigger Art</td>
+			</tr>
+			<tr>
+				<td>R/XL-CX</td>
+				<td>Reserve Even Bigger Comic</td>
+			</tr>
+			<tr>
+				<td>R/XL-REF</td>
+				<td>Reserve Even Bigger Reference</td>
+			</tr>
+			<tr>
+				<td>S</td>
+				<td>Small Fiction</td>
+			</tr>
+			<tr>
+				<td>S-A</td>
+				<td>Small Anthology</td>
+			</tr>
+			<tr>
+				<td>S-CX</td>
+				<td>Small Comic</td>
+			</tr>
+			<tr>
+				<td>S-REF</td>
+				<td>Small Reference</td>
+			</tr>
+			<tr>
+				<td>SR/B</td>
+				<td>Special Reserve Booklet</td>
+			</tr>
+			<tr>
+				<td>SR/BLB</td>
+				<td>Special Reserve Big Little Book</td>
+			</tr>
+			<tr>
+				<td>SR/D</td>
+				<td>Special Reserve Ace Double</td>
+			</tr>
+			<tr>
+				<td>SR/GN</td>
+				<td>Special Reserve Galaxy Novel</td>
+			</tr>
+			<tr>
+				<td>SR/IND</td>
+				<td>Special Reserve Index</td>
+			</tr>
+			<tr>
+				<td>SR/L</td>
+				<td>Special Reserve Large Fiction</td>
+			</tr>
+			<tr>
+				<td>SR/L-A</td>
+				<td>Special Reserve Large Anthology</td>
+			</tr>
+			<tr>
+				<td>SR/MM</td>
+				<td>Special Reserve Mixed Media</td>
+			</tr>
+			<tr>
+				<td>SR/S</td>
+				<td>Special Reserve Small Fiction</td>
+			</tr>
+			<tr>
+				<td>SR/S-A</td>
+				<td>Special Reserve Small Anthology</td>
+			</tr>
+			<tr>
+				<td>SR/SCRIPT</td>
+				<td>Special Reserve Script</td>
+			</tr>
+			<tr>
+				<td>SR/V</td>
+				<td>Special Reserve Valuable</td>
+			</tr>
+			<tr>
+				<td>SR/VL</td>
+				<td>Special Reserve Very Large Fiction</td>
+			</tr>
+			<tr>
+				<td>SR/VL-A</td>
+				<td>Special Reserve Very Large Anthology</td>
+			</tr>
+			<tr>
+				<td>SR/X</td>
+				<td>Special Reserve Adult</td>
+			</tr>
+			<tr>
+				<td>TD</td>
+				<td>Tor Double</td>
+			</tr>
+			<tr>
+				<td>VL</td>
+				<td>Very Large Fiction</td>
+			</tr>
+			<tr>
+				<td>VL-A</td>
+				<td>Very Large Anthology</td>
+			</tr>
+			<tr>
+				<td>VL-CX</td>
+				<td>Very Large Comic</td>
+			</tr>
+			<tr>
+				<td>VL-REF</td>
+				<td>Very Large Reference</td>
+			</tr>
+			<tr>
+				<td>XL-REF</td>
+				<td>Even Bigger Reference</td>
+			</tr>
+		</tbody>
+		</table>
+	</div>
+
+</div>
+
+
+</div>
+<div id="footer-placeholder"></div>
+	</body>
+</html>
