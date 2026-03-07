@@ -170,7 +170,7 @@
         },
         {
             "name": "Frank Reade Library",
-            "issue": "V2 $44 (Oct 1892)",
+            "issue": "V2 #44 (Oct 1892)",
             "box": "20",
             "note": ""
         },
@@ -179,6 +179,12 @@
             "issue": "#1 (Oct 1902)",
             "box": "20",
             "note": ""
+        },
+        {
+            "name": "Gameinformer",
+            "issue": "#261 (Jan 2015)",
+            "box": "14",
+            "note": "sf issue"
         },
         {
             "name": "Harper's",
@@ -239,6 +245,12 @@
             "issue": "#187",
             "box": "17",
             "note": ""
+        },
+        {
+            "name": "New Moon",
+            "issue": "v13 #4 (March/April 2006)",
+            "box": "15",
+            "note": "Fantasies and Fairy Tales"
         },
         {
             "name": "Pig Iron",
